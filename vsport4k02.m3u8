@@ -1,0 +1,6 @@
+#EXTM3U
+#Expire Oct 2 2025
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://line.linehunt.org:80/play/live.php?mac=00:1A:79:16:5F:BF&stream=1749221&extension=m3u8
+

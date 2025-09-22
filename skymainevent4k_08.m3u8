@@ -1,0 +1,5 @@
+#EXTM3U
+#Expire November 30, 2025
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://media-ott.vip:80/play/live.php?mac=00:1B:79:33:41:FC&stream=1608071&extension=m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#Expire April 2, 2026
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://honeywatch.net:80/play/live.php?mac=00:1A:79:25:5F:F0&stream=1595637&extension=m3u8

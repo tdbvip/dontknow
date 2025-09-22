@@ -1,0 +1,5 @@
+#EXTM3U
+#Expire Nov 4 2025
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=827981&extension=m3u8

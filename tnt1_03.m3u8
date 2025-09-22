@@ -1,0 +1,5 @@
+#EXTM3U
+#Expire Nov 24 2025
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://one.d4k4u.com:80/play/live.php?mac=00:1A:79:c1:c7:2a&stream=303270&extension=m3u8

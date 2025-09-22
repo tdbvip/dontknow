@@ -1,0 +1,6 @@
+#EXTM3U
+#Expire ฟื 21 2026
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://hometv.xyz:80/play/live.php?mac=00:1A:79:31:66:65&stream=1608071&extension=m3u8
+
