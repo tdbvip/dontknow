@@ -1,5 +1,5 @@
 #EXTM3U
-#Expire April 10, 2026
+#Expire Mar 12 2026
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=30567&extension=m3u8
+http://royalibox.com:80/play/live.php?mac=00:1A:79:8A:EC:21&stream=303270&extension=m3u8
