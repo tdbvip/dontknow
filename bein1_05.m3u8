@@ -1,0 +1,5 @@
+#EXTM3U
+#Expire Mar 12 2026
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://royalibox.com:80/play/live.php?mac=00:1A:79:8A:EC:21&stream=73973&extension=m3u8
