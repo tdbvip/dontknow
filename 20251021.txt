@@ -1,0 +1,453 @@
+http://one.dream4ktv.biz:80/c/
+00:1A:79:ae:bf:73   Active   January 8, 2026, 6:30 pm
+00:1A:79:23:7f:2c   Active   April 8, 2026, 1:50 pm
+00:1A:79:05:5a:f1   Active   March 26, 2026, 9:36 pm
+00:1A:79:b5:4f:57   Active   January 1, 2026, 5:25 am
+00:1A:79:2e:c3:e5   Active   March 19, 2026, 1:24 pm
+00:1A:79:ab:0b:27   Active   April 22, 2026, 10:37 am
+00:1A:79:0e:27:1f   Active   April 28, 2026, 10:28 pm
+00:1A:79:df:1d:36   Active   June 14, 2026, 7:21 pm
+00:1A:79:8b:b5:38   Active   April 1, 2026, 5:27 pm
+00:1A:79:d2:27:d7   Active   June 8, 2026, 12:00 am
+00:1A:79:02:e3:df   Active   September 9, 2026, 2:52 pm
+00:1A:79:ba:a9:f3   Active   March 1, 2026, 6:30 pm
+00:1A:79:c6:ab:83   Active   January 12, 2026, 1:26 pm
+00:1A:79:7c:c1:ae   Active   April 1, 2026, 1:53 am
+00:1A:79:b9:cb:22   Active   September 9, 2026, 11:36 am
+00:1A:79:90:16:80   Active   February 8, 2026, 9:50 pm
+00:1A:79:a0:ae:56   Active   September 9, 2026, 10:40 am
+00:1A:79:3c:2b:b5   Active   April 6, 2026, 10:55 pm
+00:1A:79:c4:28:f4   Active   April 11, 2026, 11:18 am
+00:1A:79:18:b7:a3   Active   March 6, 2026, 2:37 pm
+00:1A:79:67:a8:da   Active   January 8, 2026, 10:44 pm
+00:1A:79:8e:89:47   Active   March 4, 2026, 1:00 am
+00:1A:79:46:56:6c   Active   February 21, 2026, 11:54 am
+00:1A:79:23:93:0c   Active   March 15, 2026, 12:00 am
+00:1A:79:a9:ea:2e   Active   January 9, 2026, 12:00 am
+
+
+http://xp1.tv/c/h
+00:1A:79:CF:34:20 | Channels: 3483 | Expiry: October 5, 2026, 11:38 am
+00:1A:79:BF:A6:0C | Channels: 4578 | Expiry: October 3, 2026, 9:47 pm
+00:1A:79:64:DB:91 | Channels: 4578 | Expiry: August 9, 2026, 3:57 pm
+00:1A:79:AC:D2:BE | Channels: 4578 | Expiry: May 2, 2026, 8:40 pm
+00:1A:79:BD:6F:ED | Channels: 4578 | Expiry: April 8, 2026, 6:18 pm
+00:1A:79:C2:0F:33 | Channels: 4498 | Expiry: March 18, 2026, 12:47 pm
+00:1A:79:54:0C:D3 | Channels: 2636 | Expiry: March 14, 2026, 11:12 am
+00:1A:79:41:76:29 | Channels: 4578 | Expiry: March 1, 2026, 2:04 pm
+00:1A:79:91:0D:06 | Channels: 4578 | Expiry: February 24, 2026, 7:05 pm
+00:1A:79:72:73:22 | Channels: 4578 | Expiry: January 8, 2026, 9:43 pm
+00:1A:79:AE:B9:7C | Channels: 4578 | Expiry: January 7, 2026, 5:29 pm
+
+http://klaratv.com:80/c/
+00:1A:79:7e:7a:fb	Active	July 2, 2026, 12:00 am 289 Days
+00:1A:79:52:aa:d5	Active	January 18, 2026, 12:00 am 94 Days
+00:1A:79:70:ea:7c	Active	April 9, 2026, 2:00 am 205 Days
+00:1A:79:17:61:44	Active	March 4, 2026, 12:00 am 169 Days
+00:1A:79:00:32:ee	Active	February 3, 2026, 12:00 am 140 Days
+00:1A:79:c5:16:dc	Active	February 4, 2026, 12:00 am 141 Days
+00:1A:79:58:19:37	Active	February 22, 2026, 12:00 am 159 Days
+00:1A:79:4f:a6:7f	Active	January 4, 2026, 1:37 pm 110 Days
+00:1A:79:2d:42:70	Active	September 11, 2026, 10:43 am 360 Days
+00:1A:79:b8:bf:68	Active	August 13, 2026, 6:32 pm 300 Days
+00:1A:79:75:96:2a	Active	January 24, 2026, 1:00 am 130 Days
+00:1A:79:bb:52:15	Active	March 16, 2026, 2:21 pm 151 Days
+00:1A:79:87:23:a0	Active	January 17, 2026, 1:00 am 123 Days
+00:1A:79:86:b8:16	Active	January 16, 2026, 12:00 am 122 Days
+00:1A:79:d4:42:10	Active	July 10, 2026, 12:27 pm 266 Days
+00:1A:79:64:c0:e7	Active	February 18, 2026, 4:03 pm 125 Days
+00:1A:79:ba:10:7b	Active	February 23, 2026, 12:25 pm 130 Days
+00:1A:79:11:53:67	Active	February 20, 2026, 6:02 pm 127 Days
+00:1A:79:65:61:32	Active	February 4, 2026, 6:08 pm 111 Days
+00:1A:79:cd:4f:5d	Active	May 1, 2026, 11:22 am 196 Days
+00:1A:79:e6:ea:60	Active	April 3, 2026, 12:00 am 168 Days
+00:1A:79:75:cd:a4	Active	February 12, 2026, 10:24 am 119 Days
+00:1A:79:c7:bf:26	Active	March 14, 2026, 12:00 am 149 Days
+00:1A:79:b8:d7:17	Active	January 30, 2026, 12:00 am 106 Days
+00:1A:79:6c:79:20	Active	January 16, 2026, 12:00 am 122 Days
+00:1A:79:13:da:5e	Active	February 4, 2026, 6:08 pm 111 Days
+00:1A:79:ba:40:41	Active	May 1, 2026, 11:22 am 196 Days
+00:1A:79:19:45:d2	Active	April 3, 2026, 12:00 am 168 Days
+00:1A:79:64:a4:58	Active	February 12, 2026, 10:24 am 119 Days
+00:1A:79:b0:65:1e	Active	October 6, 2026, 12:00 am 354 Days
+00:1A:79:43:ff:6b	Active	March 14, 2026, 12:00 am 149 Days
+00:1A:79:32:c8:42	Active	January 30, 2026, 12:00 am 106 Days
+00:1A:79:0c:39:db	Active	February 4, 2026, 6:08 pm 111 Days
+00:1A:79:58:19:bc	Active	May 1, 2026, 11:22 am 196 Days
+
+http://stb.vooiptv.com:80/c/
+00:1A:79:C2:97:D6 | Channels: 3998 | Expiry: September 13, 2026, 12:00 am
+A0:BB:3E:01:63:C9 | Channels: 45139 | Expiry: May 27, 2026, 1:42 pm
+A0:BB:3E:82:B1:52 | Channels: 32445 | Expiry: May 26, 2026, 12:00 am
+A0:BB:3E:51:6E:29 | Channels: 44843 | Expiry: May 23, 2026, 12:00 am
+A0:BB:3E:02:3C:71 | Channels: 44852 | Expiry: May 8, 2026, 12:00 am
+A0:BB:3E:01:79:FE | Channels: 3564 | Expiry: April 28, 2026, 12:00 am
+00:1A:79:76:BC:86 | Channels: 47911 | Expiry: April 24, 2026, 10:13 am
+00:1A:79:51:6E:0A | Channels: 3503 | Expiry: March 14, 2026, 1:00 am
+A0:BB:3E:7A:5A:75 | Channels: 47911 | Expiry: March 9, 2026, 2:39 pm
+
+http://185.243.7.141/c/
+00:1A:79:58:D7:88 | Channels: 46742 | Expiry: May 28, 2026, 12:00 am
+00:1A:79:01:20:B0 | Channels: 42942 | Expiry: March 16, 2026, 12:00 am
+00:1A:79:3D:21:51 | Channels: 32448 | Expiry: March 5, 2026, 12:00 am
+00:1A:79:7E:69:0C | Channels: 29088 | Expiry: February 13, 2026, 12:00 am
+00:1A:79:3D:21:FE | Channels: 33823 | Expiry: January 27, 2026, 11:38 am
+
+http://globalgnet2.live/c/
+A0:BB:3E:03:BB:F1 | Channels: 32744 | Expiry: March 9, 2026, 4:02 pm
+A0:BB:3E:01:66:C0 | Channels: 44852 | Expiry: January 17, 2026, 3:19 pm
+A0:BB:3E:0F:E7:F0 | Channels: 32445 | Expiry: December 24, 2025, 12:00 am
+A0:BB:3E:00:17:27 | Channels: 6648 | Expiry: February 2, 2026, 12:00 am
+A0:BB:3E:00:DD:77 | Channels: 33596 | Expiry: May 18, 2026, 12:00 am
+A0:BB:3E:0D:8F:48 | Channels: 44840 | Expiry: July 14, 2026, 12:00 am
+A0:BB:3E:01:5A:2B | Channels: 3497 | Expiry: August 27, 2026, 12:00 am
+
+http://line.iptvgoat.com/c/
+00:1A:79:B6:5E:DB
+00:1A:79:32:C9:39
+
+http://sentv.live/c/
+00:1A:79:BE:CC:69 | Channels: 6873 | Expiry: February 25, 2026, 12:00 am
+
+http://trx.bouchds.com/c/
+00:1A:79:64:B0:70
+
+http://185.182.193.203:25461/c/
+00:1A:79:7f:bb:b5
+
+http://mohamed-tv4k.xyz/c
+00:1A:79:7D:B0:12
+
+http://kingeu.com:8080/c
+00:1A:79:66:64:61
+
+http://ds.raptortv.de/c
+00:1A:79:E8:24:05
+
+http://porschetv.net
+00:1A:79:02:7F:63
+
+http://tvwerk.live:8080/c
+00:1A:79:6B:BD:22
+
+http://tv-centreduquebec.info/c
+00:1A:79:00:20:8D
+
+http://5.ccccc.in/c
+00:1A:79:00:1B:46
+
+http://schanel.org:8080/c/
+00:1A:79:a1:e0:45
+
+http://firstclass007.com:8080/c
+00:1A:79:76:0B:A5
+
+http://mag.jee-ott.xyz/c
+00:1A:79:41:67:BD
+
+http://ya.pingtx.me/c
+00:1A:79:00:1B:80
+
+http://exchange.jinbox.nl:1339/c
+00:1A:79:C3:B7:B6
+
+http://royalibox.com/c
+00:1A:79:B9:3E:67
+
+http://89.47.232.166:8080/c/
+00:1A:79:ca:ee:39
+
+http://dn.newhorizon.sbs/c
+00:1A:79:00:1B:4E
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:35:0C:BD
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ May 28, 2026, 12:00 am 243 Dni 
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://firstclass007.com:8080/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:A9:D8:EF
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ June 27, 2026, 9:31 pm 258 Dni
+
+◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://404focusnotfound.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:66:A2:27
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ April 24, 2026, 12:00 am 194 Dni 
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://tv.afna.pro:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:70:d2:94
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ July 20, 2026, 8:46 pm
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://po.tomgerryservice.com:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:42:69:77
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ March 3, 2026, 12:00 am
+
+╠🅷🌐𝗣𝗮𝗻𝗲𝗹➤ http://tv.premiumplus.tv:80/c/
+╠🅾🎯𝗠𝗮𝗰➤ 00:1A:79:D8:E6:D6
+╠🅹📆𝗘𝘅𝗽➤ April 20, 2026, 12:00 am 187 Days
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://diamondservice.online:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:63:6F:A7
+├◉ 🗓️ Expired ➤ April 6, 2026, 12:00 am 191 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://vpn.full-keys4k.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:42:98:96
+├◉ 🗓️ Expired ➤ April 29, 2026, 12:00 am 214 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://tv-ks.top:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:5D:01:51
+├◉ 🗓️ Expired ➤ February 12, 2026, 9:33 pm 139 Dni   
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://404focusnotfound.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:F8:83:A0
+├◉ 🗓️ Expired ➤ January 21, 2026, 12:00 am 101 Dni 
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://tv.afna.pro:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:c0:2f:55
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ May 11, 2026, 12:00 am
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://tv.afna.pro:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:b5:09:ec
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ June 16, 2026, 2:07 pm
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://tv.afna.pro:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:b5:16:d0
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ July 11, 2026, 2:44 am
+
+http://10431-plan.ott-cdn.me/c/
+00:1A:79:A1:E5:8B March 19, 2026, 12:00 am
+00:1A:79:17:20:18  September 30, 2026, 3:05 pm
+00:1A:79:c5:b1:32  September 1, 2026, 11:20 pm
+00:1A:79:5f:e1:fc  June 7, 2026, 12:05 pm
+00:1A:79:3d:0f:01  March 13, 2026, 8:12 pm
+00:1A:79:42:c6:21  September 21, 2026, 5:29 pm
+00:1A:79:b1:63:dd  February 4, 2026, 2:05 pm
+00:1A:79:76:ee:69  August 13, 2026, 3:51 pm
+00:1A:79:d3:a6:01  March 16, 2026, 4:59 pm
+
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://trxad.top:80/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:17:98:85
+├◉ 🗓️ Expired ➤ June 3, 2026, 12:00 am 249 Dni 
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://wowtv.cc:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:79:72:8A
+├◉ 🗓️ Expired ➤ July 29, 2026, 12:00 am 305 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://utrecht030ovc.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:BB:32:F5
+├◉ 🗓️ Expired ➤ May 18, 2026, 2:56 pm 233 Dni   
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://tv.afna.pro:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:b0:91:79
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ March 17, 2026, 12:00 am
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://tv.afna.pro:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:85:fb:e5
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ February 17, 2026, 6:14 pm
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://raptor-tv.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:6E:88:34
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ June 7, 2026, 12:00 am 253 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://trxad.top:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:33:33:92
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ March 26, 2026, 12:00 am 180 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.4k365.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:D0:46:43
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ February 22, 2026, 5:29 pm 148 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://honeywatch.net:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:B6:5E:F6
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ March 20, 2026, 11:24 am 174 Dni    
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://di.ksa-ott.vip:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:6B:5F:3B
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ January 3, 2026, 12:00 am 83 Dni   
+
+   ├♦️𝐏𝐀𝐍𝐄𝐋 ➤ http://protv.fun:80/c/
+├♦️𝐌𝐀𝐂 ➤ 00:1A:79:00:0D:DF
+├♦️𝐄𝐗𝐏 ➤ January 9, 2026, 3:53 pm
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://po.tomgerryservice.com:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:7b:f3:2a
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ January 30, 2026, 12:00 am
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.europetv.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:1D:31:61
+├◉ 🗓️ Expired ➤ June 12, 2026, 10:07 pm 259 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.4k365.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:19:0B:6D
+├◉ 🗓️ Expired ➤ June 15, 2026, 12:00 am 261 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://trxad.top:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:F8:3D:AC
+├◉ 🗓️ Expired ➤ June 6, 2026, 2:38 pm 252 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://stb.vooiptv.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:C1:74:0B
+├◉ 🗓️ Expired ➤ February 18, 2026, 12:00 am 144
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://iptv.darktv.in:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:39:0B:2C
+├◉ 🗓️ Expired ➤ February 22, 2026, 5:45 pm 149 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://line4k.digivisionstore.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:77:E8:29
+├◉ 🗓️ Expired ➤ January 10, 2026, 12:00 am 105 Dni 
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://vpn.full-keys4k.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:B0:D6:6B
+├◉ 🗓️ Expired ➤ February 1, 2026, 12:00 am 127 Dni  
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://wowtv.cc:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:23:DA:B2
+├◉ 🗓️ Expired ➤ January 21, 2027, 12:00 am 481 Dni 
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://hometv.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:AF:99:32
+├◉ 🗓️ Expired ➤ May 16, 2026, 5:43 pm 231 Dni
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://vpn.full-keys4k.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:51:7E:FB
+├◉ 🗓️ Expired ➤ June 6, 2026, 12:00 am 252 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.jee-ott.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:3F:4B:35
+├◉ 🗓️ Expired ➤ March 10, 2026, 7:11 pm 165 Dni 
+ 
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.4k365.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:30:03:9F
+├◉ 🗓️ Expired ➤ June 1, 2026, 12:00 am 247 Dni
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.jee-ott.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:AA:F6:11
+├◉ 🗓️ Expired ➤ March 16, 2026, 12:00 am 170 Dni   
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://stb.vooiptv.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:F5:70:50
+├◉ 🗓️ Expired ➤ March 9, 2026, 9:10 am 163 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.europetv.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:33:2F:3F
+├◉ 🗓️ Expired ➤ March 3, 2026, 12:00 am 157 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:91:D7:01
+├◉ 🗓️ Expired ➤ June 21, 2026, 12:00 am 267 Dni    
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://to-jest-link.cc:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:1E:8F:E4
+├◉ 🗓️ Expired ➤ July 1, 2026, 12:00 am 277 Dni  
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://line.linktotv.eu:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:D0:20:E5
+├◉ 🗓️ Expired ➤ June 8, 2026, 12:00 am 254 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://diamondservice.online:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:F8:A0:2E
+├◉ 🗓️ Expired ➤ May 1, 2026, 12:00 am 216 Dni   
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://hometv.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:F8:BE:2A
+├◉ 🗓️ Expired ➤ June 5, 2026, 12:00 am 251 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:83:B4:A1
+├◉ 🗓️ Expired ➤ May 20, 2026, 9:02 pm 236 Dni  
+ 
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://xx35.live:8080/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:04:9F:37
+├◉ 🗓️ Expired ➤ March 24, 2026, 3:04 pm 178 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://diamondservice.online:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:C5:7F:E2
+├◉ 🗓️ Expired ➤ April 24, 2026, 12:00 am 209 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:60:14:A3
+├◉ 🗓️ Expired ➤ May 18, 2026, 12:00 am 233 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://vpn.full-keys4k.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:C9:3B:26
+├◉ 🗓️ Expired ➤ April 25, 2026, 12:00 am 210 Dni   
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://line.linktotv.eu:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:1C:5A:97
+├◉ 🗓️ Expired ➤ March 27, 2026, 12:00 am 181 Dni   
+  
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:4A:41:C5
+├◉ 🗓️ Expired ➤ May 29, 2026, 12:00 am 244 Dni    
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:F5:52:97
+├◉ 🗓️ Expired ➤ January 12, 2026, 12:00 am 107 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1B:79:F9:35:E0
+├◉ 🗓️ Expired ➤ February 6, 2026, 2:26 pm 132 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://media-ott.vip:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:B5:D3:FD
+├◉ 🗓️ Expired ➤ January 6, 2026, 12:00 am 101 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://vpn.full-keys4k.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:B8:2E:09
+├◉ 🗓️ Expired ➤ January 25, 2026, 12:00 am 120 Dni       
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.4k365.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:F3:CD:6A
+├◉ 🗓️ Expired ➤ January 18, 2026, 11:29 pm 114 Dni 
+   
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.4k365.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ A0:BB:3E:01:6C:34
+├◉ 🗓️ Expired ➤ February 19, 2026, 6:22 pm 146 Dni                                                                         
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mag.4k365.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:4F:D0:B5
+├◉ 🗓️ Expired ➤ March 30, 2026, 12:00 am 184 Dni
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://tv.afna.pro:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:bb:11:cd
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ February 8, 2026, 12:00 am
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://dn.newhorizon.sbs:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:A4:BA:B5
+├◉ 🗓️ Expired ➤ June 10, 2026, 12:00 am 258 Dni
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://line.best4kprovider.com:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:21:53:42
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ January 20, 2026, 12:00 am
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://line.best4kprovider.com:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:6c:b0:5b
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ May 4, 2026, 12:00 am
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://line.300spartiatis.com:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:bb:f8:8c
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ April 14, 2026, 6:00 pm
+
+├◉𝗣𝗮𝗻𝗲𝗹➤ http://connect.proxytx.cloud:80/c/
+├◉𝗠𝗮𝗰 ➤ 00:1A:79:52:B9:3C
+├◉𝗘𝘅𝗽➤ March 19, 2026, 12:00 am 153 Days
+
+╠🅷🌐𝗣𝗮𝗻𝗲𝗹➤ http://46004-waste.oot-mx.me:80/c/
+╠🅾🎯𝗠𝗮𝗰➤ 00:1A:79:00:00:21
+╠🅹📆𝗘𝘅𝗽➤ April 19, 2026, 5:52 am 184 Days
+
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://mctvgold.xyz:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:7F:76:1A
+├◉ 🗓️ Wʏɢᴀsᴀ ➤ February 23, 2026, 3:25 am 151 Dni
+
+├♦️𝐏𝐀𝐍𝐄𝐋 ➤ http://infinity-ott.com:8080/c/
+├♦️𝐌𝐀𝐂 ➤ 00:1A:79:BF:74:B1
+├♦️𝐄𝐗𝐏 ➤ April 2, 2026, 8:50 pm
+
+├─● 🅡🅔🅐🅛 🅤🅡🅛 ➤➤ http://line.300spartiatis.com:80/c/
+├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:b5:b7:4e
+├● 🅔🅧🅟🅘🅡🅔 🅓🅐🅣🅔 ➤➤ January 26, 2026, 12:00 am
+
+http://xp1.tv/c/
+Mac: 00:1A:79:B8:FB:92
+Mac: 00:1A:79:BD:BA:3A
