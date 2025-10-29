@@ -1,0 +1,191 @@
+http://expotv.cc/c/
+A0:BB:3E:3F:4A:F2  January 20, 2026
+A0:BB:3E:8B:55:C0  June 9, 2026
+10:27:BE:15:EC:6C  July 24, 2026
+10:27:BE:15:54:21  February 15, 2026
+
+http://p1.eu58.xyz:8080/c/
+00:1A:79:14:68:3B  June 12, 2026
+00:1A:79:A0:E4:2A  January 19, 2027
+00:1A:79:10:E0:73  January 22, 2026
+
+http://dm.lion-ott.com/c/
+00:1A:79:5D:43:20  05/10/2026
+00:1A:79:86:D6:9C  12/07/2026
+00:1A:79:5A:43:CB  08/02/2026
+00:1A:79:A6:08:3F  06/02/2026
+00:1A:79:DD:87:FB  17/01/2026
+
+http://iptvplatinum.net/c/
+00:1A:79:67:AB:56  19/04/2026
+00:1A:79:C5:00:9A  20/04/2026
+00:1A:79:35:3B:CF  21/04/2026
+00:1A:79:C1:ED:F1  21/04/2026
+00:1A:79:ED:2C:64  25/04/2026
+00:1A:79:6E:BF:EE  20/05/2026
+00:1A:79:89:CB:57  28/05/2026
+00:1A:79:5B:58:45  29/05/2026
+00:1A:79:BF:AC:D5  29/05/2026
+00:1A:79:A4:5E:70  30/05/2026
+00:1A:79:73:AD:ED  02/06/2026
+00:1A:79:77:3A:DC  02/06/2026
+00:1A:79:C0:A5:E6  03/06/2026
+00:1A:79:73:A8:C5  07/06/2026
+00:1A:79:5A:2F:57  08/06/2026
+00:1A:79:BB:7E:76  09/06/2026
+00:1A:79:69:C9:0F  12/06/2026
+00:1A:79:C2:D6:3E  14/06/2026
+00:1A:79:B6:5E:B8  16/06/2026
+00:1A:79:BA:A7:7E  17/06/2026
+00:1A:79:BA:B9:6F  20/06/2026
+00:1A:79:99:DF:D6  24/06/2026
+00:1A:79:6E:24:38  26/06/2026
+00:1A:79:98:40:5D  01/07/2026
+00:1A:79:00:0E:E7  23/08/2026
+00:1A:79:A4:6D:6E  04/09/2026
+00:1A:79:EF:E0:4D  09/10/2026
+00:1A:79:C3:C9:B1  12/10/2026
+00:1A:79:9F:C9:FA  19/10/2026
+00:1A:79:C8:3E:53  19/10/2026
+00:1A:79:9A:FD:9B  22/10/2026
+00:1A:79:BC:1B:82  22/10/2026
+00:1A:79:B6:DD:6E  24/10/2026
+
+http://line.godofiptv.com/c/
+00:1A:79:5F:0B:8B  17/04/2026
+00:1A:79:67:AB:56  19/04/2026
+00:1A:79:C5:00:9A  20/04/2026
+00:1A:79:35:3B:CF  21/04/2026
+00:1A:79:C1:ED:F1  21/04/2026
+00:1A:79:ED:2C:64  25/04/2026
+00:1A:79:6E:BF:EE  20/05/2026
+00:1A:79:89:CB:57  28/05/2026
+00:1A:79:BF:AC:D5  29/05/2026
+00:1A:79:5B:58:45  29/05/2026
+00:1A:79:A4:5E:70  30/05/2026
+00:1A:79:77:3A:DC  02/06/2026
+00:1A:79:73:AD:ED  02/06/2026
+00:1A:79:73:A8:C5  07/06/2026
+00:1A:79:5A:2F:57  08/06/2026
+00:1A:79:BB:7E:76  09/06/2026
+00:1A:79:69:C9:0F  12/06/2026
+00:1A:79:C2:D6:3E  14/06/2026
+00:1A:79:B6:5E:B8  16/06/2026
+00:1A:79:BA:A7:7E  17/06/2026
+00:1A:79:BA:B9:6F  20/06/2026
+00:1A:79:99:DF:D6  24/06/2026
+00:1A:79:6E:24:38  26/06/2026
+00:1A:79:98:40:5D  01/07/2026
+00:1A:79:00:0E:E7  23/08/2026
+00:1A:79:EF:B4:32  02/09/2026
+00:1A:79:A4:6D:6E  04/09/2026
+00:1A:79:A6:C0:6E  11/09/2026
+00:1A:79:AF:63:53  16/09/2026
+
+http://exceltion.xyz/c/
+00:1A:79:00:1B:7A  07.05.2027
+00:1A:79:00:1B:78  12.04.2027
+00:1A:79:B5:94:9C  12.11.2026
+00:1A:79:B5:11:01  16.10.2026
+00:1A:79:D8:45:A2  13.10.2026
+00:1A:79:B5:11:A7  16.09.2026
+00:1A:79:B5:11:A6  13.09.2026
+00:1A:79:C7:D8:72  31.08.2026
+00:1A:79:BD:C7:08  30.08.2026
+00:1A:79:74:92:DE  29.08.2026
+00:1A:79:73:45:BF  25.08.2026
+00:1A:79:73:45:FB  25.08.2026
+00:1A:79:B5:11:80  21.08.2026
+
+http://30198-puppy.ott-cdn.me/c/
+00:1A:79:D2:1C:B2   October 23, 2026
+00:1A:79:61:4A:2B   January 4, 2026
+
+http://192.99.19.27:8000/c/
+00:1A:79:82:43:4E   Unlimited
+
+http://iptvch2.com/c/
+00:1A:79:57:23:F6   January 12, 2026
+
+http://expotv.cc/c/
+A0:BB:3E:02:F8:27 | Channels: 3497 | Expiry: September 11, 2026, 12:04 pm
+A0:BB:3E:02:F3:72 | Channels: 16792 | Expiry: August 23, 2026, 1:42 pm
+A0:BB:3E:12:A9:99 | Channels: 23938 | Expiry: August 22, 2026, 4:00 pm
+A0:BB:3E:C2:1F:76 | Channels: 22214 | Expiry: August 19, 2026, 11:54 am
+A0:BB:3E:69:B1:8D | Channels: 16257 | Expiry: August 19, 2026, 12:00 am
+A0:BB:3E:01:69:D7 | Channels: 45147 | Expiry: August 18, 2026, 12:00 am
+
+http://line.godofiptv.com/c/
+00:1A:79:A4:6D:6E | Channels: 3807 | Expiry: September 4, 2026, 12:00 am
+00:1A:79:00:0E:E7 | Channels: 21928 | Expiry: August 23, 2026, 12:00 am
+00:1A:79:69:C9:0F | Channels: 11028 | Expiry: June 12, 2026, 12:00 am
+00:1A:79:BB:7E:76 | Channels: 47011 | Expiry: June 9, 2026, 12:00 am
+00:1A:79:73:A8:C5 | Channels: 32437 | Expiry: June 7, 2026, 12:00 am
+00:1A:79:73:AD:ED | Channels: 19514 | Expiry: June 2, 2026, 12:00 am
+
+http://stb.vooiptv.com/c/
+00:1A:79:84:CA:06 | Channels: 45443 | Expiry: July 2, 2026, 12:00 am
+00:1A:79:E7:61:90 | Channels: 2632 | Expiry: June 30, 2026, 2:00 am
+00:1A:79:F6:17:0D | Channels: 37374 | Expiry: June 21, 2026, 12:00 am
+00:1A:79:BA:46:EE | Channels: 47538 | Expiry: June 20, 2026, 12:00 am
+00:1A:79:D4:70:E2 | Channels: 5417 | Expiry: June 20, 2026, 5:38 pm
+00:1A:79:22:07:42 | Channels: 9204 | Expiry: June 11, 2026, 2:00 am
+00:1A:79:9C:26:62 | Channels: 29168 | Expiry: June 11, 2026, 3:32 pm
+00:1A:79:28:42:17 | Channels: 23506 | Expiry: June 4, 2026, 12:00 am
+00:1A:79:FB:11:22 | Channels: 48227 | Expiry: May 3, 2026, 1:07 am
+00:1A:79:36:4B:12 | Channels: 5701 | Expiry: June 8, 2026, 12:00 am
+00:1A:79:11:B9:77 | Channels: 48227 | Expiry: May 29, 2026, 5:26 pm
+00:1A:79:BF:9D:D8 | Channels: 29168 | Expiry: May 24, 2026, 9:05 pm
+00:1A:79:B5:B0:9C | Channels: 4636 | Expiry: May 24, 2026, 12:00 am
+00:1A:79:BE:72:D8 | Channels: 34335 | Expiry: May 13, 2026, 12:00 am
+00:1A:79:FA:06:AC | Channels: 47538 | Expiry: May 9, 2026, 12:00 am
+00:1A:79:2F:4B:F4 | Channels: 6264 | Expiry: May 3, 2026, 12:00 am
+00:1A:79:18:1D:96 | Channels: 5576 | Expiry: May 2, 2026, 11:20 am
+00:1A:79:93:85:39 | Channels: 48227 | Expiry: April 29, 2026, 11:52 am
+00:1A:79:94:5E:CA | Channels: 48227 | Expiry: April 25, 2026, 2:19 am
+00:1A:79:E8:8D:3B | Channels: 16761 | Expiry: April 25, 2026, 12:00 am
+00:1A:79:39:EA:AE | Channels: 48227 | Expiry: April 22, 2026, 7:44 pm
+00:1A:79:7C:5A:68 | Channels: 48227 | Expiry: April 17, 2026, 2:14 pm
+00:1A:79:56:A3:6E | Channels: 19877 | Expiry: April 5, 2026, 12:00 am
+
+http://to-jest-link.cc/c/
+00:1A:79:79:BF:35 | Channels: 22089 | Expiry: October 9, 2026, 6:26 pm
+00:1A:79:B8:B7:E8 | Channels: 39920 | Expiry: October 6, 2026, 11:24 pm
+00:1A:79:A0:E4:A4 | Channels: 47538 | Expiry: October 6, 2026, 12:00 am
+00:1A:79:CB:79:32 | Channels: 15963 | Expiry: September 26, 2026, 4:03 pm
+00:1A:79:B5:96:6E | Channels: 25346 | Expiry: September 25, 2026, 5:42 pm
+00:1A:79:BB:1F:52 | Channels: 13647 | Expiry: September 23, 2026, 3:35 pm
+00:1A:79:B0:58:B1 | Channels: 44346 | Expiry: September 19, 2026, 12:00 am
+00:1A:79:1E:ED:8D | Channels: 22819 | Expiry: September 16, 2026, 12:00 am
+00:1A:79:B5:19:61 | Channels: 43279 | Expiry: September 7, 2026, 12:00 am
+00:1A:79:7E:BD:29 | Channels: 6364 | Expiry: September 4, 2026, 12:00 am
+00:1A:79:BF:91:8C | Channels: 12718 | Expiry: August 27, 2026, 12:00 am
+00:1A:79:17:30:E5 | Channels: 5054 | Expiry: August 20, 2026, 12:00 am
+00:1A:79:91:89:5F | Channels: 15911 | Expiry: August 19, 2026, 12:00 am
+
+http://foxx-tv.xyz:80/c/
+00:1A:79:4d:a6:c3
+00:1A:79:aa:47:70
+
+http://185.243.7.190:80/c/
+00:1A:79:05:CF:6A
+
+http://cf.gocdn8k.me:80/c/
+00:1A:79:00:14:35
+
+http://mctvgold.xyz:80/c/
+00:1A:79:89:cf:fb
+
+http://fastrunner.live:8080/c
+00:1A:79:B8:81:F1
+
+http://45.139.122.199:8080/c
+00:1A:79:BF:C8:CB
+00:1A:79:CB:D3:4D
+00:1A:79:45:E3:5E
+00:1A:79:CB:8F:43
+00:1A:79:51:20:C9
+
+
+
+
