@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:E7:8A:8C&stream=1032487&extension=m3u8
+http://exceltion.xyz:80/play/live.php?mac=00:1A:79:E7:8A:80&stream=1032487&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:74:7D:75&stream=1032487&extension=m3u8
+http://exceltion.xyz:80/play/live.php?mac=00:1A:79:74:7D:70&stream=1032487&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
-http://line.liveott.ru:80/play/live.php?mac=00:1A:79:FB:51:0D&stream=1032487&extension=m3u8
+http://line.liveott.ru:80/play/live.php?mac=00:1A:79:FB:51:00&stream=1032487&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch4
 http://line.liveott.ru:80/play/live.php?mac=00:1A:79:35:30:37&stream=1032487&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch5
