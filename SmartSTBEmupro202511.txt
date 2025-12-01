@@ -1,0 +1,1783 @@
+🛰 PORTAL: http://drk.yasar.tv/c
+    📍 IP: 192.142.44.52 (United Kingdom)
+    🌍 SERVER TIMEZONE: Europe/London
+        ✅ MAC: 00:1A:79:4F:01:55 (Expired on: August 28, 2026, 2:51 pm)
+        ✅ MAC: 00:1A:79:FD:DD:B1 (Expired on: December 17, 2025, 4:07 pm)
+        ✅ MAC: 00:1A:79:56:2F:4E (Expired on: May 15, 2026, 6:31 pm)
+        ✅ MAC: 00:1A:79:CC:08:8D (Expired on: October 25, 2026, 7:48 pm)
+        ✅ MAC: 00:1A:79:B0:9F:9E (Expired on: February 1, 2026, 2:03 pm)
+        ✅ MAC: 00:1A:79:56:1F:3D (Expired on: June 3, 2026, 8:17 pm)
+        ✅ MAC: 00:1A:79:A2:0B:39 (Expired on: September 2, 2026, 3:59 pm)
+        ✅ MAC: 00:1A:79:3D:8F:5B (Expired on: February 18, 2026, 7:07 pm)
+        ✅ MAC: 00:1A:79:D1:9E:14 (Expired on: June 26, 2026, 4:52 pm)
+        ✅ MAC: 00:1A:79:3B:29:47 (Expired on: September 12, 2026, 3:48 pm)
+        ✅ MAC: 00:1A:79:9C:B0:5E (Expired on: December 13, 2025, 11:37 am)
+        ✅ MAC: 00:1A:79:A2:F7:3E (Expired on: March 9, 2026, 6:40 pm)
+        ✅ MAC: 00:1A:79:05:E6:BD (Expired on: November 4, 2025, 4:18 pm)
+        ✅ MAC: 00:1A:79:51:59:E1 (Expired on: September 14, 2026, 3:09 pm)
+        ✅ MAC: 00:1A:79:04:D6:4A (Expired on: January 27, 2026, 5:49 pm)
+        ✅ MAC: 00:1A:79:12:5C:EB (Expired on: November 18, 2025, 2:05 pm)
+        ✅ MAC: 00:1A:79:B1:43:5C (Expired on: July 23, 2026, 2:16 am)
+        ✅ MAC: 00:1A:79:63:AD:F7 (Expired on: January 2, 2026, 4:37 pm)
+        ✅ MAC: 00:1A:79:B5:24:DB (Expired on: September 2, 2026, 9:24 pm)
+        ✅ MAC: 00:1A:79:38:27:F7 (Expired on: April 17, 2026, 5:47 pm)
+        ✅ MAC: 00:1A:79:6B:BE:E4 (Expired on: February 28, 2026, 5:43 pm)
+        ✅ MAC: 00:1A:79:5E:47:79 (Expired on: November 16, 2026, 4:07 pm)
+        ✅ MAC: 00:1A:79:E5:9A:10 (Expired on: February 2, 2026, 10:13 pm)
+        ✅ MAC: 00:1A:79:B5:2D:8C (Expired on: December 2, 2025, 6:22 pm)
+        ✅ MAC: 00:1A:79:E5:39:A0 (Expired on: January 15, 2026, 4:50 pm)
+        ✅ MAC: 00:1A:79:88:49:C9 (Expired on: August 13, 2026, 8:46 pm)
+        ✅ MAC: 00:1A:79:B1:43:5C (Expired on: July 23, 2026, 2:16 am)
+        ✅ MAC: 00:1A:79:40:7D:A2 (Expired on: February 15, 2026, 8:34 pm)
+        ✅ MAC: 00:1A:79:B2:49:61 (Expired on: May 4, 2026, 6:56 pm)
+        ✅ MAC: 00:1A:79:1D:0A:D1 (Expired on: December 22, 2025, 1:40 pm)
+        ✅ MAC: 00:1A:79:1C:05:9A (Expired on: January 7, 2026, 11:06 am)
+        ✅ MAC: 00:1A:79:5D:9E:7D (Expired on: February 3, 2026, 7:27 pm)
+        ✅ MAC: 00:1A:79:61:6F:06 (Expired on: September 22, 2026, 7:15 pm)
+        ✅ MAC: 00:1A:79:4E:E6:29 (Expired on: April 25, 2026, 7:57 pm)
+        ✅ MAC: 00:1A:79:46:72:11 (Expired on: November 26, 2025, 3:14 pm)
+        ✅ MAC: 00:1A:79:08:0C:2F (Expired on: May 22, 2026, 5:52 pm)
+        ✅ MAC: 00:1A:79:46:A1:EA (Expired on: January 5, 2026, 3:35 pm)
+        ✅ MAC: 00:1A:79:7C:24:31 (Expired on: July 24, 2026, 9:09 pm)
+        ✅ MAC: 00:1A:79:38:34:34 (Expired on: February 28, 2026, 10:09 pm)
+        ✅ MAC: 00:1A:79:A5:34:24 (Expired on: May 6, 2026, 8:56 pm)
+        ✅ MAC: 00:1A:79:57:6F:DE (Expired on: September 23, 2026, 8:01 pm)
+        ✅ MAC: 00:1A:79:16:F2:C9 (Expired on: February 11, 2026, 12:07 am)
+        ✅ MAC: 00:1A:79:B5:9E:F3 (Expired on: October 5, 2026, 4:59 pm)
+        ✅ MAC: 00:1A:79:73:2F:16 (Expired on: December 4, 2025, 4:20 pm)
+        ✅ MAC: 00:1A:79:16:8F:BA (Expired on: August 31, 2026, 7:49 pm)
+        ✅ MAC: 00:1A:79:6F:3F:46 (Expired on: February 9, 2026, 8:16 pm)
+        ✅ MAC: 00:1A:79:AB:5F:29 (Expired on: July 26, 2026, 2:43 pm)
+        ✅ MAC: 00:1A:79:BD:16:DE (Expired on: November 19, 2025, 5:26 pm)
+        ✅ MAC: 00:1A:79:19:03:66 (Expired on: December 25, 2025, 5:41 pm)
+        ✅ MAC: 00:1A:79:9E:96:83 (Expired on: March 26, 2026, 9:19 pm)
+        ✅ MAC: 00:1A:79:30:37:BF (Expired on: November 15, 2025, 9:43 pm)
+        ✅ MAC: 00:1A:79:99:9B:33 (Expired on: November 25, 2025, 7:49 pm)
+        ✅ MAC: 00:1A:79:73:87:35 (Expired on: August 17, 2026, 4:51 pm)
+        ✅ MAC: 00:1A:79:AC:8F:16 (Expired on: March 4, 2026, 7:31 pm)
+        ✅ MAC: 00:1A:79:68:99:37 (Expired on: November 18, 2025, 5:22 pm)
+        ✅ MAC: 00:1A:79:05:E6:A0 (Expired on: April 23, 2026, 11:14 pm)
+        ✅ MAC: 00:1A:79:B3:9C:79 (Expired on: June 9, 2026, 9:53 pm)
+        ✅ MAC: 00:1A:79:D9:EA:09 (Expired on: October 1, 2025, 8:43 pm)
+        ✅ MAC: 00:1A:79:44:09:76 (Expired on: April 21, 2026, 11:24 pm)
+        ✅ MAC: 00:1A:79:3A:30:5C (Expired on: May 25, 2026, 7:04 pm)
+        ✅ MAC: 00:1A:79:40:61:71 (Expired on: May 27, 2026, 11:11 am)
+        ✅ MAC: 00:1A:79:75:D2:59 (Expired on: April 8, 2026, 7:12 pm)
+        ✅ MAC: 00:1A:79:34:34:39 (Expired on: December 21, 2025, 5:01 pm)
+        ✅ MAC: 00:1A:79:B4:1C:20 (Expired on: January 8, 2026, 6:50 pm)
+        ✅ MAC: 00:1A:79:E7:7E:34 (Expired on: May 8, 2026, 8:34 pm)
+        ✅ MAC: 00:1A:79:A6:57:54 (Expired on: November 7, 2026, 1:18 pm)
+        ✅ MAC: 00:1A:79:05:D1:C7 (Expired on: October 2, 2025, 11:16 am)
+        ✅ MAC: 00:1A:79:BF:16:70 (Expired on: January 15, 2026, 6:17 pm)
+        ✅ MAC: 00:1A:79:0A:94:26 (Expired on: January 14, 2026, 8:33 am)
+        ✅ MAC: 00:1A:79:18:34:3E (Expired on: February 6, 2026, 5:00 pm)
+        ✅ MAC: 00:1A:79:34:3F:C7 (Expired on: July 21, 2026, 6:38 pm)
+        ✅ MAC: 00:1A:79:5B:05:7A (Expired on: November 29, 2025, 9:11 pm)
+        ✅ MAC: 00:1A:79:09:5D:A3 (Expired on: November 30, 2025, 12:15 pm)
+        ✅ MAC: 00:1A:79:A1:37:26 (Expired on: April 2, 2026, 6:47 pm)
+        ✅ MAC: 00:1A:79:1C:3F:2E (Expired on: October 30, 2025, 7:30 pm)
+        ✅ MAC: 00:1A:79:39:13:C0 (Expired on: November 14, 2026, 11:19 am)
+        ✅ MAC: 00:1A:79:64:DD:2E (Expired on: October 1, 2025, 9:56 pm)
+        ✅ MAC: 00:1A:79:59:49:FA (Expired on: March 4, 2026, 3:12 pm)
+        ✅ MAC: 00:1A:79:10:FB:A9 (Expired on: December 14, 2025, 6:21 pm)
+        ✅ MAC: 00:1A:79:73:3F:A3 (Expired on: February 6, 2026, 3:54 pm)
+        ✅ MAC: 00:1A:79:83:6F:52 (Expired on: July 3, 2026, 3:33 pm)
+        ✅ MAC: 00:1A:79:28:29:7B (Expired on: August 25, 2026, 7:19 pm)
+        ✅ MAC: 00:1A:79:B4:3F:0F (Expired on: December 15, 2025, 10:17 pm)
+        ✅ MAC: 00:1A:79:E0:6F:82 (Expired on: April 18, 2026, 9:26 pm)
+        ✅ MAC: 00:1A:79:8E:7D:58 (Expired on: April 6, 2026, 6:05 pm)
+        ✅ MAC: 00:1A:79:92:CC:6C (Expired on: October 7, 2025, 8:24 pm)
+        ✅ MAC: 00:1A:79:61:7F:DB (Expired on: August 24, 2026, 6:05 pm)
+        ✅ MAC: 00:1A:79:4E:C1:50 (Expired on: April 19, 2026, 6:49 pm)
+        ✅ MAC: 00:1A:79:33:68:3A (Expired on: June 20, 2026, 11:25 pm)
+        ✅ MAC: 00:1A:79:25:9F:CC (Expired on: March 23, 2026, 6:52 pm)
+        ✅ MAC: 00:1A:79:11:A1:B4 (Expired on: December 25, 2025, 3:40 pm)
+        ✅ MAC: 00:1A:79:02:3F:42 (Expired on: December 22, 2025, 2:08 pm)
+        ✅ MAC: 00:1A:79:C1:0D:BD (Expired on: January 24, 2026, 3:50 pm)
+        ✅ MAC: 00:1A:79:AF:3F:3F (Expired on: October 3, 2025, 5:10 pm)
+        ✅ MAC: 00:1A:79:2C:F3:2B (Expired on: June 14, 2026, 2:34 pm)
+        ✅ MAC: 00:1A:79:A2:C9:CD (Expired on: May 9, 2026, 10:04 pm)
+        ✅ MAC: 00:1A:79:A4:4F:DC (Expired on: December 29, 2025, 5:52 pm)
+        ✅ MAC: 00:1A:79:A6:9F:ED (Expired on: November 15, 2026, 12:04 pm)
+        ✅ MAC: 00:1A:79:87:43:E4 (Expired on: December 17, 2025, 6:09 pm)
+        ✅ MAC: 00:1A:79:60:26:90 (Expired on: January 29, 2026, 6:28 pm)
+        ✅ MAC: 00:1A:79:45:6F:E1 (Expired on: February 9, 2026, 10:59 pm)
+        ✅ MAC: 00:1A:79:3A:48:A4 (Expired on: December 11, 2025, 9:26 am)
+        ✅ MAC: 00:1A:79:3E:8F:2D (Expired on: May 9, 2026, 5:51 pm)
+        ✅ MAC: 00:1A:79:69:D7:AF (Expired on: November 22, 2025, 5:55 pm)
+        ✅ MAC: 00:1A:79:7C:5F:BA (Expired on: June 14, 2026, 1:02 pm)
+        ✅ MAC: 00:1A:79:4E:37:B6 (Expired on: October 2, 2025, 1:07 pm)
+        ✅ MAC: 00:1A:79:ED:40:A7 (Expired on: February 24, 2026, 3:18 pm)
+        ✅ MAC: 00:1A:79:A0:E2:5B (Expired on: September 9, 2026, 10:28 pm)
+        ✅ MAC: 00:1A:79:6C:84:05 (Expired on: September 22, 2026, 4:26 pm)
+        ✅ MAC: 00:1A:79:58:88:07 (Expired on: July 22, 2026, 7:43 pm)
+        ✅ MAC: 00:1A:79:A3:94:76 (Expired on: November 19, 2026, 7:36 pm)
+        ✅ MAC: 00:1A:79:38:2B:6F (Expired on: November 25, 2025, 12:58 pm)
+        ✅ MAC: 00:1A:79:2D:1F:7E (Expired on: July 1, 2026, 9:00 pm)
+        ✅ MAC: 00:1A:79:D5:4F:04 (Expired on: April 28, 2026, 7:01 am)
+        ✅ MAC: 00:1A:79:BA:AF:1D (Expired on: November 6, 2026, 4:36 pm)
+        ✅ MAC: 00:1A:79:6F:0F:38 (Expired on: January 4, 2026, 2:36 pm)
+        ✅ MAC: 00:1A:79:30:6F:29 (Expired on: September 23, 2026, 3:47 pm)
+        ✅ MAC: 00:1A:79:3D:08:7C (Expired on: November 22, 2026, 11:30 pm)
+        ✅ MAC: 00:1A:79:C8:3C:58 (Expired on: June 27, 2026, 10:52 am)
+        ✅ MAC: 00:1A:79:57:7F:71 (Expired on: December 26, 2025, 9:27 pm)
+        ✅ MAC: 00:1A:79:AF:5F:C3 (Expired on: December 27, 2025, 2:24 pm)
+        ✅ MAC: 00:1A:79:9A:D9:3F (Expired on: December 23, 2025, 9:10 pm)
+        ✅ MAC: 00:1A:79:46:65:AE (Expired on: February 10, 2026, 9:33 pm)
+        ✅ MAC: 00:1A:79:AA:E7:5D (Expired on: June 21, 2026, 6:04 pm)
+        ✅ MAC: 00:1A:79:5A:18:5F (Expired on: November 24, 2026, 12:57 pm)
+        ✅ MAC: 00:1A:79:C6:38:18 (Expired on: February 13, 2026, 11:08 pm)
+
+================================================================================
+
+🛰 PORTAL: http://atlas213.xyz:8080/c
+    📍 IP: 104.21.77.250 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:51:93:BA (Expired on: March 9, 2026, 1:28 pm)
+    📍 IP: 77.247.108.48 (Russia)
+    🌍 SERVER TIMEZONE: Europe/Moscow
+        ✅ MAC: 00:1A:79:5B:0A:8E (Expired on: January 2, 2026, 4:02 pm)
+
+================================================================================
+
+🛰 PORTAL: http://schanel.org:8080/c
+    📍 IP: 104.21.88.223 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:52:E1:E6 (Expired on: October 17, 2031, 12:00 am)
+        ✅ MAC: 00:1A:79:A1:DA:18 (Expired on: Unlimited)
+
+================================================================================
+
+🛰 PORTAL: http://ainfo.icu/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:53:5E:BC (Expired on: November 6, 2025, 8:53 pm)
+
+================================================================================
+
+🛰 PORTAL: http://d.tvdark.eu/c
+    📍 IP: 192.142.44.94 (United Kingdom)
+    🌍 SERVER TIMEZONE: Europe/London
+        ✅ MAC: 00:1A:79:66:F7:54 (Expired on: May 2, 2026, 5:15 pm)
+        ✅ MAC: 00:1A:79:F7:1F:D6 (Expired on: January 4, 2026, 8:50 pm)
+        ✅ MAC: 00:1A:79:16:69:DB (Expired on: February 3, 2026, 7:36 pm)
+        ✅ MAC: 00:1A:79:DB:6B:18 (Expired on: July 10, 2026, 3:34 pm)
+        ✅ MAC: 00:1A:79:C5:98:DB (Expired on: February 5, 2026, 4:46 pm)
+        ✅ MAC: 00:1A:79:52:3C:53 (Expired on: February 20, 2026, 10:41 am)
+        ✅ MAC: 00:1A:79:29:2F:10 (Expired on: November 27, 2025, 9:22 pm)
+        ✅ MAC: 00:1A:79:28:2F:7B (Expired on: January 13, 2026, 6:46 pm)
+        ✅ MAC: 00:1A:79:4E:B2:7A (Expired on: December 11, 2025, 8:19 pm)
+        ✅ MAC: 00:1A:79:3D:55:5F (Expired on: May 10, 2026, 3:43 pm)
+        ✅ MAC: 00:1A:79:6F:0F:4F (Expired on: December 1, 2025, 5:57 pm)
+        ✅ MAC: 00:1A:79:A9:E0:91 (Expired on: September 26, 2026, 7:05 pm)
+        ✅ MAC: 00:1A:79:57:7B:0C (Expired on: March 17, 2026, 8:32 am)
+        ✅ MAC: 00:1A:79:A6:0F:8A (Expired on: July 29, 2026, 9:22 pm)
+        ✅ MAC: 00:1A:79:27:0F:89 (Expired on: December 2, 2025, 10:04 pm)
+        ✅ MAC: 00:1A:79:54:8F:55 (Expired on: August 30, 2026, 3:42 pm)
+        ✅ MAC: 00:1A:79:C6:38:15 (Expired on: December 21, 2025, 5:14 pm)
+        ✅ MAC: 00:1A:79:3D:F9:BC (Expired on: November 17, 2025, 7:20 pm)
+        ✅ MAC: 00:1A:79:64:D9:9A (Expired on: April 1, 2026, 7:10 pm)
+        ✅ MAC: 00:1A:79:17:2C:A1 (Expired on: February 8, 2026, 3:54 pm)
+        ✅ MAC: 00:1A:79:A4:B5:EF (Expired on: March 29, 2026, 4:50 pm)
+        ✅ MAC: 00:1A:79:08:EF:47 (Expired on: October 24, 2025, 9:04 pm)
+        ✅ MAC: 00:1A:79:62:42:86 (Expired on: August 20, 2026, 2:21 pm)
+        ✅ MAC: 00:1A:79:67:1D:00 (Expired on: December 14, 2025, 6:07 pm)
+        ✅ MAC: 00:1A:79:27:2F:31 (Expired on: October 23, 2026, 4:57 pm)
+        ✅ MAC: 00:1A:79:4E:67:0A (Expired on: January 30, 2026, 4:50 pm)
+        ✅ MAC: 00:1A:79:A6:78:06 (Expired on: November 11, 2025, 6:25 pm)
+        ✅ MAC: 00:1A:79:76:5C:C6 (Expired on: March 1, 2026, 5:31 pm)
+        ✅ MAC: 00:1A:79:5D:C3:B6 (Expired on: May 1, 2026, 12:19 am)
+        ✅ MAC: 00:1A:79:B3:B2:B9 (Expired on: May 29, 2026, 8:32 pm)
+        ✅ MAC: 00:1A:79:34:0F:7A (Expired on: December 31, 2025, 8:42 pm)
+        ✅ MAC: 00:1A:79:6F:4F:10 (Expired on: June 13, 2026, 11:03 am)
+        ✅ MAC: 00:1A:79:7C:7F:B1 (Expired on: December 19, 2025, 6:11 pm)
+        ✅ MAC: 00:1A:79:E0:4F:DE (Expired on: November 30, 2025, 11:12 am)
+        ✅ MAC: 00:1A:79:E0:FC:F9 (Expired on: May 1, 2026, 9:43 pm)
+        ✅ MAC: 00:1A:79:5E:47:80 (Expired on: January 8, 2026, 7:43 pm)
+
+================================================================================
+
+🛰 PORTAL: http://frt23.mi20.cc/stalker_portal/c
+    📍 IP: 89.105.216.189 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:F7:D9:72 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:3A:DA:E4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:DD:DA:5D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:39:15:97 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:72:A3:6F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:A7:94:86 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:9D:46:91 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:BA:80:83 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:AD:F9:F7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:42:D5:EB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:A9:05:FC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:62:30:35 (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://tv.banjotv.tv/stalker_portal/c
+    📍 IP: 104.21.94.167 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:68:23:21 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:1B:A5:7B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:FB:B2:6A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:B8:41:D6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6C:8F:1A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:69:F7:46 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:B4:71:AC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:B5:37:5F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:AA:36:74 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:15:3F:E6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5B:2F:DC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:3A:6C:C2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:3A:E1:E1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:A8:D3:24 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:A1:40:60 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:D9:94:53 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:B4:79:4C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:A6:33:AB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:A6:B6:25 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:AA:13:28 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:15:7F:51 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:0A:8A:22 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:0B:DA:DD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:2F:08:65 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:3B:82:1F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:65:56:BE (Expired on: N/A)
+    📍 IP: 172.67.138.68 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:A1:3F:47 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:B7:72:92 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:55:C8:53 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:AF:2F:7A (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://danatv.tv.streamtv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:C4:20:C0 (Expired on: January 19, 2026, 8:51 pm)
+        ✅ MAC: 00:1A:79:39:C9:9D (Expired on: November 12, 2025, 9:30 am)
+        ✅ MAC: 00:1A:79:B5:59:BD (Expired on: December 2, 2025, 8:39 pm)
+        ✅ MAC: 00:1A:79:B9:84:4D (Expired on: April 20, 2026, 11:03 am)
+        ✅ MAC: 00:1A:79:F5:2A:8D (Expired on: February 20, 2026, 3:44 pm)
+
+================================================================================
+
+🛰 PORTAL: http://dino10.noahtv.online/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:47:DD:1F (Expired on: November 8, 2025, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://torcidaiptv.gentv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:C6:2D:23 (Expired on: March 23, 2026, 1:20 pm)
+        ✅ MAC: 00:1A:79:CE:20:FE (Expired on: May 11, 2026, 2:38 pm)
+        ✅ MAC: 00:1A:79:A1:32:43 (Expired on: January 17, 2026, 3:09 pm)
+        ✅ MAC: 00:1A:79:19:34:DC (Expired on: January 20, 2026, 7:59 pm)
+        ✅ MAC: 00:1A:79:D1:FC:C2 (Expired on: February 2, 2026, 2:37 pm)
+
+================================================================================
+
+🛰 PORTAL: http://app.mm88.com.bd/stalker_portal/c
+    📍 IP: 138.199.131.3 (Germany)
+    🌍 SERVER TIMEZONE: Europe/Berlin
+        ✅ MAC: 00:1A:79:7A:94:EF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:8A:59 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:49:7E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:34:4A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:E1:1E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:CC:79 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:D5:59:61 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:80:5B:58 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:74:CD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:47:E1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:1E:00 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:81:30:20 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:8E:DD:C7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:0D:AE (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:85:3B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:EA:B2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:36:BB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:C9:46 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:C2:B0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:00:27:5E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:95:24 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:8A:48 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:2A:B9 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:C0:8A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:42:E1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:80:F4:B9 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:00:38:EC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:DF:C4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:6D:E0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:80:CB:6C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:1E:DF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:8C:04 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:29:76 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:39:45 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:C3:08 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:94:F8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:D7:55 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:0F:D1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:0C:02 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:81:F9:F3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:4C:45 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:26:05 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:D9:98 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:5E:0B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:27:5B (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://168.119.44.162:2080/stalker_portal/c
+    📍 IP: 168.119.44.162 (Germany)
+    🌍 SERVER TIMEZONE: Europe/Berlin
+        ✅ MAC: 00:1A:79:70:BA:C6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6D:09:C0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:83:08:67 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:59:D1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:31:D0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:72:04:5C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:76:9D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:57:9C:15 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6E:D5:7E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4E:69:80 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:00:08:79 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:71:54:39 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6F:62:32 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:2B:A1:C4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5F:C6:14 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:35:48:3A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:71:EC:CA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:02:57:86 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5F:C7:BD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:5A:89 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:25:76 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:63:E3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:C5:E8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:81:F8:C0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:72:A6:06 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:69:1A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:71:51:5E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:B4:77:99 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:59:F4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5D:D9:97 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4B:5A:4D (Expired on: N/A)
+        ✅ MAC: N/A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:81:E8:4F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:06:AE (Expired on: N/A)
+        ✅ MAC: 00:1A:79:81:F9:81 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:64:04 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:62:7B:22 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:5F:55 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:48:84:5D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:56:44 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:81:5A:F6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:72:22:E8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:82:F5:6D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:71:03:21 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:C0:C5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:84:E0:E1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:83:05:74 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:47:3E:CB (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://server.hdiptv.world:8080/c
+    📍 IP: 91.218.49.4 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:8E:98:2F (Expired on: October 23, 2026, 7:14 pm)
+
+================================================================================
+
+🛰 PORTAL: http://backup.xp1.tv/c
+    📍 IP: 95.134.201.247 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kiev
+        ✅ MAC: 00:1A:79:37:00:B7 (Expired on: February 3, 2026, 12:59 pm)
+        ✅ MAC: 00:1A:79:41:7F:C6 (Expired on: December 18, 2025, 10:38 pm)
+        ✅ MAC: 00:1A:79:C7:EE:C3 (Expired on: April 14, 2024, 5:53 pm)
+        ✅ MAC: 00:1A:79:3B:44:3A (Expired on: April 2, 2026, 12:08 pm)
+        ✅ MAC: 00:1A:79:53:5E:50 (Expired on: May 6, 2025, 12:34 pm)
+        ✅ MAC: 00:1A:79:6D:65:78 (Expired on: November 28, 2025, 9:44 pm)
+        ✅ MAC: 00:1A:79:40:31:61 (Expired on: November 17, 2025, 2:45 pm)
+        ✅ MAC: 00:1A:79:65:15:66 (Expired on: May 29, 2025, 12:43 pm)
+        ✅ MAC: 00:1A:79:A5:34:36 (Expired on: February 12, 2026, 11:33 am)
+        ✅ MAC: 00:1A:79:AB:5B:D9 (Expired on: June 19, 2026, 7:48 pm)
+        ✅ MAC: 00:1A:79:8B:3D:D3 (Expired on: December 11, 2024, 9:00 pm)
+        ✅ MAC: 00:1A:79:D3:37:85 (Expired on: February 17, 2026, 8:44 pm)
+        ✅ MAC: 00:1A:79:B8:0C:71 (Expired on: January 3, 2026, 7:51 pm)
+        ✅ MAC: 00:1A:79:4C:BF:6F (Expired on: May 26, 2024, 12:29 pm)
+        ✅ MAC: 00:1A:79:30:5F:2A (Expired on: October 28, 2026, 5:49 pm)
+        ✅ MAC: 00:1A:79:CD:77:F4 (Expired on: April 16, 2026, 9:09 pm)
+        ✅ MAC: 00:1A:79:54:D4:2F (Expired on: December 14, 2025, 12:04 pm)
+        ✅ MAC: 00:1A:79:4C:85:0B (Expired on: November 28, 2025, 5:37 pm)
+        ✅ MAC: 00:1A:79:CE:04:6B (Expired on: July 7, 2026, 2:59 pm)
+        ✅ MAC: 00:1A:79:3D:53:D9 (Expired on: March 13, 2026, 7:02 am)
+        ✅ MAC: 00:1A:79:9F:98:F5 (Expired on: March 17, 2024, 6:37 pm)
+        ✅ MAC: 00:1A:79:A3:BC:9F (Expired on: June 4, 2024, 12:24 pm)
+        ✅ MAC: 00:1A:79:BC:90:DF (Expired on: February 13, 2026, 5:32 pm)
+        ✅ MAC: 00:1A:79:4F:53:AE (Expired on: October 8, 2025, 4:11 pm)
+        ✅ MAC: 00:1A:79:6B:33:BD (Expired on: May 17, 2024, 1:13 pm)
+        ✅ MAC: 00:1A:79:76:22:91 (Expired on: November 9, 2025, 6:20 pm)
+        ✅ MAC: 00:1A:79:F5:91:F0 (Expired on: December 12, 2025, 12:04 pm)
+        ✅ MAC: 00:1A:79:BC:7F:C6 (Expired on: October 22, 2025, 5:22 pm)
+        ✅ MAC: 00:1A:79:20:32:AA (Expired on: November 12, 2025, 8:27 pm)
+        ✅ MAC: 00:1A:79:05:E0:B3 (Expired on: December 16, 2025, 4:32 pm)
+        ✅ MAC: 00:1A:79:8A:E8:F0 (Expired on: October 25, 2026, 7:46 pm)
+        ✅ MAC: 00:1A:79:19:4F:B6 (Expired on: March 26, 2024, 1:24 pm)
+        ✅ MAC: 00:1A:79:3D:86:1F (Expired on: June 6, 2025, 3:24 pm)
+        ✅ MAC: 00:1A:79:D7:D7:EB (Expired on: October 24, 2026, 9:56 pm)
+        ✅ MAC: 00:1A:79:D4:7A:51 (Expired on: October 17, 2026, 6:13 pm)
+        ✅ MAC: 00:1A:79:AE:4B:64 (Expired on: March 9, 2026, 8:02 pm)
+        ✅ MAC: 00:1A:79:4B:98:9D (Expired on: December 2, 2025, 5:37 pm)
+        ✅ MAC: 00:1A:79:3F:07:89 (Expired on: January 13, 2024, 5:06 pm)
+        ✅ MAC: 00:1A:79:BA:C8:12 (Expired on: October 1, 2026, 4:42 pm)
+        ✅ MAC: 00:1A:79:D0:0E:C9 (Expired on: July 15, 2026, 4:47 pm)
+        ✅ MAC: 00:1A:79:D3:3D:A9 (Expired on: June 21, 2026, 11:43 am)
+        ✅ MAC: 00:1A:79:A6:49:F1 (Expired on: May 1, 2025, 6:59 pm)
+        ✅ MAC: 00:1A:79:AC:11:A1 (Expired on: September 2, 2026, 6:21 pm)
+        ✅ MAC: 00:1A:79:4C:13:04 (Expired on: May 13, 2026, 10:17 am)
+        ✅ MAC: 00:1A:79:9C:D2:20 (Expired on: March 14, 2026, 11:35 am)
+        ✅ MAC: 00:1A:79:72:FB:EE (Expired on: March 26, 2026, 4:38 am)
+        ✅ MAC: 00:1A:79:05:E6:BC (Expired on: April 18, 2024, 5:40 pm)
+        ✅ MAC: 00:1A:79:44:57:EC (Expired on: December 3, 2025, 3:42 pm)
+        ✅ MAC: 00:1A:79:B8:6B:87 (Expired on: June 6, 2025, 1:59 pm)
+        ✅ MAC: 00:1A:79:D2:09:8A (Expired on: July 25, 2026, 8:25 pm)
+        ✅ MAC: 00:1A:79:A6:F5:22 (Expired on: January 31, 2026, 2:00 pm)
+        ✅ MAC: 00:1A:79:8B:39:60 (Expired on: January 29, 2026, 4:08 pm)
+        ✅ MAC: 00:1A:79:47:9B:B0 (Expired on: November 20, 2025, 6:44 pm)
+        ✅ MAC: 00:1A:79:F7:68:57 (Expired on: December 5, 2025, 4:35 pm)
+        ✅ MAC: 00:1A:79:6F:0D:3D (Expired on: April 11, 2025, 6:07 pm)
+        ✅ MAC: 00:1A:79:AE:BA:7D (Expired on: February 2, 2025, 2:25 pm)
+        ✅ MAC: 00:1A:79:CD:29:1C (Expired on: December 9, 2025, 7:59 pm)
+        ✅ MAC: 00:1A:79:BD:63:67 (Expired on: October 24, 2026, 12:42 pm)
+        ✅ MAC: 00:1A:79:84:1C:55 (Expired on: Unlimited)
+        ✅ MAC: 00:1A:79:5C:CB:E9 (Expired on: March 23, 2026, 11:38 pm)
+        ✅ MAC: 00:1A:79:BA:90:F0 (Expired on: March 23, 2025, 11:32 am)
+        ✅ MAC: 00:1A:79:B9:CF:37 (Expired on: June 21, 2026, 12:03 pm)
+        ✅ MAC: 00:1A:79:F4:0D:DE (Expired on: February 6, 2026, 7:58 pm)
+        ✅ MAC: 00:1A:79:53:5E:29 (Expired on: October 10, 2024, 4:00 pm)
+        ✅ MAC: 00:1A:79:45:F3:2A (Expired on: February 3, 2025, 1:15 pm)
+        ✅ MAC: 00:1A:79:17:1F:C6 (Expired on: October 21, 2026, 2:22 pm)
+        ✅ MAC: 00:1A:79:47:F7:FE (Expired on: May 20, 2024, 5:12 pm)
+        ✅ MAC: 00:1A:79:A2:BB:F1 (Expired on: December 14, 2025, 6:14 pm)
+        ✅ MAC: 00:1A:79:01:67:A7 (Expired on: January 5, 2026, 4:15 pm)
+        ✅ MAC: 00:1A:79:31:5E:FB (Expired on: November 13, 2025, 12:06 pm)
+        ✅ MAC: 00:1A:79:D3:3D:5E (Expired on: December 31, 2025, 11:36 am)
+        ✅ MAC: 00:1A:79:04:89:50 (Expired on: August 29, 2026, 6:31 pm)
+        ✅ MAC: 00:1A:79:57:2D:3E (Expired on: December 8, 2025, 6:12 pm)
+        ✅ MAC: 00:1A:79:4C:BF:6F (Expired on: May 26, 2024, 12:29 pm)
+        ✅ MAC: 00:1A:79:CE:04:6B (Expired on: July 7, 2026, 2:59 pm)
+        ✅ MAC: 00:1A:79:A1:81:40 (Expired on: September 18, 2025, 11:21 pm)
+        ✅ MAC: 00:1A:79:D3:4A:14 (Expired on: June 21, 2026, 9:51 am)
+        ✅ MAC: 00:1A:79:40:7E:C2 (Expired on: August 15, 2025, 9:31 am)
+        ✅ MAC: 00:1A:79:05:D1:B0 (Expired on: September 13, 2026, 11:17 am)
+        ✅ MAC: 00:1A:79:C4:3E:03 (Expired on: December 25, 2025, 2:35 pm)
+        ✅ MAC: 00:1A:79:BB:E6:37 (Expired on: February 4, 2026, 3:34 pm)
+        ✅ MAC: 00:1A:79:05:D1:C0 (Expired on: August 8, 2025, 9:59 am)
+        ✅ MAC: 00:1A:79:C1:A9:2E (Expired on: May 4, 2026, 10:29 am)
+        ✅ MAC: 00:1A:79:1F:E7:DA (Expired on: January 25, 2026, 11:37 am)
+        ✅ MAC: 00:1A:79:C4:2E:CA (Expired on: February 27, 2026, 12:23 pm)
+        ✅ MAC: 00:1A:79:8B:3C:33 (Expired on: November 19, 2026, 6:26 pm)
+        ✅ MAC: 00:1A:79:8A:E6:F4 (Expired on: September 18, 2025, 1:35 pm)
+        ✅ MAC: 00:1A:79:F1:AF:7A (Expired on: March 15, 2026, 2:42 pm)
+        ✅ MAC: 00:1A:79:A1:80:2A (Expired on: September 18, 2026, 7:22 pm)
+        ✅ MAC: 00:1A:79:B4:55:8C (Expired on: March 16, 2024, 6:53 pm)
+        ✅ MAC: 00:1A:79:64:5C:B7 (Expired on: May 21, 2024, 10:47 am)
+        ✅ MAC: 00:1A:79:D4:79:67 (Expired on: September 19, 2026, 4:38 pm)
+
+================================================================================
+
+🛰 PORTAL: http://77.74.193.158:88/stalker_portal/c
+    📍 IP: 77.74.193.158 (United Kingdom)
+    🌍 SERVER TIMEZONE: Europe/London
+        ✅ MAC: 00:1A:79:04:85:5B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:EF:19:3D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:40:16:9C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6C:4D:73 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:36:39:B6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:02:C2:6B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F2:7E:55 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:88:12:EE (Expired on: N/A)
+        ✅ MAC: 00:1A:79:8B:4D:5F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:64:E6:70 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:38:75:8C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:33:66:63 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:A3:81:AA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:DC:69 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:42:6E:19 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:22:EA:C7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:35:30:31 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:D0:BA:7A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5A:40:68 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:43:91:CF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4F:36:98 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:25:C7:93 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:57:D6:72 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:42:1D:5D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:9A:66:22 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:81:89:20 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:04:F0:CE (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7B:47:4F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:3E:AD:D6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:36:24:DB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4F:17:DC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:67:F4:7B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:05:97:0C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:01:15:5C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:21:AF:0C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E0:ED:5C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6C:4D:73 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:16:95:DF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4B:91:AF (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://oktay-can-mdiya-hack.streamtv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:99:BF:A7 (Expired on: May 17, 2026, 6:50 pm)
+
+================================================================================
+
+🛰 PORTAL: http://wyveep.com:8080/c
+    📍 IP: 104.26.7.244 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:35:64:39 (Expired on: September 22, 2026, 7:49 pm)
+        ✅ MAC: 00:1A:79:C8:42:4A (Expired on: July 2, 2026, 5:32 pm)
+        ✅ MAC: 00:1A:79:D3:09:B3 (Expired on: November 7, 2025, 5:33 pm)
+        ✅ MAC: 00:1A:79:2C:99:F9 (Expired on: May 3, 2026, 2:51 pm)
+        ✅ MAC: 00:1A:79:B2:3C:6D (Expired on: December 19, 2025, 10:37 pm)
+
+================================================================================
+
+🛰 PORTAL: http://cbrlig.com:8080/c
+    📍 IP: 172.67.138.163 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:D3:B0:F2 (Expired on: November 29, 2025, 12:08 pm)
+        ✅ MAC: 00:1A:79:F1:EA:1D (Expired on: March 7, 2026, 12:22 pm)
+    📍 IP: 2606:4700:3037::6815:844 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:B1:2F:0F (Expired on: September 15, 2026, 6:44 pm)
+        ✅ MAC: 00:1A:79:C1:A4:D1 (Expired on: June 11, 2026, 8:49 pm)
+    📍 IP: 2606:4700:3036::ac43:8aa3 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:BD:3C:EA (Expired on: June 6, 2026, 9:12 pm)
+
+================================================================================
+
+🛰 PORTAL: http://90309-fri.ott-cdn.me/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:D5:A2:FD (Expired on: July 30, 2026, 9:06 pm)
+        ✅ MAC: 00:1A:79:5B:60:50 (Expired on: April 28, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:E8:5C:33 (Expired on: September 9, 2026, 12:00 am)
+    📍 IP: 103.176.90.189 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:59:DB:40 (Expired on: March 4, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:0D:5F:1B (Expired on: May 28, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:D3:28:D0 (Expired on: October 20, 2025, 6:24 pm)
+        ✅ MAC: 00:1A:79:53:3F:56 (Expired on: October 31, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:74:E0:43 (Expired on: November 29, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:72:45:DF (Expired on: September 29, 2025, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://tv.deirnet.ps/stalker_portal/c
+    📍 IP: 213.244.96.251 (Palestine)
+    🌍 SERVER TIMEZONE: Asia/Gaza
+        ✅ MAC: 00:1A:79:48:62:90 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:71:95:2E (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://hans_monika.streamtv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:BF:F5:B8 (Expired on: September 5, 2026, 6:42 pm)
+        ✅ MAC: 00:1A:79:AD:55:98 (Expired on: August 31, 2026, 2:36 pm)
+        ✅ MAC: 00:1A:79:B3:33:18 (Expired on: September 22, 2026, 12:37 pm)
+        ✅ MAC: 00:1A:79:AB:DC:1E (Expired on: November 23, 2025, 6:21 pm)
+        ✅ MAC: 00:1A:79:B2:05:F7 (Expired on: March 20, 2026, 10:19 pm)
+
+================================================================================
+
+🛰 PORTAL: http://z.zcatt.cc/stalker_portal/c
+    📍 IP: 104.21.85.166 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:55:CE:91 (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://zenlink.link/c
+    📍 IP: 103.161.35.25 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:7E:B6:94 (Expired on: April 23, 2026, 6:46 pm)
+
+================================================================================
+
+🛰 PORTAL: http://cmskos.bekaks.net:777/c
+    📍 IP: 89.37.117.154 (Romania)
+    🌍 SERVER TIMEZONE: Europe/Bucharest
+        ✅ MAC: 00:1A:79:47:FA:22 (Expired on: November 3, 2025, 2:10 pm)
+        ✅ MAC: 00:1A:79:57:99:9A (Expired on: December 17, 2025, 7:48 pm)
+
+================================================================================
+
+🛰 PORTAL: http://iptv.jinbox.nl/c
+    📍 IP: 95.134.201.247 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kiev
+        ✅ MAC: 00:1A:79:8A:AD:ED (Expired on: January 3, 2026, 6:08 pm)
+        ✅ MAC: 00:1A:79:4F:02:F8 (Expired on: March 5, 2026, 1:14 pm)
+        ✅ MAC: 00:1A:79:57:AF:2E (Expired on: April 14, 2024, 3:05 pm)
+        ✅ MAC: 00:1A:79:41:73:B3 (Expired on: October 8, 2025, 5:29 pm)
+        ✅ MAC: 00:1A:79:BA:D6:51 (Expired on: December 31, 2025, 1:33 pm)
+        ✅ MAC: 00:1A:79:C2:8A:B6 (Expired on: December 30, 2024, 7:03 pm)
+        ✅ MAC: 00:1A:79:3F:AE:8E (Expired on: January 4, 2026, 10:45 am)
+        ✅ MAC: 00:1A:79:BD:BE:02 (Expired on: January 11, 2026, 6:10 pm)
+        ✅ MAC: 00:1A:79:8A:E4:10 (Expired on: December 21, 2024, 8:18 pm)
+        ✅ MAC: 00:1A:79:52:3A:57 (Expired on: February 25, 2026, 5:43 pm)
+        ✅ MAC: 00:1A:79:6A:19:45 (Expired on: October 29, 2025, 10:46 pm)
+        ✅ MAC: 00:1A:79:40:9F:82 (Expired on: January 23, 2026, 7:31 am)
+        ✅ MAC: 00:1A:79:D0:0E:C9 (Expired on: July 15, 2026, 4:47 pm)
+        ✅ MAC: 00:1A:79:C4:2D:B0 (Expired on: February 25, 2026, 8:10 pm)
+        ✅ MAC: 00:1A:79:77:01:14 (Expired on: December 2, 2024, 3:45 pm)
+        ✅ MAC: 00:1A:79:50:2E:DC (Expired on: November 7, 2025, 5:23 pm)
+        ✅ MAC: 00:1A:79:BD:B3:99 (Expired on: January 17, 2026, 9:58 am)
+        ✅ MAC: 00:1A:79:A2:BB:F1 (Expired on: December 14, 2025, 6:14 pm)
+        ✅ MAC: 00:1A:79:39:D6:76 (Expired on: December 22, 2025, 2:28 pm)
+        ✅ MAC: 00:1A:79:45:6F:71 (Expired on: May 26, 2025, 4:56 pm)
+        ✅ MAC: 00:1A:79:AA:8E:E9 (Expired on: November 26, 2026, 4:29 pm)
+        ✅ MAC: 00:1A:79:A3:9B:8E (Expired on: November 21, 2025, 9:06 pm)
+        ✅ MAC: 00:1A:79:90:BD:6F (Expired on: November 22, 2026, 6:08 pm)
+        ✅ MAC: 00:1A:79:FA:06:97 (Expired on: December 26, 2024, 11:18 am)
+        ✅ MAC: 00:1A:79:2F:61:B3 (Expired on: September 20, 2026, 10:03 am)
+        ✅ MAC: 00:1A:79:BA:3A:0A (Expired on: October 15, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:CC:42:8C (Expired on: July 28, 2026, 3:37 pm)
+        ✅ MAC: 00:1A:79:50:CC:EA (Expired on: August 1, 2025, 3:26 pm)
+        ✅ MAC: 00:1A:79:8A:F1:36 (Expired on: January 23, 2025, 7:39 pm)
+        ✅ MAC: 00:1A:79:2D:22:0E (Expired on: November 23, 2025, 7:41 pm)
+
+================================================================================
+
+🛰 PORTAL: http://dragoniptv.de/c
+    📍 IP: 95.134.201.247 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kiev
+        ✅ MAC: 00:1A:79:BA:85:73 (Expired on: July 28, 2025, 6:00 pm)
+        ✅ MAC: 00:1A:79:3D:08:3E (Expired on: March 13, 2026, 3:27 pm)
+        ✅ MAC: 00:1A:79:CD:07:D5 (Expired on: December 23, 2024, 3:17 pm)
+        ✅ MAC: 00:1A:79:BD:0E:F1 (Expired on: December 5, 2025, 11:44 pm)
+        ✅ MAC: 00:1A:79:1C:DA:C8 (Expired on: November 17, 2025, 8:26 pm)
+        ✅ MAC: 00:1A:79:3B:27:86 (Expired on: December 11, 2024, 2:35 pm)
+        ✅ MAC: 00:1A:79:BC:7B:D2 (Expired on: September 18, 2026, 8:03 am)
+        ✅ MAC: 00:1A:79:8B:46:51 (Expired on: May 27, 2026, 6:28 pm)
+        ✅ MAC: 00:1A:79:A1:92:25 (Expired on: February 1, 2024, 6:46 pm)
+        ✅ MAC: 00:1A:79:C8:31:5F (Expired on: January 30, 2026, 9:47 pm)
+        ✅ MAC: 00:1A:79:00:82:B6 (Expired on: December 4, 2025, 7:19 pm)
+        ✅ MAC: 00:1A:79:D3:3E:14 (Expired on: May 8, 2026, 5:55 pm)
+        ✅ MAC: 00:1A:79:B3:26:FD (Expired on: June 5, 2026, 9:14 am)
+        ✅ MAC: 00:1A:79:B8:2F:F6 (Expired on: April 14, 2026, 6:05 pm)
+        ✅ MAC: 00:1A:79:5A:E3:B5 (Expired on: Unlimited)
+        ✅ MAC: 00:1A:79:91:7D:0D (Expired on: May 15, 2025, 7:33 pm)
+        ✅ MAC: 00:1A:79:4D:5D:42 (Expired on: October 29, 2025, 10:57 am)
+        ✅ MAC: 00:1A:79:A1:1B:8C (Expired on: October 29, 2025, 7:04 pm)
+        ✅ MAC: 00:1A:79:5D:C1:9A (Expired on: November 26, 2025, 8:15 pm)
+        ✅ MAC: 00:1A:79:BA:B3:D4 (Expired on: November 5, 2025, 5:55 pm)
+        ✅ MAC: 00:1A:79:A9:25:1B (Expired on: April 11, 2025, 9:53 am)
+        ✅ MAC: 00:1A:79:4A:41:3E (Expired on: March 6, 2026, 4:55 pm)
+        ✅ MAC: 00:1A:79:C3:12:65 (Expired on: September 21, 2025, 8:59 am)
+        ✅ MAC: 00:1A:79:A7:D5:55 (Expired on: November 20, 2025, 8:59 pm)
+        ✅ MAC: 00:1A:79:76:22:91 (Expired on: November 9, 2026, 10:26 pm)
+        ✅ MAC: 00:1A:79:4C:BE:E5 (Expired on: March 22, 2026, 3:50 pm)
+        ✅ MAC: 00:1A:79:66:09:C1 (Expired on: September 26, 2026, 7:17 pm)
+        ✅ MAC: 00:1A:79:AB:C1:E7 (Expired on: December 25, 2025, 12:40 am)
+        ✅ MAC: 00:1A:79:EF:5A:1A (Expired on: September 18, 2026, 3:48 pm)
+        ✅ MAC: 00:1A:79:A1:30:F8 (Expired on: February 18, 2026, 5:14 pm)
+        ✅ MAC: 00:1A:79:E2:EC:71 (Expired on: December 2, 2025, 2:34 pm)
+        ✅ MAC: 00:1A:79:A4:7E:7F (Expired on: December 27, 2023, 2:49 pm)
+
+================================================================================
+
+🛰 PORTAL: http://xc.tvset.top/c
+    📍 IP: 62.182.83.108 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:44:AD:93 (Expired on: November 22, 2025, 2:08 pm)
+        ✅ MAC: 00:1A:79:AE:91:B5 (Expired on: November 25, 2025, 4:33 pm)
+        ✅ MAC: 00:1A:79:D2:D5:6A (Expired on: January 7, 2026, 6:59 pm)
+        ✅ MAC: 00:1A:79:31:91:80 (Expired on: December 23, 2025, 7:13 pm)
+        ✅ MAC: 00:1A:79:6C:C9:DF (Expired on: March 3, 2026, 5:40 pm)
+        ✅ MAC: 00:1A:79:38:3C:03 (Expired on: December 21, 2025, 11:17 am)
+        ✅ MAC: 00:1A:79:D1:8F:C2 (Expired on: November 20, 2026, 3:15 pm)
+
+================================================================================
+
+🛰 PORTAL: http://exchange.jinbox.nl:1339/c
+    📍 IP: 95.134.201.247 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kiev
+        ✅ MAC: 00:1A:79:FA:0D:7D (Expired on: November 26, 2025, 9:23 pm)
+        ✅ MAC: 00:1A:79:01:53:D3 (Expired on: February 26, 2026, 10:46 am)
+        ✅ MAC: 00:1A:79:3E:69:00 (Expired on: March 19, 2026, 9:20 pm)
+        ✅ MAC: 00:1A:79:48:0E:93 (Expired on: February 7, 2026, 4:50 pm)
+        ✅ MAC: 00:1A:79:8B:2D:E6 (Expired on: October 3, 2025, 7:24 pm)
+        ✅ MAC: 00:1A:79:8A:E7:47 (Expired on: April 7, 2025, 8:01 pm)
+        ✅ MAC: 00:1A:79:BD:16:86 (Expired on: March 9, 2026, 1:19 pm)
+        ✅ MAC: 00:1A:79:A1:A7:95 (Expired on: March 13, 2026, 9:36 pm)
+        ✅ MAC: 00:1A:79:A1:DC:B7 (Expired on: May 25, 2026, 11:07 am)
+        ✅ MAC: 00:1A:79:AB:C8:69 (Expired on: Unlimited)
+        ✅ MAC: 00:1A:79:D6:18:F0 (Expired on: August 27, 2026, 6:38 pm)
+        ✅ MAC: 00:1A:79:3E:61:07 (Expired on: January 2, 2026, 4:37 pm)
+        ✅ MAC: 00:1A:79:B4:44:4F (Expired on: July 29, 2024, 11:35 am)
+        ✅ MAC: 00:1A:79:0C:4C:DC (Expired on: July 27, 2025, 6:03 pm)
+        ✅ MAC: 00:1A:79:D2:09:6C (Expired on: July 27, 2026, 10:33 am)
+        ✅ MAC: 00:1A:79:A1:30:ED (Expired on: March 26, 2026, 5:57 pm)
+        ✅ MAC: 00:1A:79:BD:C1:1E (Expired on: February 23, 2026, 5:30 pm)
+        ✅ MAC: 00:1A:79:B6:4B:6D (Expired on: October 1, 2025, 3:21 pm)
+        ✅ MAC: 00:1A:79:A5:31:67 (Expired on: January 12, 2024, 6:58 pm)
+        ✅ MAC: 00:1A:79:6E:D4:A5 (Expired on: December 11, 2025, 8:52 am)
+        ✅ MAC: 00:1A:79:32:A2:D0 (Expired on: July 12, 2026, 11:07 am)
+        ✅ MAC: 00:1A:79:68:ED:0E (Expired on: April 11, 2025, 5:02 pm)
+        ✅ MAC: 00:1A:79:A7:CD:99 (Expired on: January 19, 2026, 3:17 pm)
+        ✅ MAC: 00:1A:79:81:8B:F7 (Expired on: June 8, 2026, 12:34 pm)
+        ✅ MAC: 00:1A:79:C8:2C:AE (Expired on: October 23, 2026, 6:56 pm)
+        ✅ MAC: 00:1A:79:6A:5F:56 (Expired on: February 5, 2026, 2:46 pm)
+        ✅ MAC: 00:1A:79:C8:67:7F (Expired on: May 25, 2026, 4:54 pm)
+        ✅ MAC: 00:1A:79:17:1F:C6 (Expired on: October 21, 2026, 2:22 pm)
+        ✅ MAC: 00:1A:79:CA:E8:AB (Expired on: December 2, 2025, 5:32 pm)
+        ✅ MAC: 00:1A:79:41:EF:81 (Expired on: October 17, 2024, 4:05 pm)
+        ✅ MAC: 00:1A:79:C4:04:B9 (Expired on: February 7, 2026, 2:40 pm)
+
+================================================================================
+
+🛰 PORTAL: http://testdi.proxytx.cloud/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:75:6F:3E (Expired on: January 29, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:94:AF:D0 (Expired on: December 4, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:BF:5F:16 (Expired on: March 1, 2026, 7:26 pm)
+        ✅ MAC: 00:1A:79:CC:35:21 (Expired on: July 12, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:6F:C6:09 (Expired on: January 9, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:41:EB:F0 (Expired on: September 19, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:24:7B:00 (Expired on: January 16, 2026, 3:09 pm)
+        ✅ MAC: 00:1A:79:2B:77:7A (Expired on: June 11, 2026, 7:54 pm)
+        ✅ MAC: 00:1A:79:63:A4:9E (Expired on: September 21, 2026, 6:42 pm)
+        ✅ MAC: 00:1A:79:85:F2:D3 (Expired on: October 4, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:8B:3B:85 (Expired on: September 16, 2025, 6:48 pm)
+
+================================================================================
+
+🛰 PORTAL: http://exm3u.123tv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:AF:78:C2 (Expired on: March 11, 2026, 11:08 am)
+        ✅ MAC: 00:1A:79:C7:F6:0C (Expired on: November 26, 2025, 4:32 pm)
+
+================================================================================
+
+🛰 PORTAL: http://iptvch2.com/c
+    📍 IP: 62.182.83.108 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:1A:88:9D (Expired on: December 31, 2025, 10:38 am)
+        ✅ MAC: 00:1A:79:4E:A4:1B (Expired on: January 2, 2026, 10:02 am)
+        ✅ MAC: 00:1A:79:5A:8A:BE (Expired on: September 7, 2026, 6:42 am)
+
+================================================================================
+
+🛰 PORTAL: http://pera-on.cyou:8080/c
+    📍 IP: 172.67.179.150 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:BD:4C:27 (Expired on: February 5, 2026, 8:27 pm)
+        ✅ MAC: 00:1A:79:C9:D9:2F (Expired on: January 27, 2026, 11:19 pm)
+        ✅ MAC: 00:1A:79:BD:4C:27 (Expired on: February 5, 2026, 8:27 pm)
+        ✅ MAC: 00:1A:79:C9:D9:2F (Expired on: January 27, 2026, 11:19 pm)
+        ✅ MAC: 00:1A:79:BB:CF:3B (Expired on: December 16, 2025, 6:37 pm)
+        ✅ MAC: 00:1A:79:C6:B5:D6 (Expired on: May 15, 2026, 11:57 am)
+    📍 IP: 104.21.18.17 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:A3:19:3B (Expired on: January 24, 2026, 9:11 pm)
+    📍 IP: 2606:4700:3033::6815:1211 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:18:1A:38 (Expired on: Unlimited)
+
+================================================================================
+
+🛰 PORTAL: http://brokentv.rip:8080/c
+    📍 IP: 104.21.70.186 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:BE:89:AE (Expired on: December 26, 2025, 12:19 pm)
+        ✅ MAC: 00:1A:79:BE:89:AE (Expired on: December 26, 2025, 12:19 pm)
+
+================================================================================
+
+🛰 PORTAL: http://fastrunner.live:8080/c
+    📍 IP: 185.255.120.119 (Moldova)
+    🌍 SERVER TIMEZONE: Europe/Chisinau
+        ✅ MAC: 00:1A:79:4E:89:FA (Expired on: December 24, 2025, 4:34 pm)
+        ✅ MAC: 00:1A:79:4E:89:FA (Expired on: December 24, 2025, 4:34 pm)
+        ✅ MAC: 00:1A:79:DE:6F:95 (Expired on: February 26, 2026, 7:00 pm)
+        ✅ MAC: 00:1A:79:57:2C:45 (Expired on: February 13, 2026, 8:44 pm)
+        ✅ MAC: 00:1A:79:AD:59:B6 (Expired on: November 20, 2026, 11:26 am)
+        ✅ MAC: 00:1A:79:D5:5E:A1 (Expired on: May 24, 2026, 9:30 am)
+        ✅ MAC: 00:1A:79:C7:A2:B9 (Expired on: January 1, 2026, 5:51 pm)
+
+================================================================================
+
+🛰 PORTAL: http://iptvs4.ultapulta.com/stalker_portal/c
+    📍 IP: 212.8.250.186 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:54:A6:AB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:1E:FB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:FB:92:22 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:54:A6:AB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:1E:FB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:FB:92:22 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:51:89:8D (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://45.139.122.199:8080/c
+    📍 IP: 45.139.122.199 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:BB:52:EF (Expired on: September 28, 2026, 5:50 pm)
+        ✅ MAC: 00:1A:79:C0:71:27 (Expired on: January 7, 2026, 8:18 am)
+        ✅ MAC: 00:1A:79:F1:AB:38 (Expired on: February 4, 2026, 5:52 am)
+        ✅ MAC: 00:1A:79:CA:DD:1C (Expired on: February 8, 2026, 5:22 pm)
+        ✅ MAC: 00:1A:79:BC:39:F0 (Expired on: September 3, 2025, 6:58 pm)
+        ✅ MAC: 00:1A:79:50:04:EE (Expired on: June 19, 2026, 2:29 am)
+        ✅ MAC: 00:1A:79:6C:A3:6D (Expired on: June 7, 2026, 8:16 pm)
+        ✅ MAC: 00:1A:79:AD:97:F6 (Expired on: October 20, 2026, 9:31 am)
+        ✅ MAC: 00:1A:79:C3:B6:1F (Expired on: January 2, 2026, 9:55 pm)
+        ✅ MAC: 00:1A:79:B4:EA:64 (Expired on: December 14, 2025, 10:24 pm)
+        ✅ MAC: 00:1A:79:7C:5D:5A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:D2:AB:79 (Expired on: June 22, 2026, 11:02 pm)
+        ✅ MAC: 00:1A:79:BB:52:EF (Expired on: September 28, 2026, 5:50 pm)
+        ✅ MAC: 00:1A:79:C0:71:27 (Expired on: January 7, 2026, 8:18 am)
+        ✅ MAC: 00:1A:79:F1:AB:38 (Expired on: February 4, 2026, 5:52 am)
+        ✅ MAC: 00:1A:79:CA:DD:1C (Expired on: February 8, 2026, 5:22 pm)
+        ✅ MAC: 00:1A:79:BC:39:F0 (Expired on: September 3, 2025, 6:58 pm)
+        ✅ MAC: 00:1A:79:50:04:EE (Expired on: June 19, 2026, 2:29 am)
+        ✅ MAC: 00:1A:79:6C:A3:6D (Expired on: June 7, 2026, 8:16 pm)
+        ✅ MAC: 00:1A:79:AD:97:F6 (Expired on: October 20, 2026, 9:31 am)
+        ✅ MAC: 00:1A:79:C3:B6:1F (Expired on: January 2, 2026, 9:55 pm)
+        ✅ MAC: 00:1A:79:B4:EA:64 (Expired on: December 14, 2025, 10:24 pm)
+        ✅ MAC: 00:1A:79:7C:5D:5A (Expired on: November 28, 2025, 4:33 pm)
+        ✅ MAC: 00:1A:79:D2:AB:79 (Expired on: June 22, 2026, 11:02 pm)
+        ✅ MAC: 00:1A:79:7B:67:4F (Expired on: August 20, 2026, 3:14 pm)
+        ✅ MAC: 00:1A:79:C4:31:47 (Expired on: September 25, 2025, 6:46 pm)
+        ✅ MAC: 00:1A:79:A9:21:C1 (Expired on: August 14, 2025, 8:39 pm)
+        ✅ MAC: 00:1A:79:B8:6A:13 (Expired on: February 18, 2026, 10:16 pm)
+        ✅ MAC: 00:1A:79:BA:61:0E (Expired on: November 15, 2025, 4:50 pm)
+        ✅ MAC: 00:1A:79:B7:97:5F (Expired on: September 29, 2026, 12:19 pm)
+        ✅ MAC: 00:1A:79:55:44:0C (Expired on: June 15, 2026, 10:21 pm)
+        ✅ MAC: 00:1A:79:B6:4F:B0 (Expired on: June 21, 2025, 10:05 am)
+        ✅ MAC: 00:1A:79:BA:4F:E2 (Expired on: March 18, 2026, 8:05 pm)
+        ✅ MAC: 00:1A:79:59:BD:54 (Expired on: November 1, 2026, 2:14 pm)
+        ✅ MAC: 00:1A:79:BB:F1:2A (Expired on: September 5, 2026, 3:24 pm)
+        ✅ MAC: 00:1A:79:C6:D0:87 (Expired on: February 17, 2026, 4:20 pm)
+        ✅ MAC: 00:1A:79:BE:60:7B (Expired on: August 5, 2026, 10:05 pm)
+        ✅ MAC: 00:1A:79:C7:0C:C3 (Expired on: December 16, 2025, 9:19 pm)
+        ✅ MAC: 00:1A:79:C6:EA:86 (Expired on: November 24, 2025, 5:53 pm)
+        ✅ MAC: 00:1A:79:58:D7:28 (Expired on: December 12, 2025, 6:31 pm)
+        ✅ MAC: 00:1A:79:D6:C4:CB (Expired on: December 14, 2025, 8:28 pm)
+        ✅ MAC: 00:1A:79:A5:DA:DD (Expired on: November 29, 2025, 6:05 am)
+        ✅ MAC: 00:1A:79:AD:95:34 (Expired on: May 26, 2026, 9:17 am)
+        ✅ MAC: 00:1A:79:BA:5D:BD (Expired on: August 14, 2026, 2:07 pm)
+        ✅ MAC: 00:1A:79:A4:3A:FD (Expired on: June 7, 2026, 3:32 pm)
+        ✅ MAC: 00:1A:79:AB:A3:B2 (Expired on: October 5, 2026, 7:27 pm)
+        ✅ MAC: 00:1A:79:78:04:B9 (Expired on: September 21, 2026, 6:05 pm)
+        ✅ MAC: 00:1A:79:06:DE:14 (Expired on: December 2, 2025, 1:05 pm)
+        ✅ MAC: 00:1A:79:AA:BF:0F (Expired on: October 30, 2026, 2:25 pm)
+        ✅ MAC: 00:1A:79:3E:7B:7E (Expired on: April 17, 2026, 9:14 am)
+        ✅ MAC: 00:1A:79:BA:97:EC (Expired on: December 29, 2025, 10:29 am)
+        ✅ MAC: 00:1A:79:BB:EF:AC (Expired on: August 6, 2026, 11:17 am)
+        ✅ MAC: 00:1A:79:C6:EA:86 (Expired on: November 24, 2025, 5:53 pm)
+        ✅ MAC: 00:1A:79:95:5F:8E (Expired on: May 24, 2026, 5:32 pm)
+        ✅ MAC: 00:1A:79:C3:3C:3C (Expired on: September 13, 2026, 11:34 am)
+        ✅ MAC: 00:1A:79:73:2F:50 (Expired on: January 14, 2026, 10:17 am)
+        ✅ MAC: 00:1A:79:C4:01:14 (Expired on: September 24, 2026, 4:10 pm)
+        ✅ MAC: 00:1A:79:45:8E:F1 (Expired on: July 13, 2025, 11:09 am)
+        ✅ MAC: 00:1A:79:0C:76:1E (Expired on: February 2, 2026, 2:22 am)
+        ✅ MAC: 00:1A:79:BE:72:EF (Expired on: May 11, 2026, 3:20 am)
+        ✅ MAC: 00:1A:79:08:79:B4 (Expired on: December 13, 2025, 1:11 am)
+        ✅ MAC: 00:1A:79:FE:53:0C (Expired on: February 19, 2026, 5:10 pm)
+        ✅ MAC: 00:1A:79:B7:2B:8E (Expired on: November 29, 2026, 8:55 am)
+        ✅ MAC: 00:1A:79:B2:DE:45 (Expired on: February 22, 2026, 8:48 am)
+        ✅ MAC: 00:1A:79:AA:87:81 (Expired on: December 12, 2025, 9:21 pm)
+        ✅ MAC: 00:1A:79:C3:45:B0 (Expired on: October 23, 2025, 9:11 pm)
+        ✅ MAC: 00:1A:79:B8:6A:13 (Expired on: February 18, 2026, 10:16 pm)
+        ✅ MAC: 00:1A:79:B4:5D:D7 (Expired on: December 13, 2025, 2:27 pm)
+        ✅ MAC: 00:1A:79:4C:00:2F (Expired on: December 3, 2025, 11:13 pm)
+        ✅ MAC: 00:1A:79:C5:4A:A4 (Expired on: February 15, 2026, 4:58 pm)
+        ✅ MAC: 00:1A:79:90:EC:E5 (Expired on: October 31, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:54:44:CD (Expired on: November 28, 2025, 11:53 pm)
+        ✅ MAC: 00:1A:79:C9:50:21 (Expired on: March 7, 2026, 2:44 pm)
+        ✅ MAC: 00:1A:79:A5:2E:86 (Expired on: May 5, 2026, 3:54 pm)
+        ✅ MAC: 00:1A:79:D5:C4:16 (Expired on: August 20, 2026, 10:34 p)
+        ✅ MAC: 00:1A:79:B7:4D:3D (Expired on: January 25, 2026, 2:43 pm)
+
+================================================================================
+
+🛰 PORTAL: http://firstclass007.com:8080/c
+    📍 IP: 104.21.60.139 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:01:70:75 (Expired on: August 16, 2026, 6:12 pm)
+        ✅ MAC: 00:1A:79:AF:F8:7F (Expired on: January 7, 2026, 5:33 pm)
+        ✅ MAC: 00:1A:79:19:25:61 (Expired on: October 25, 2026, 3:50 pm)
+
+================================================================================
+
+🛰 PORTAL: http://skunkytv.live/c
+    📍 IP: 172.67.207.73 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:26:2F:05 (Expired on: November 25, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:3A:EF:89 (Expired on: February 1, 2026, 12:00 am)
+    📍 IP: 104.21.45.12 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:C1:C8:89 (Expired on: January 29, 2026, 12:31 am)
+        ✅ MAC: 00:1A:79:BD:C3:C5 (Expired on: December 4, 2025, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://fastopen.live:8080/c
+    📍 IP: 185.255.120.120 (Moldova)
+    🌍 SERVER TIMEZONE: Europe/Chisinau
+        ✅ MAC: 00:1A:79:D5:6C:EC (Expired on: April 24, 2026, 8:32 pm)
+        ✅ MAC: 00:1A:79:36:06:BB (Expired on: November 26, 2025, 7:04 pm)
+        ✅ MAC: 00:1A:79:19:3B:4E (Expired on: December 1, 2025, 8:00 pm)
+        ✅ MAC: 00:1A:79:7E:1D:7A (Expired on: March 23, 2026, 1:18 pm)
+
+================================================================================
+
+🛰 PORTAL: http://wtc05.mi20.cc/stalker_portal/c
+    📍 IP: 89.105.216.189 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:77:60:50 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:77:47 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:F2:0E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A7:EF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:EC:C3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:3B:4A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:C9:53 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2A:62 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:1F:0B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:45:E2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:8E:9A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:3D:30 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:D5:2E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:4B:36 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:9A:91 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:58:49 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:E8:87 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:EE:D2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:99:DD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:39:6F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A2:06 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6D:C1:B9 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:9C:BD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:66:07 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:F0:9B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E4:5E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:64:92:65 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:74:AB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:AB:E7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:25:AB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:F4:FD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:51:61 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:70:8B:64 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:14:85 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:2F:66 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:51:84:89 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:9F:53 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6F:F4:46 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:56:F9:25 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:CA:13 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:F0:B7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:52:82 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:54:4C:6E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:F0:4D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:1B:75 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:64:F0:00 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4E:09:9F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5D:47:94 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:86:15 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:83:6C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4D:0D:D7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:ED:57 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:66:F1:DD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:11:5D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:66:03:4A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E6:08 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:72:FD:C9 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:EE:89 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:69:F5:1A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:04:B7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6C:1A:55 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:F1:E8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:D6:D8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:D5:62 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:3B:75 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:91:01 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:69:95 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:51:87:25 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:62:17:84 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:9C:50 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:67:E7:07 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:3C:D0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2C:56 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A1:34 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:F1:13 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2A:A0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:E8:20 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A9:03 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:6C:A2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:1E:60 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:89:DB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:EF:61 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:F0:DC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:59:15 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:90:28 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5B:04:7F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:71:8C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:39:BA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:54:A6:D5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:2C:2B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:70:6E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:33:B2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:EE:E7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5D:54:F7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:3B:E7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:8D:9B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:52:14 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:ED:5A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:66:92 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:64:9E:27 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:F4:87 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:15:D1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:65:56:5F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:14:3C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:5C:3C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:70:76 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:CA:36 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:82:68 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6D:B3:75 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:35:8D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:14:FD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:60:93:16 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:D3:09 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7E:9F:77 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:73:85 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:61:D6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:63:FB:5E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:23:9F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:7D:0B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:E8:89 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:4C:97 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:65:3A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A1:CF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:29:6B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6F:5E:58 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:54:4D:60 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4C:14:C1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E5:F2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:D2:56 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:DB:24 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:C9:71 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:2A:04 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:65:49:BE (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:9B:A8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:ED:3F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:5F:E5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:2C:57 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:4E:36 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:75:64 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:54:B5:F7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5B:09:55 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7F:02:4C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:EF:6D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:C8:54 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A5:15 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6F:DD:09 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:70:28:6E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:2A:CA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:1D:B6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:41:9F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:66:4E:8B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:CF:F6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6F:2C:D5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:25:80 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:44:CD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:61:F1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:22:12 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:39:BF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:48:1A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5F:44:3B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:E6:13 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:14:52 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:65:54:51 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A3:F6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:81:73 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:9A:04 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:61:F7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:31:DB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:62:AD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:62:22:28 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:60:13 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:65:28 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:EA:20 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:3A:AF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:57:32 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:65:BD:9E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:F1:EE (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:EA:E3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:23:67 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:18:0C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:14:04 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E1:CB (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://violetta.cfd:8080/c
+    📍 IP: 31.42.187.187 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:C1:0C:D3 (Expired on: April 17, 2026, 9:33 am)
+        ✅ MAC: 00:1A:79:3A:C3:3D (Expired on: January 12, 2026, 9:46 am)
+        ✅ MAC: 00:1A:79:7D:D6:E1 (Expired on: December 7, 2025, 3:00 pm)
+        ✅ MAC: 00:1A:79:D1:90:33 (Expired on: October 24, 2026, 3:44 pm)
+        ✅ MAC: 00:1A:79:66:05:AA (Expired on: April 10, 2026, 1:08 pm)
+        ✅ MAC: 00:1A:79:56:B9:15 (Expired on: February 22, 2026, 6:07 am)
+
+================================================================================
+
+🛰 PORTAL: http://prm.worldip.nl/c
+    📍 IP: 95.134.201.247 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kiev
+        ✅ MAC: 00:1A:79:37:23:5C (Expired on: November 25, 2025, 2:30 pm)
+        ✅ MAC: 00:1A:79:AE:88:03 (Expired on: December 29, 2025, 3:35 pm)
+        ✅ MAC: 00:1A:79:C0:B1:D3 (Expired on: April 12, 2026, 10:14 pm)
+        ✅ MAC: 00:1A:79:68:AF:38 (Expired on: December 30, 2024, 5:00 pm)
+        ✅ MAC: 00:1A:79:D4:70:19 (Expired on: May 23, 2026, 7:39 pm)
+        ✅ MAC: 00:1A:79:B4:55:8C (Expired on: March 16, 2024, 6:53 pm)
+        ✅ MAC: 00:1A:79:E2:EC:71 (Expired on: December 2, 2025, 2:34 pm)
+        ✅ MAC: 00:1A:79:90:50:74 (Expired on: September 13, 2026, 12:13 pm)
+        ✅ MAC: 00:1A:79:A1:FE:E2 (Expired on: November 17, 2025, 1:58 pm)
+        ✅ MAC: 00:1A:79:AD:91:83 (Expired on: August 22, 2026, 12:34 pm)
+        ✅ MAC: 00:1A:79:F9:7F:00 (Expired on: February 6, 2026, 1:32 am)
+        ✅ MAC: 00:1A:79:AD:4D:DF (Expired on: October 8, 2026, 12:57 pm)
+        ✅ MAC: 00:1A:79:EF:5F:74 (Expired on: September 17, 2024, 1:54 pm)
+        ✅ MAC: 00:1A:79:54:15:B6 (Expired on: December 2, 2023, 11:48 am)
+        ✅ MAC: 00:1A:79:3B:1A:BC (Expired on: January 25, 2026, 4:57 pm)
+        ✅ MAC: 00:1A:79:A6:51:DF (Expired on: October 27, 2026, 7:57 pm)
+        ✅ MAC: 00:1A:79:74:07:A8 (Expired on: November 29, 2025, 10:37 am)
+        ✅ MAC: 00:1A:79:88:30:32 (Expired on: December 18, 2026, 10:12 am)
+        ✅ MAC: 00:1A:79:2D:F2:80 (Expired on: December 9, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:C4:3E:03 (Expired on: December 25, 2025, 2:35 pm)
+        ✅ MAC: 00:1A:79:AA:E6:51 (Expired on: February 7, 2026, 9:28 am)
+        ✅ MAC: 00:1A:79:05:E8:A3 (Expired on: October 21, 2026, 9:03 pm)
+        ✅ MAC: 00:1A:79:4C:85:0B (Expired on: November 28, 2025, 5:37 pm)
+        ✅ MAC: 00:1A:79:C3:B8:9D (Expired on: December 10, 2025, 6:31 am)
+        ✅ MAC: 00:1A:79:B6:3A:09 (Expired on: December 3, 2025, 5:48 pm)
+        ✅ MAC: 00:1A:79:3F:6C:30 (Expired on: January 1, 2026, 7:56 pm)
+        ✅ MAC: 00:1A:79:B0:9C:BE (Expired on: January 1, 2026, 3:08 pm)
+        ✅ MAC: 00:1A:79:5A:E3:C3 (Expired on: July 29, 2024, 1:02 pm)
+        ✅ MAC: 00:1A:79:8B:44:62 (Expired on: December 28, 2023, 5:46 pm)
+        ✅ MAC: 00:1A:79:60:7E:1F (Expired on: November 4, 2024, 10:09 am)
+        ✅ MAC: 00:1A:79:40:AC:BA (Expired on: February 23, 2026, 12:29 pm)
+
+================================================================================
+
+🛰 PORTAL: http://gfr5.mi20.cc/stalker_portal/c
+    📍 IP: 89.105.216.189 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:76:EA:4D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:52:19 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:31:16 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E5:3B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:53:12:A4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:F1:1B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:F0:69 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:54:4C:01 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:D0:BB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6B:15:E2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:F0:27 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:5F:B0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:4A:F2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:84:24 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:DA:D8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6B:75:58 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:E7:99 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:14:3A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A7:52 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:39:0B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:80:FA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:9D:E7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:68:D6:6D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:F0:45 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:30:3B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2D:E9 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:94:15 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:DB:1B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:C9:94 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:68:D4:64 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:EF:7B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:6A:86 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:97:E7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:64:9D:DF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:20:92 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:62:51:8A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:73:39 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E2:42 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:D2:8F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:66:51:00 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:ED:9F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:76:CA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:8F:CC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:3E:F8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:8A:72 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:61:B4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:6E:42 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:33:54 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:23:50 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:59:38 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:99:E3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:15:9E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:68:02:E6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6F:24:F7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:85:47 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:98:AF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E8:2F:E7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:38:68 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:EB:B2 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:3A:41 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:71:A4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:F4:11 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A6:53 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:37:88 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5F:43:B5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:78:C8:F1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:EF:82 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:2E:A6 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:3A:9D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E5:61 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:1F:82 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:99:FC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:39:1D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:E7:62 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:F4:84 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:60:91 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:E7:EF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2C:C8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2C:6C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:63:80 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:CB:21 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:E7:CD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:72:30 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:10:36 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:49:EF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:37:E5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:F2:A5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:67:17 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:35:3A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:31:55 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6F:96:C9 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:68:D8:B8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A3:4B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:65:E7:99 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:E8:6C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:E1:E0 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:EF:FA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:73:9C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:68:D9:34 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:68:D8:85 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:5E:A3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:38:41 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:74:37 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:54:4D:90 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:77:CB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:71:61 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:41:EA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:31:1E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:9C:8F:DD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:64:F6:DF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:65:5B:35 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:D7:1A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:9B:1F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:82:FA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:26:24 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:A6:59 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:71:01 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E3:E1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:70:AD:D5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:29:6C (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:41:B4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:70:92 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:16:1E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:6E:64 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:3C:4D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:29:ED (Expired on: N/A)
+        ✅ MAC: 00:1A:79:71:00:CC (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:28:AB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:75:9B:57 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:88:5D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7D:87:4B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2A:71 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:2B:14 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:73:15:02 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:60:45:78 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:63:C6:D8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:EF:D3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:6B:17:8D (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:F0:AA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:E4:94 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:E7:62 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:20:B8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:78:73 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:20:19 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:79:D5 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:4F:A0:3F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:2E:19 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:37:B8 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7A:71:E1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:3B:72 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:76:6A:98 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:F6:48 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:D1:20 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E7:40:D7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:60:66 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:7C:2B:11 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:50:93 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:79:4F:0A (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:F4:1F (Expired on: N/A)
+        ✅ MAC: 00:1A:79:77:61:B4 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:56:FA:B7 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:E5:EC:7E (Expired on: N/A)
+        ✅ MAC: 00:1A:79:53:22:AB (Expired on: N/A)
+        ✅ MAC: 00:1A:79:5B:10:AF (Expired on: N/A)
+        ✅ MAC: 00:1A:79:68:DA:E1 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:74:F6:3B (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F1:E1:AD (Expired on: N/A)
+        ✅ MAC: 00:1A:79:71:E9:F3 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:54:26 (Expired on: N/A)
+        ✅ MAC: 00:1A:79:F0:64:06 (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://mag.ukhd.tv/c
+    📍 IP: 192.142.39.27 (United Kingdom)
+    🌍 SERVER TIMEZONE: Europe/London
+        ✅ MAC: 00:1A:79:00:11:56 (Expired on: November 22, 2025, 7:27 pm)
+        ✅ MAC: 00:1A:79:32:1F:B8 (Expired on: January 1, 2026, 1:11 pm)
+        ✅ MAC: 00:1A:79:6E:B7:75 (Expired on: September 7, 2026, 11:12 am)
+        ✅ MAC: 00:1A:79:4C:81:AD (Expired on: April 11, 2026, 7:45 pm)
+        ✅ MAC: 00:1A:79:92:87:57 (Expired on: May 27, 2026, 2:14 pm)
+        ✅ MAC: 00:1A:79:43:E0:6E (Expired on: February 8, 2026, 12:07 pm)
+        ✅ MAC: 00:1A:79:D9:44:5D (Expired on: September 12, 2026, 5:58 pm)
+        ✅ MAC: 00:1A:79:99:10:B0 (Expired on: February 14, 2026, 3:08 pm)
+        ✅ MAC: 00:1A:79:BF:8F:66 (Expired on: December 2, 2025, 7:29 pm)
+        ✅ MAC: 00:1A:79:BB:5B:5E (Expired on: October 24, 2025, 6:43 pm)
+        ✅ MAC: 00:1A:79:5D:BD:C6 (Expired on: October 24, 2026, 3:58 pm)
+        ✅ MAC: 00:1A:79:90:0E:18 (Expired on: October 9, 2026, 9:39 am)
+        ✅ MAC: 00:1A:79:2D:0F:91 (Expired on: December 1, 2025, 12:13 am)
+        ✅ MAC: 00:1A:79:65:1E:52 (Expired on: February 3, 2026, 11:13 pm)
+        ✅ MAC: 00:1A:79:1E:0B:8C (Expired on: April 6, 2026, 8:39 pm)
+        ✅ MAC: 00:1A:79:57:A4:D3 (Expired on: November 21, 2025, 7:46 pm)
+        ✅ MAC: 00:1A:79:73:3F:21 (Expired on: June 26, 2026, 7:03 pm)
+        ✅ MAC: 00:1A:79:03:04:D1 (Expired on: June 18, 2026, 4:20 pm)
+        ✅ MAC: 00:1A:79:DE:8F:A6 (Expired on: February 22, 2026, 5:02 pm)
+        ✅ MAC: 00:1A:79:C7:0B:59 (Expired on: October 29, 2025, 10:58 pm)
+        ✅ MAC: 00:1A:79:BD:AB:03 (Expired on: September 25, 2026, 10:53 pm)
+        ✅ MAC: 00:1A:79:3D:08:36 (Expired on: January 26, 2026, 8:04 pm)
+        ✅ MAC: 00:1A:79:B0:E1:A2 (Expired on: November 4, 2026, 6:23 pm)
+        ✅ MAC: 00:1A:79:24:5F:7C (Expired on: December 6, 2025, 9:05 pm)
+        ✅ MAC: 00:1A:79:21:0F:A0 (Expired on: November 1, 2026, 11:31 am)
+        ✅ MAC: 00:1A:79:F6:6F:08 (Expired on: December 3, 2025, 8:12 pm)
+        ✅ MAC: 00:1A:79:BB:FB:6B (Expired on: January 22, 2026, 1:42 pm)
+        ✅ MAC: 00:1A:79:B0:EF:23 (Expired on: January 30, 2026, 9:33 pm)
+        ✅ MAC: 00:1A:79:A3:D9:E0 (Expired on: March 5, 2026, 10:09 pm)
+        ✅ MAC: 00:1A:79:09:5A:C4 (Expired on: November 16, 2025, 10:12 am)
+        ✅ MAC: 00:1A:79:A9:DB:9D (Expired on: November 20, 2025, 8:58 pm)
+        ✅ MAC: 00:1A:79:C0:3F:A6 (Expired on: February 10, 2026, 8:05 pm)
+        ✅ MAC: 00:1A:79:58:C6:BE (Expired on: March 14, 2026, 5:26 pm)
+        ✅ MAC: 00:1A:79:40:30:E3 (Expired on: November 9, 2025, 11:42 pm)
+        ✅ MAC: 00:1A:79:74:08:2E (Expired on: July 7, 2026, 1:47 pm)
+        ✅ MAC: 00:1A:79:83:7F:95 (Expired on: September 8, 2026, 8:54 am)
+        ✅ MAC: 00:1A:79:8E:66:19 (Expired on: December 17, 2025, 12:39 pm)
+        ✅ MAC: 00:1A:79:24:3F:8E (Expired on: October 11, 2026, 9:13 pm)
+        ✅ MAC: 00:1A:79:0D:1F:98 (Expired on: November 9, 2025, 2:34 pm)
+        ✅ MAC: 00:1A:79:51:2F:51 (Expired on: April 13, 2026, 4:20 pm)
+        ✅ MAC: 00:1A:79:92:76:EA (Expired on: December 4, 2025, 9:49 pm)
+        ✅ MAC: 00:1A:79:96:44:41 (Expired on: March 2, 2026, 6:47 pm)
+        ✅ MAC: 00:1A:79:2A:C0:80 (Expired on: October 19, 2026, 5:01 pm)
+        ✅ MAC: 00:1A:79:7B:E1:A0 (Expired on: January 19, 2026, 6:26 pm)
+        ✅ MAC: 00:1A:79:04:7F:93 (Expired on: April 27, 2026, 11:56 am)
+        ✅ MAC: 00:1A:79:03:0E:44 (Expired on: October 16, 2025, 4:33 pm)
+        ✅ MAC: 00:1A:79:74:03:30 (Expired on: July 25, 2026, 9:14 pm)
+        ✅ MAC: 00:1A:79:6A:3B:D9 (Expired on: October 14, 2025, 5:48 pm)
+        ✅ MAC: 00:1A:79:68:2F:2B (Expired on: December 4, 2025, 6:48 pm)
+        ✅ MAC: 00:1A:79:9E:E8:12 (Expired on: November 8, 2026, 8:06 pm)
+        ✅ MAC: 00:1A:79:07:BA:F7 (Expired on: February 28, 2026, 3:19 pm)
+        ✅ MAC: 00:1A:79:D0:C2:E8 (Expired on: December 11, 2025, 5:36 pm)
+        ✅ MAC: 00:1A:79:D2:AB:76 (Expired on: December 21, 2025, 9:59 pm)
+        ✅ MAC: 00:1A:79:E8:96:4A (Expired on: January 17, 2026, 7:50 pm)
+        ✅ MAC: 00:1A:79:3E:7F:76 (Expired on: February 19, 2026, 7:17 pm)
+        ✅ MAC: 00:1A:79:72:01:8C (Expired on: December 24, 2025, 10:49 am)
+        ✅ MAC: 00:1A:79:BD:18:3C (Expired on: December 19, 2025, 7:07 pm)
+        ✅ MAC: 00:1A:79:51:C5:6B (Expired on: December 8, 2025, 7:49 pm)
+        ✅ MAC: 00:1A:79:7C:7F:B4 (Expired on: December 24, 2025, 6:20 pm)
+        ✅ MAC: 00:1A:79:01:F0:52 (Expired on: November 26, 2026, 12:55 pm)
+        ✅ MAC: 00:1A:79:B8:6F:4C (Expired on: May 23, 2026, 10:38 pm)
+        ✅ MAC: 00:1A:79:22:04:43 (Expired on: March 20, 2026, 5:42 pm)
+        ✅ MAC: 00:1A:79:90:9F:57 (Expired on: December 14, 2025, 12:37 pm)
+        ✅ MAC: 00:1A:79:73:3F:20 (Expired on: December 7, 2025, 4:15 pm)
+        ✅ MAC: 00:1A:79:32:25:2F (Expired on: December 25, 2026, 12:45 pm)
+        ✅ MAC: 00:1A:79:AD:0D:2A (Expired on: September 18, 2026, 3:29 pm)
+        ✅ MAC: 00:1A:79:4A:75:32 (Expired on: March 21, 2026, 12:40 pm)
+        ✅ MAC: 00:1A:79:0D:4F:73 (Expired on: October 18, 2026, 6:51 pm)
+        ✅ MAC: 00:1A:79:19:46:E6 (Expired on: June 17, 2026, 2:11 pm)
+        ✅ MAC: 00:1A:79:18:24:67 (Expired on: November 7, 2026, 8:09 pm)
+        ✅ MAC: 00:1A:79:2D:1F:B3 (Expired on: April 12, 2026, 7:58 pm)
+        ✅ MAC: 00:1A:79:37:A1:F8 (Expired on: December 28, 2025, 11:37 am)
+        ✅ MAC: 00:1A:79:C6:F9:6D (Expired on: December 3, 2025, 12:07 pm)
+        ✅ MAC: 00:1A:79:87:99:3C (Expired on: January 7, 2026, 5:45 pm)
+        ✅ MAC: 00:1A:79:18:1E:0A (Expired on: March 26, 2026, 9:56 pm)
+        ✅ MAC: 00:1A:79:3A:C5:6B (Expired on: December 6, 2025, 5:20 pm)
+        ✅ MAC: 00:1A:79:AB:5C:BE (Expired on: December 28, 2025, 5:53 pm)
+        ✅ MAC: 00:1A:79:19:0F:5F (Expired on: December 5, 2025, 10:13 am)
+        ✅ MAC: 00:1A:79:70:49:14 (Expired on: November 1, 2026, 6:43 pm)
+        ✅ MAC: 00:1A:79:7C:5F:21 (Expired on: October 17, 2025, 11:33 am)
+        ✅ MAC: 00:1A:79:23:10:91 (Expired on: November 18, 2026, 7:28 pm)
+        ✅ MAC: 00:1A:79:67:AE:4B (Expired on: December 23, 2025, 10:32 pm)
+        ✅ MAC: 00:1A:79:56:A8:9F (Expired on: November 3, 2025, 6:03 pm)
+        ✅ MAC: 00:1A:79:A1:77:34 (Expired on: December 2, 2025, 6:58 pm)
+        ✅ MAC: 00:1A:79:22:00:F1 (Expired on: December 18, 2025, 9:08 pm)
+        ✅ MAC: 00:1A:79:31:64:F0 (Expired on: January 8, 2026, 7:46 pm)
+        ✅ MAC: 00:1A:79:A3:11:89 (Expired on: November 21, 2026, 12:15 pm)
+        ✅ MAC: 00:1A:79:B0:E4:9C (Expired on: November 2, 2026, 1:41 pm)
+        ✅ MAC: 00:1A:79:11:5F:AB (Expired on: November 11, 2026, 7:08 pm)
+        ✅ MAC: 00:1A:79:83:8F:80 (Expired on: April 6, 2026, 7:00 pm)
+        ✅ MAC: 00:1A:79:B7:12:49 (Expired on: June 22, 2026, 4:58 pm)
+
+================================================================================
+
+🛰 PORTAL: http://10431-plan.ott-cdn.me/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:AC:1E:36 (Expired on: February 22, 2026, 12:00 am)
+    📍 IP: 103.176.90.189 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:74:58:8B (Expired on: November 11, 2025, 7:16 pm)
+
+================================================================================
+
+🛰 PORTAL: http://owliptv.gentv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:AD:1A:E8 (Expired on: July 24, 2026, 6:09 pm)
+        ✅ MAC: 00:1A:79:AF:70:04 (Expired on: February 3, 2026, 6:41 pm)
+        ✅ MAC: 00:1A:79:38:7B:4E (Expired on: November 26, 2025, 4:34 pm)
+        ✅ MAC: 00:1A:79:4C:D0:BA (Expired on: October 13, 2026, 12:33 pm)
+
+================================================================================
+
+🛰 PORTAL: http://ix.kingtv.pw/c
+    📍 IP: 172.67.159.126 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:13:4E:12 (Expired on: July 12, 2026, 10:15 pm)
+        ✅ MAC: 00:1A:79:6B:BE:28 (Expired on: October 28, 2026, 7:24 pm)
+        ✅ MAC: 00:1A:79:A5:BF:F4 (Expired on: March 20, 2026, 8:12 am)
+        ✅ MAC: 00:1A:79:C0:0B:F8 (Expired on: January 21, 2026, 5:12 pm)
+        ✅ MAC: 00:1A:79:10:D8:C8 (Expired on: July 1, 2025, 5:57 pm)
+        ✅ MAC: 00:1A:79:9E:86:F4 (Expired on: April 15, 2026, 8:00 pm)
+        ✅ MAC: 00:1A:79:0F:47:ED (Expired on: March 31, 2026, 10:34 am)
+        ✅ MAC: 00:1A:79:9E:85:60 (Expired on: December 13, 2025, 3:17 pm)
+        ✅ MAC: 00:1A:79:0F:4A:3F (Expired on: August 28, 2026, 8:26 pm)
+        ✅ MAC: 00:1A:79:9A:66:5E (Expired on: October 4, 2026, 7:56 pm)
+        ✅ MAC: 00:1A:79:90:0D:05 (Expired on: April 17, 2026, 7:15 pm)
+        ✅ MAC: 00:1A:79:6B:C0:EB (Expired on: March 7, 2026, 8:12 am)
+        ✅ MAC: 00:1A:79:A0:E1:54 (Expired on: February 1, 2026, 9:30 am)
+        ✅ MAC: 00:1A:79:14:EA:8C (Expired on: November 5, 2025, 12:39 pm)
+        ✅ MAC: 00:1A:79:3B:2E:AC (Expired on: March 22, 2026, 3:04 pm)
+        ✅ MAC: 00:1A:79:90:A7:6D (Expired on: March 12, 2026, 3:22 pm)
+        ✅ MAC: 00:1A:79:13:52:B5 (Expired on: December 4, 2026, 5:53 pm)
+        ✅ MAC: 00:1A:79:74:F9:2A (Expired on: August 19, 2026, 11:00 am)
+    📍 IP: 104.21.41.30 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:9E:86:5E (Expired on: March 3, 2026, 11:43 am)
+        ✅ MAC: 00:1A:79:14:DF:17 (Expired on: July 22, 2026, 9:32 pm)
+        ✅ MAC: 00:1A:79:9E:88:B8 (Expired on: January 1, 2026, 3:00 pm)
+        ✅ MAC: 00:1A:79:9E:88:BA (Expired on: March 31, 2026, 3:50 pm)
+        ✅ MAC: 00:1A:79:14:E4:70 (Expired on: November 17, 2025, 5:08 pm)
+        ✅ MAC: 00:1A:79:A5:C0:C9 (Expired on: February 7, 2026, 6:20 pm)
+        ✅ MAC: 00:1A:79:A5:C1:B9 (Expired on: July 23, 2026, 9:57 pm)
+        ✅ MAC: 00:1A:79:B0:E8:58 (Expired on: March 4, 2026, 8:46 am)
+        ✅ MAC: 00:1A:79:5D:90:58 (Expired on: March 20, 2026, 9:11 am)
+        ✅ MAC: 00:1A:79:14:E4:32 (Expired on: December 27, 2025, 6:35 pm)
+        ✅ MAC: 00:1A:79:9E:86:DB (Expired on: June 23, 2026, 7:11 pm)
+        ✅ MAC: 00:1A:79:A5:C2:42 (Expired on: June 18, 2026, 8:59 pm)
+        ✅ MAC: 00:1A:79:6E:29:FE (Expired on: July 27, 2026, 1:41 pm)
+        ✅ MAC: 00:1A:79:9E:89:13 (Expired on: June 27, 2026, 9:02 am)
+        ✅ MAC: 00:1A:79:01:74:80 (Expired on: June 7, 2026, 2:08 pm)
+        ✅ MAC: 00:1A:79:21:09:58 (Expired on: May 7, 2026, 1:50 pm)
+        ✅ MAC: 00:1A:79:98:21:95 (Expired on: October 28, 2025, 4:47 pm)
+        ✅ MAC: 00:1A:79:9E:88:95 (Expired on: April 8, 2026, 3:02 pm)
+        ✅ MAC: 00:1A:79:A5:C0:ED (Expired on: May 14, 2026, 10:46 am)
+        ✅ MAC: 00:1A:79:9E:85:9E (Expired on: March 11, 2026, 5:42 pm)
+        ✅ MAC: 00:1A:79:9E:86:ED (Expired on: March 20, 2026, 4:51 pm)
+        ✅ MAC: 00:1A:79:AF:37:9B (Expired on: January 20, 2026, 11:06 pm)
+        ✅ MAC: 00:1A:79:6B:BA:2B (Expired on: June 8, 2026, 1:44 pm)
+        ✅ MAC: 00:1A:79:A5:01:01 (Expired on: May 7, 2026, 9:17 am)
+        ✅ MAC: 00:1A:79:84:EB:D2 (Expired on: July 13, 2026, 12:55 pm)
+        ✅ MAC: 00:1A:79:14:DF:17 (Expired on: July 22, 2026, 9:32 pm)
+        ✅ MAC: 00:1A:79:08:EE:80 (Expired on: November 4, 2026, 8:27 am)
+
+================================================================================
+
+🛰 PORTAL: http://xegd.ultapulta.com/stalker_portal/c
+    📍 IP: 212.8.250.186 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:E5:0B:C4 (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://pointpython.streamtv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:D7:5D:6C (Expired on: September 17, 2026, 5:42 pm)
+        ✅ MAC: 00:1A:79:C0:10:DF (Expired on: April 4, 2026, 9:12 am)
+        ✅ MAC: 00:1A:79:44:1F:57 (Expired on: November 29, 2025, 7:53 pm)
+
+================================================================================
+
+🛰 PORTAL: http://predator007.com:8080/c
+    📍 IP: 93.114.194.184 (Romania)
+    🌍 SERVER TIMEZONE: Europe/Bucharest
+        ✅ MAC: 00:1A:79:95:CB:98 (Expired on: November 19, 2024, 11:48 am)
+        ✅ MAC: 00:1A:79:7C:66:6D (Expired on: August 15, 2026, 8:04 pm)
+        ✅ MAC: 00:1A:79:C4:FB:36 (Expired on: April 21, 2026, 8:21 pm)
+        ✅ MAC: 00:1A:79:54:F1:9B (Expired on: July 31, 2026, 6:22 am)
+        ✅ MAC: 00:1A:79:BE:D0:CA (Expired on: October 11, 2026, 6:12 am)
+        ✅ MAC: 00:1A:79:47:3E:EA (Expired on: January 31, 2025, 6:05 pm)
+        ✅ MAC: 00:1A:79:2B:52:83 (Expired on: November 13, 2025, 8:30 pm)
+
+================================================================================
+
+🛰 PORTAL: http://xp1.tv/c
+    📍 IP: 95.134.201.247 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kiev
+        ✅ MAC: 00:1A:79:D3:38:94 (Expired on: January 21, 2026, 8:39 pm)
+        ✅ MAC: 00:1A:79:3B:B2:0C (Expired on: April 23, 2024, 6:31 pm)
+        ✅ MAC: 00:1A:79:03:0F:E5 (Expired on: December 12, 2025, 8:13 pm)
+        ✅ MAC: 00:1A:79:25:A3:8C (Expired on: December 9, 2025, 12:56 pm)
+        ✅ MAC: 00:1A:79:D3:3D:6A (Expired on: January 27, 2026, 5:22 pm)
+        ✅ MAC: 00:1A:79:26:23:52 (Expired on: January 23, 2025, 9:55 pm)
+        ✅ MAC: 00:1A:79:55:DB:8D (Expired on: November 18, 2025, 2:01 pm)
+        ✅ MAC: 00:1A:79:40:72:33 (Expired on: December 3, 2025, 11:28 pm)
+        ✅ MAC: 00:1A:79:43:7E:25 (Expired on: May 8, 2026, 3:20 pm)
+        ✅ MAC: 00:1A:79:AB:6B:BC (Expired on: December 1, 2025, 10:52 pm)
+        ✅ MAC: 00:1A:79:A1:8A:7C (Expired on: June 22, 2026, 9:52 pm)
+        ✅ MAC: 00:1A:79:AA:4F:72 (Expired on: April 14, 2025, 5:56 pm)
+        ✅ MAC: 00:1A:79:41:78:26 (Expired on: September 7, 2025, 5:47 pm)
+        ✅ MAC: 00:1A:79:6D:50:20 (Expired on: January 6, 2026, 6:16 pm)
+        ✅ MAC: 00:1A:79:51:E9:60 (Expired on: December 8, 2024, 4:51 pm)
+        ✅ MAC: 00:1A:79:A3:A2:92 (Expired on: January 20, 2026, 7:55 pm)
+
+================================================================================
+
+🛰 PORTAL: http://stb5.rucolor.tv/stalker_portal/c
+    📍 IP: 46.47.24.55 (Russia)
+    🌍 SERVER TIMEZONE: Europe/Moscow
+        ✅ MAC: 00:1A:79:7A:09:BE (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://51.81.106.100:25461/c
+    📍 IP: 51.81.106.100 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:E5:E8:85 (Expired on: Unlimited)
+
+================================================================================
+
+🛰 PORTAL: http://xc-clubtv.xyz:8080/c
+    📍 IP: 104.26.13.111 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:14:E6:5C (Expired on: December 6, 2025, 5:46 pm)
+        ✅ MAC: 00:1A:79:19:24:6B (Expired on: April 8, 2026, 8:16 pm)
+        ✅ MAC: 00:1A:79:BD:C5:22 (Expired on: April 27, 2026, 11:14 am)
+
+================================================================================
+
+🛰 PORTAL: http://owliptv.streamtv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:A6:58:BA (Expired on: July 20, 2026, 9:33 pm)
+        ✅ MAC: 00:1A:79:5E:D8:34 (Expired on: January 22, 2026, 2:34 pm)
+        ✅ MAC: 00:1A:79:4B:FC:DD (Expired on: April 10, 2026, 1:52 pm)
+
+================================================================================
+
+🛰 PORTAL: http://new.nexatv.be/stalker_portal/c
+    📍 IP: 104.21.85.250 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:AA:AA:AA (Expired on: N/A)
+        ✅ MAC: 00:1A:79:59:01:C7 (Expired on: N/A)
+
+================================================================================
+
+🛰 PORTAL: http://masterofiptv.pro/c
+    📍 IP: 2606:4700:3032::ac43:ae40 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:CD:33:75 (Expired on: October 17, 2025, 1:16 am)
+
+================================================================================
+
+🛰 PORTAL: http://clientsportals.net:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:A3:FB:A2 (Expired on: November 22, 2026, 7:06 pm)
+
+================================================================================
+
+🛰 PORTAL: http://30198-puppy.ott-cdn.me/c
+    📍 IP: 103.176.90.189 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:80:B6:2E (Expired on: November 18, 2026, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://192.99.19.27:8000/c
+    📍 IP: 192.99.19.27 (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:79:FB:88 (Expired on: December 2, 2025, 11:00 pm)
+        ✅ MAC: 00:1A:79:68:82:C0 (Expired on: December 2, 2025, 11:00 pm)
+        ✅ MAC: 00:1A:79:00:49:76 (Expired on: Unlimited)
+        ✅ MAC: 00:1A:79:0A:82:3A (Expired on: December 2, 2025, 11:00 pm)
+        ✅ MAC: 00:1A:79:EB:8A:E1 (Expired on: December 2, 2025, 11:00 pm)
+        ✅ MAC: 00:1A:79:4F:4F:90 (Expired on: December 2, 2025, 11:00 pm)
+
+================================================================================
+
+🛰 PORTAL: http://one4alltech.net:8080/c
+    📍 IP: 2606:4700:3036::6815:5b9a (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:5A:4A:20 (Expired on: December 5, 2025, 12:36 pm)
+
+================================================================================
+
+🛰 PORTAL: http://iptvswiss.com.123tv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:BB:42:A5 (Expired on: April 29, 2026, 11:36 am)
+        ✅ MAC: 00:1A:79:E6:08:8F (Expired on: October 18, 2026, 8:10 pm)
+        ✅ MAC: 00:1A:79:D3:62:D5 (Expired on: November 26, 2025, 5:40 pm)
+
+================================================================================
+
+🛰 PORTAL: http://zepequeno.xyz:8080/c
+    📍 IP: 87.120.244.151 (Bulgaria)
+    🌍 SERVER TIMEZONE: Europe/Sofia
+        ✅ MAC: 00:1A:79:00:50:BF (Expired on: September 27, 2026, 10:00 pm)
+        ✅ MAC: 00:1A:79:D6:B7:E4 (Expired on: October 4, 2026, 9:18 am)
+        ✅ MAC: 00:1A:79:AF:61:E8 (Expired on: January 6, 2026, 4:18 pm)
+
+================================================================================
+
+🛰 PORTAL: http://my8k.pro:8080/c
+    📍 IP: 104.26.9.145 (United States)
+    🌍 SERVER TIMEZONE: America/New_York
+        ✅ MAC: 00:1A:79:80:B2:73 (Expired on: May 21, 2027, 12:01 am)
+
+================================================================================
+
+🛰 PORTAL: http://recreativa.tecnologiashd.com:8080/c
+    📍 IP: 93.185.167.117 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:C1:C0:8E (Expired on: September 3, 2026, 10:45 pm)
+
+================================================================================
+
+🛰 PORTAL: http://proxy.plus55.xyz/c
+    📍 IP: 95.214.232.47 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:C2:88:19 (Expired on: May 8, 2026, 11:34 pm)
+
+================================================================================
+
+🛰 PORTAL: http://euroroyals.com:8080/c
+    📍 IP: 45.141.56.200 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:FB:4C:1C (Expired on: June 2, 2026, 11:30 am)
+        ✅ MAC: 00:1A:79:5C:D0:7F (Expired on: December 15, 2025, 10:42 am)
+        ✅ MAC: 00:1A:79:72:45:17 (Expired on: May 13, 2024, 7:47 pm)
+        ✅ MAC: 00:1A:79:00:4A:71 (Expired on: September 27, 2025, 12:29 pm)
+        ✅ MAC: 00:1A:79:A2:B4:C2 (Expired on: December 17, 2025, 9:04 pm)
+        ✅ MAC: 00:1A:79:A3:65:19 (Expired on: November 3, 2025, 5:44 pm)
+
+================================================================================
+
+🛰 PORTAL: http://auth.streamtv.to:8080/c
+    📍 IP: 95.214.235.18 (Ukraine)
+    🌍 SERVER TIMEZONE: Europe/Kyiv
+        ✅ MAC: 00:1A:79:C8:1C:45 (Expired on: November 28, 2025, 7:24 pm)
+
+================================================================================
+
+🛰 PORTAL: http://josko.magovi.uk:8000/c
+    📍 IP: 89.36.35.219 (Germany)
+    🌍 SERVER TIMEZONE: Europe/Berlin
+        ✅ MAC: 00:1A:79:43:48:35 (Expired on: March 3, 2026, 5:39 pm)
+
+================================================================================
+
+🛰 PORTAL: http://visioniptvus.com/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:86:80:11 (Expired on: December 6, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:F5:36:B7 (Expired on: September 11, 2026, 12:00 am)
+        ✅ MAC: 00:1A:79:55:95:E9 (Expired on: December 21, 2025, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://wowtv.cc/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:BE:93:CE (Expired on: January 7, 2026, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://16243-sides.cdn-o2.me/c
+    📍 IP: 103.176.90.189 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:7A:6B:50 (Expired on: January 3, 2026, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://apksmart.dino.ws/c
+    📍 IP: 2606:4700:3035::6815:5d4f (Canada)
+    🌍 SERVER TIMEZONE: America/Toronto
+        ✅ MAC: 00:1A:79:B6:C2:40 (Expired on: October 10, 2026, 2:19 pm)
+        ✅ MAC: 00:1A:79:41:69:19 (Expired on: January 5, 2026, 12:00 am)
+
+================================================================================
+
+🛰 PORTAL: http://kingeu.com:8080/c
+    📍 IP: 109.205.187.195 (The Netherlands)
+    🌍 SERVER TIMEZONE: Europe/Amsterdam
+        ✅ MAC: 00:1A:79:77:89:D2 (Expired on: September 17, 2026, 12:10 pm)
+        ✅ MAC: 00:1A:79:B4:41:22 (Expired on: May 31, 2026, 4:47 pm)
+        ✅ MAC: 00:1A:79:63:3A:65 (Expired on: August 28, 2024, 9:06 pm)
+        ✅ MAC: 00:1A:79:71:B4:3D (Expired on: January 13, 2026, 3:34 pm)
+        ✅ MAC: 00:1A:79:7D:F2:97 (Expired on: September 30, 2024, 6:21 pm)
+        ✅ MAC: 00:1A:79:52:19:7D (Expired on: July 27, 2025, 12:25 pm)
+
+================================================================================
+
+🛰 PORTAL: http://sbhgoldpro.org/c
+    📍 IP: 103.176.90.182 (Hong Kong)
+    🌍 SERVER TIMEZONE: Asia/Hong_Kong
+        ✅ MAC: 00:1A:79:16:72:70 (Expired on: September 24, 2025, 12:00 am)
+        ✅ MAC: 00:1A:79:00:31:A8 (Expired on: August 23, 2026, 12:00 am)
+
+================================================================================
+
