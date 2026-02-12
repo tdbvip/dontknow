@@ -1,0 +1,121 @@
+#EXTM3U
+
+#SKY SPORT MAIN EVENT 4K = 1641636 / 1608071
+#TNT 4K = 1479591 / 1595637
+
+#NOW4K = 1579367
+#NOW 1  = 1032487 / 1110622
+#NOW 2 = 1032486
+#NOW 3 = 1032485
+#NOW 4 = 1032484
+#NOW 5 = 1032483
+#NOW 6 = 1032482
+#NOW 7 = 1032481
+#NOW 8 = 1032480
+
+#HUB4K = 1579368
+#HUB1 = 1032529
+#HUB2 = 1032528
+#HUB2UHD = 1032518
+#HUB3 = 1032527
+#HUB4 = 1032526
+#HUB5 = 1032525
+#HUB6 = 1032524
+#HUB7 = 1032523
+#HUB8 = 1032522
+#HUB9 = 1032521
+#HUB10 = 1032520
+#HUB11 = 1032519
+
+#bein au 1 = 1348093
+#bein au 2 = 1348102
+#bein au 3 = 1348103
+
+
+
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 51
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:63:D4:ED&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 52
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:89:B5:14&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 53
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:01:8B:8E&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 55
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:95:6f&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 58
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:78:ea:5c&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 59
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:a8:32:57&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 61
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:64:38:a6&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 63 2027
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:00:3d:b1&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 64
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:cf:35:da&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 65
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1d:03:8c&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 66
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:3a:c4:6d&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 67
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1e:0b:82&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 69
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:e5:c9&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 70
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:3E:CA:6B&stream=1032487&extension=ts
+
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 51
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:63:D4:ED&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 52
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:89:B5:14&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 53
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:01:8B:8E&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 55
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:95:6f&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 58
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:78:ea:5c&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 59
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:a8:32:57&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 61
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:64:38:a6&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 63 2027
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:00:3d:b1&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 64
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:cf:35:da&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 65
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1d:03:8c&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 66
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:3a:c4:6d&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 67
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1e:0b:82&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 69
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:e5:c9&stream=1032487&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB PREMIER 70
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:3E:CA:6B&stream=1032487&extension=ts
+
