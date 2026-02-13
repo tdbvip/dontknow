@@ -1,0 +1,172 @@
+#EXTM3U
+
+#SKY SPORT MAIN EVENT 4K = 1641636 / 1608071
+#TNT 4K = 1479591 / 1595637
+
+#NOW4K = 1579367
+#NOW 1  = 30567 / 1110622
+#NOW 2 = 1032486
+#NOW 3 = 1032485
+#NOW 4 = 1032484
+#NOW 5 = 1032483
+#NOW 6 = 1032482
+#NOW 7 = 1032481
+#NOW 8 = 1032480
+
+#HUB4K = 1379047
+#HUB1 = 1032529
+#HUB2 = 1032528
+#HUB2UHD = 1032518
+#HUB3 = 1032527
+#HUB4 = 1032526
+#HUB5 = 1032525
+#HUB6 = 1032524
+#HUB7 = 1032523
+#HUB8 = 1032522
+#HUB9 = 1032521
+#HUB10 = 1032520
+#HUB11 = 1032519
+
+#bein au 1 = 1348093
+#bein au 2 = 1348102
+#bein au 3 = 1348103
+
+
+
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 51
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:63:D4:ED&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 52
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:89:B5:14&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 53
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:01:8B:8E&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 55
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:95:6f&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 58
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:78:ea:5c&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 59
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:a8:32:57&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 61
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:64:38:a6&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 63 2027
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:00:3d:b1&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 64
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:cf:35:da&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 65
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1d:03:8c&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 66
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:3a:c4:6d&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 67
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1e:0b:82&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 69
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:e5:c9&stream=30567&extension=ts
+
+#EXTINF:-1  group-title="TNT sports 1" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT sports 70
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:3E:CA:6B&stream=30567&extension=ts
+
+
+
+
+
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 51
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:63:D4:ED&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 52
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:89:B5:14&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 53
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:01:8B:8E&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 55
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:95:6f&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 58
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:78:ea:5c&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 59
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:a8:32:57&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 61
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:64:38:a6&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 63 2027
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:00:3d:b1&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 64
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:cf:35:da&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 65
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1d:03:8c&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 66
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:3a:c4:6d&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 67
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1e:0b:82&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 69
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:e5:c9&stream=1379047&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate 70
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:3E:CA:6B&stream=1379047&extension=ts
+
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 51
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:63:D4:ED&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 52
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:89:B5:14&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 53
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:01:8B:8E&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 55
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:95:6f&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 58
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:78:ea:5c&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 59
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:a8:32:57&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 61
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:64:38:a6&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 63 2027
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:00:3d:b1&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 64
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:cf:35:da&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 65
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1d:03:8c&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 66
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:3a:c4:6d&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 67
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:1e:0b:82&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 69
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:bf:e5:c9&stream=1479591&extension=ts
+
+#EXTINF:-1  group-title="TNT Ultimate2" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Ultimate2 70
+http://185.243.7.191:80/play/live.php?mac=A0:BB:3E:3E:CA:6B&stream=1479591&extension=ts
+
+
+
+
+
