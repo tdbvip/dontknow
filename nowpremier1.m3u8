@@ -2,4 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
-http://huno.space:80/play/live.php?mac=00:1A:79:81:a5:1c&stream=1032487&extension=m3u8
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:B6:39:5C&stream=1032487&extension=m3u8
+
