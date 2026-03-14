@@ -1,0 +1,68 @@
+#EXTM3U
+
+
+#bein au 1 = 1348093
+#bein au 2 = 1348102
+#bein au 3 = 1348103
+
+
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 447
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:B6:48:38&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 448
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:AD:F2:1D&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 451
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:B5:9B:23&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 452
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:00:04:10&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 453
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:00:04:65&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 455
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:37:88:32&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 457
+http://185.243.7.195:80/play/live.php?mac=A0:BB:3E:71:C6:17&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 458
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:00:0E:E7&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 460
+http://185.243.7.195:80/play/live.php?mac=00:1B:79:F8:AC:D6&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 461
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 462
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:B6:36:A6&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 463
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:74:b4:64&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 464
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:1b:bc:8f&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 465
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:00:AA:89&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 467
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:0E:B3:86&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 468
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:c1:53:c4&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 469
+http://185.243.7.195:80/play/live.php?mac=00:1B:79:F8:D3:C4&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 471
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:1C:75:BB&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 473
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:00:25:2A&stream=1348093&extension=ts
+
+#EXTINF:-1  group-title="bein 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qm9x7x1749974557.png",bein 1 475
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:38:5B:65&stream=1348093&extension=ts
