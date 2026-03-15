@@ -1,0 +1,68 @@
+#EXTM3U
+
+#SKY SPORT MAIN EVENT 4K =1284558
+#TNT 4K =1284551
+#TNT Ultimate 4K =804331
+
+#Now1 = 827940 
+#Now2 = 827939  
+#Now3 = 827938  
+#Now4 = 827937 
+#Now5 = 827936  
+#Now6 = 827935  
+#Now7 = 827934  
+
+#HUB1 = 827982
+#HUB2 = 827981
+#HUB2UHD = 827980
+#HUB3 = 827979
+#HUB4 = 827978
+#HUB5 = 827977
+#HUB6 = 827976
+
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 1
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:CA:BF:3F&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 2
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:6D:C7:8F&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 4
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:FC:EE:C5&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 5
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:35:32:31&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 6
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:C0:1E:E2&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 7
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:6E:DE:B8&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 8
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:A1:8F:41&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 9
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:08:7F:42&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 10
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:1C:53:1C&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 11
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:A3:8C:D6&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 13
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:70:B8:4C&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 14
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:35:32:31&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 15
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:C0:1E:E2&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 16
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:63:AC:9D&stream=827940&extension=ts
+
+#EXTINF:-1  group-title="now sports 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80",now sports 17
+http://103.176.90.181:80/play/live.php?mac=00:1A:79:77:D8:93&stream=827940&extension=ts
+
