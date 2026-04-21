@@ -2,10 +2,11 @@
 
 
 #EXTINF:-1 tvg-logo="http://covers.ddns.net/PICON/entrepicon.png" group-title="BE| BELGIQUE",BE| Chaînes generalistes |BE
-http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/931921&extension=ts
+http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/931921&extension=m3u8
 #EXTINF:-1 tvg-logo="http://covers.ddns.net/PICON/event/Foxx-Cine-noel.png" group-title="BE| BELGIQUE",Feu de cheminée
-http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/931920&extension=ts
+http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/931920&extension=m3u8
 #EXTINF:-1 tvg-logo="http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-belge/laune.png" group-title="BE| BELGIQUE",BE| LA UNE FHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/874699&extension=ts
 #EXTINF:-1 tvg-logo="http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-belge/launehd.png" group-title="BE| BELGIQUE",BE| LA UNE HD
 http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/52464&extension=ts
