@@ -1,0 +1,199 @@
+{
+	name: "mvtv",
+	author: "DontKnow",
+	image: "https://i.pinimg.com/originals/44/45/4f/44454f54408f719aac56287292a14243.jpg",
+	groups: [
+
+{ 
+          	name: "mvtv", 
+             	image: "https://mvtv.co.th/wp-content/uploads/2025/11/mvtvlogo.png",   
+          	stations: [
+
+{ 
+            	name: "Boomerang",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=153&channel=Boomerang",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVTV ท้องถิ่นไทย",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=30&channel=MVTV ท้องถิ่นไทย (75)",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MIXMAJOR",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/194_y_9BUVhAoK5Dzxwjdu2rgXWP8Sb7JOnFRt.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=194&channel=MIXMAJOR",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TVB Thai",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/196_y_cga1S5Y9WvxBPVKGhqIUtbyT6feCmoEk.jpg",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=196&channel=TVB%20Thai",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVMall Living",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=171&channel=MVMall%20Living",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVMall Trend",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/89_y_y9TtlhsnYHegoVCifM4UIrLGQaKOm0Dz.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=89&channel=MVMall%20Trend",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVMall Family",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=107&channel=MVMall%20Family%20(40)",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVMall Healthy",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=36&channel=MVMall%20Healthy%20(58)",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVMall DD",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/40_y_vXc1emONx4pf2B397HPgljtErLIqhVoT.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=40&channel=MVMall%20DD%20(59)",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVMall Plus",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/32_y_FVzqJyNiGrdE0seQxCptgUcfmOYbnhLK.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=32&channel=MVMall%20Plus%20(51)",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "สยาม Channel",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/37_y_8KPsXmUlvo3WdRBa4kFw57MAjYC0JpSn.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=37&channel=สยาม Channel",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "ลิโด้ Channel",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/38_y_1GdTFB60lkIKhROmJe9cgSLXYxuaZtWq.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=38&channel=ลิโด้ Channel",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "สกาล่า Channel",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/39_y_XlQsEw0e6upJZHaLvYhof1W3DkS9yTPi.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=39&channel=สกาล่า Channel",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "ราม่า channel",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/193_y_DkM50ECZIn7GTaO3tgKYfih6AzUPoBHp.jpg",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=193&channel=ราม่า channel",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "มูเตลู",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/111_y_aDCJ36j9LTdRNsV8YvigI1ftnycXe5ou.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=111&channel=มูเตลู",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVM",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=34&channel=MVM",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVLAO",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=33&channel=MVLAO",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "ไทบ้านทีวี",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=35&channel=ไทบ้านทีวี",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "อีสานทีวี",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/108_y_1ag4BfHbDWT63hVJMuCwGKjIXdYnNv0q.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=108&channel=อีสานทีวี",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MV GO SPORT",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=110&channel=MV%20GO%20SPORT",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TTD1",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/95_y_LE97J2C1QVIHgyeotdSD4vsMz3cnkK8b.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=95&channel=TTD1",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TTD2",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/97_y_sJ7ia3MDOZmf4NBYdqK1WHz68kAUPhLF.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=97&channel=TTD2",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TTD3",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/98_y_mjRlVn5dsWz1AI03SuKHTv96MOqetFXL.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=98&channel=TTD3",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TTD4",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/99_y_QlSGIfvmqV2rMe71xbT6naE4XOwB83Zy.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=99&channel=TTD4",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TTD5",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/100_y_Z7VxML6XkH0o9wrsIUzajC4Bfe8PEbqW.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=100&channel=TTD5",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TTD6",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/101_y_Nujyn9h71JtsVYo5KkAfGL3OeMZF4T6i.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=101&channel=TTD6",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "TTD10",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/105_y_1fchjGOtlWTgHksuv69PNmVERBJZAwzx.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=105&channel=TTD10",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "MVNEWS",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/197_y_EVPjZHiuMN3X8OIxTpnDz2y4raCLv7lw.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=197&channel=MVNEWS",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "V TV News",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/195_y_3s7OdxiEKJZF5MelBVuNS1mPYCztRW9H.png",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=195&channel=V%20TV%20News",
+		referer :"https://mvtv.co.th/"		
+},
+{ 
+            	name: "Mango Mojito",
+           	image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",              
+            	url: "https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito",
+		referer :"https://mvtv.co.th/"		
+},
+
+
+
+	
+]
+},	
+]
+}
