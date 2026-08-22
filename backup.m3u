@@ -1,0 +1,300 @@
+#EXTM3U
+
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 01
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 02
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 03
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 04
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 05
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 06
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 07
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 08
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 09
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 10
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 11
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 12
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 13
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1314088&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", HUB PREMIER 4K 14
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1314088&extension=ts
+
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 101
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 102
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 103
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 104
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 105
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 106
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 107
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 108
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 109
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 110
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 111
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 112
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 113
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1314077&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 114
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1314077&extension=ts
+
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 201
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 202
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 203
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 204
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 205
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 206
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 207
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 208
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 209
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 210
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 211
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 212
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 213
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1314078&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 214
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1314078&extension=ts
+
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 301
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 302
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 303
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 304
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 305
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 306
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 307
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 308
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 309
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 310
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 311
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 312
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 313
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1314079&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 314
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1314079&extension=ts
+
+
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 401
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 402
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 403
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 404
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 405
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 406
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 407
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 408
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 409
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 410
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 411
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 412
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 413
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1314080&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 414
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1314080&extension=ts
+
+
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 01
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 02
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 03
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 04
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 05
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 06
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 07
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 08
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 09
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 10
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 11
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 12
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 13
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1174213  &extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 14
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1174213  &extension=ts
+
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 101
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 102
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 103
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 104
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 105
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 106
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 107
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 108
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 109
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 110
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 111
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 112
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 113
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1174218&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 114
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1174218&extension=ts
+
+
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 201
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 202
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 203
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 204
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 205
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 206
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 207
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 208
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 209
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 210
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 211
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 212
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 213
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1174219&extension=ts
+#EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 214
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1174219&extension=ts
+
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 01
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 02
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 03
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 04
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 05
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 06
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 07
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 08
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 09
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 10
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 11
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 12
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 13
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 14
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1312008&extension=ts
+
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 01
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 02
+http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 03
+http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 04
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 05
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 06
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 07
+http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 08
+http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 09
+http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 10
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 11
+http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 12
+http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 13
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 14
+http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1311999&extension=ts
+
+
