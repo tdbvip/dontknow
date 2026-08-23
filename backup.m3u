@@ -241,6 +241,34 @@ http://204.52.191.253:80/play/live.php?mac=00:1A:79:00:23:F5&stream=389849&exten
 http://204.52.191.253:80/play/live.php?mac=00:1B:79:F8:BC:92&stream=389849&extension=ts
 
 
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 01 
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:00:10:28&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 02 
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:00:28:A6&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 03
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:75:3A:21&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 04 
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:7C:A5:E8&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 05 
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:C5:47:59&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 06 
+http://204.52.191.253:80/play/live.php?mac=00:1B:79:4C:09:08&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 07 
+http://204.52.191.253:80/play/live.php?mac=00:1B:79:F9:E3:4B&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 08 
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:4C:5F:C7&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 09
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:B5:B2:1B&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 10
+http://204.52.191.253:80/play/live.php?mac=00:1B:79:F8:25:75&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 11
+http://204.52.191.253:80/play/live.php?mac=00:1B:79:F9:EB:1C&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 12
+http://204.52.191.253:80/play/live.php?mac=10:27:BE:2D:32:05&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 13
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:00:23:F5&stream=389848&extension=ts
+#EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/vsport.png",V Sport PL2 14 
+http://204.52.191.253:80/play/live.php?mac=00:1B:79:F8:BC:92&stream=389848&extension=ts
 
 
 #EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 01
@@ -331,63 +359,63 @@ http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1174219&extensio
 #EXTINF:-1  group-title="TNT Sport" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png", TNT Sport 214
 http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1174219&extension=ts
 
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 01
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 02
-http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 03
-http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 04
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 05
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 06
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 07
-http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 08
-http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 09
-http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 10
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 11
-http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 12
-http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 13
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1312008&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 14
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1312008&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 01 
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:B4:F0:43&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 02
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:75:39:0B&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 03
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:74:AB:67&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 04
+http://185.243.7.197:80/play/live.php?mac=A0:BB:3E:56:9A:83&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 05
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:74:AB:67&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 06
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:84:C2:E5&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 07
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:83:08:6E&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 08 
+http://185.243.7.197:80/play/live.php?mac=A0:BB:3E:69:17:49&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 09 
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:82:73:94&stream=1641636&extension=ts	
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 10 
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:7C:4F:DA&stream=1641636&extension=ts
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 11 
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:3D:32:F7&stream=1641636&extension=ts	
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 12
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:45:3B:B5&stream=1641636&extension=ts	
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 13
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:41:02:2E&stream=1641636&extension=ts	
+#EXTINF:-1  group-title="Main Event 4K " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",Main Event 4K 14
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:18:FA:A2&stream=1641636&extension=ts
 
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 01
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:F8:B0:CE&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 02
-http://91.208.115.26/play/live.php?mac=00:1B:79:51:09:F1&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 03
-http://91.208.115.26/play/live.php?mac=00:1B:79:3D:64:AD&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 04
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:50:D4&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 05
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3C:55&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 06
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:12:D4&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 07
-http://91.208.115.26/play/live.php?mac=00:1B:79:33:27:71&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 08
-http://91.208.115.26/play/live.php?mac=00:1B:79:F0:E4:9D&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 09
-http://91.208.115.26/play/live.php?mac=00:1B:79:F8:76:FA&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 10
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3A:73&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 11
-http://91.208.115.26/play/live.php?mac=00:1B:79:18:EA:7C&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 12
-http://91.208.115.26/play/live.php?mac=00:1B:79:1E:35:21&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 13
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:0D:10&stream=1311999&extension=ts
-#EXTINF:-1  group-title="Main Event" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png", Main Event 14
-http://91.208.115.26/play/live.php?mac=00:1B:79:4A:3E:1B&stream=1311999&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 01 
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:B4:F0:43&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 02
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:75:39:0B&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 03
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:74:AB:67&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 04
+http://185.243.7.197:80/play/live.php?mac=A0:BB:3E:56:9A:83&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 05
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:74:AB:67&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 06
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:84:C2:E5&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 07
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:83:08:6E&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 08 
+http://185.243.7.197:80/play/live.php?mac=A0:BB:3E:69:17:49&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 09 
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:82:73:94&stream=83450&extension=ts	
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 10 
+http://185.243.7.197:80/play/live.php?mac=00:1A:79:7C:4F:DA&stream=83450&extension=ts
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 11 
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:3D:32:F7&stream=83450&extension=ts	
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 12
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:45:3B:B5&stream=83450&extension=ts	
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 13
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:41:02:2E&stream=83450&extension=ts	
+#EXTINF:-1  group-title="Main Event " tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",Main Event 14
+http://185.243.7.197:80/play/live.php?mac=00:1B:79:18:FA:A2&stream=83450&extension=ts
 
 #EXTINF:-1  group-title="beIN sport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN 101 
 http://185.243.7.197:80/play/live.php?mac=00:1A:79:B4:F0:43&stream=1348093&extension=ts
