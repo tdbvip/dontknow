@@ -1,5 +1,10 @@
 #EXTM3U
 
+#https://raw.githubusercontent.com/tdbvip/dontknow/refs/heads/main/sports.m3u
+
+
+===HUB PREMIER 1===
+
 #EXTINF:-1   group-title="HUB PREMIER 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 151
 http://185.80.197.55/play/live.php?mac=00:1B:79:37:BB:5F&stream=1032529&extension=ts
 #EXTINF:-1   group-title="HUB PREMIER 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 166
@@ -234,6 +239,9 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032529&extensio
 
 
 
+
+
+===HUB PREMIER 2===
 
 
 
@@ -471,6 +479,10 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032528&extensio
 
 
 
+===HUB PREMIER 3===
+
+
+
 #EXTINF:-1   group-title="HUB PREMIER 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 151
 http://185.80.197.55/play/live.php?mac=00:1B:79:37:BB:5F&stream=1032527&extension=ts
 #EXTINF:-1   group-title="HUB PREMIER 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 166
@@ -703,6 +715,9 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032527&extensio
 http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032527&extension=ts
 
 
+
+
+===HUB PREMIER 4===
 
 
 
@@ -940,6 +955,9 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032526&extensio
 
 
 
+===NOW Premier 1===
+
+
 
 #EXTINF:-1   group-title="NOW Premier 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW Premier 151
 http://185.80.197.55/play/live.php?mac=00:1B:79:37:BB:5F&stream=1032487&extension=ts
@@ -1172,6 +1190,9 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032487&extensio
 #EXTINF:-1   group-title="NOW Premier 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW Premier 300
 http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032487&extension=ts
 
+
+
+===NOW Premier 2===
 
 
 
@@ -1409,6 +1430,8 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032486&extensio
 
 
 
+===NOW Premier 3===
+
 
 
 #EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 151
@@ -1644,6 +1667,8 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032485&extensio
 
 
 
+===NOW Premier 4===
+
 
 #EXTINF:-1   group-title="NOW Premier 4" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", NOW Premier 151
 http://185.80.197.55/play/live.php?mac=00:1B:79:37:BB:5F&stream=1032484&extension=ts
@@ -1877,6 +1902,8 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032484&extensio
 http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032484&extension=ts
 
 
+
+===Main Event===
 
 
 
@@ -2113,6 +2140,8 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=83450&extension=
 
 
 
+===Main Event 4K===
+
 
 
 #EXTINF:-1   group-title="Main Event 4K" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", Main Event 4K 151
@@ -2348,6 +2377,8 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=1641636&extensio
 
 
 
+===TNT Sport 1===
+
 
 #EXTINF:-1   group-title="TNT Sport 1" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png", TNT Sport 151
 http://185.80.197.55/play/live.php?mac=00:1B:79:37:BB:5F&stream=30567&extension=ts
@@ -2581,7 +2612,7 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:F9:B7:5C&stream=30567&extension=
 http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=30567&extension=ts
 
 
-
+===TNT Sport 2===
 
 
 
@@ -2819,7 +2850,7 @@ http://185.80.197.55/play/live.php?mac=00:1B:79:4A:19:FE&stream=30566&extension=
 
 
 
-
+===TNT Sport 4K===
 
 #EXTINF:-1   group-title="TNT Sport 4K" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png", TNT Sport 4K 151
 http://185.80.197.55/play/live.php?mac=00:1B:79:37:BB:5F&stream=1595637&extension=ts
