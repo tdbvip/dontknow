@@ -244,6 +244,71 @@ http://185.80.197.65:80/play/live.php?mac=00:1B:79:18:FA:A2&stream=1032486&exten
 
 
 
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 301 
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:B4:F0:43&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 302
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:75:39:0B&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 303
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:74:AB:67&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 304
+http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:56:9A:83&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 305
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:74:AB:67&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 306
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:84:C2:E5&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 307
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:83:08:6E&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 308 
+http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:69:17:49&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 309 
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:82:73:94&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 310 
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:7C:4F:DA&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 311 
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:3D:32:F7&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 312
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:45:3B:B5&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 313
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:41:02:2E&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", Now Premier 314
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:18:FA:A2&stream=1032486&extension=ts
+
+
+
+
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 401 
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:B4:F0:43&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 402
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:75:39:0B&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 403
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:74:AB:67&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 404
+http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:56:9A:83&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 405
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:74:AB:67&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 406
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:84:C2:E5&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 407
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:83:08:6E&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 408 
+http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:69:17:49&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 409 
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:82:73:94&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 410 
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:7C:4F:DA&stream=1032486&extension=ts
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 411 
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:3D:32:F7&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 412
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:45:3B:B5&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 413
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:41:02:2E&stream=1032486&extension=ts	
+#EXTINF:-1  group-title="Now Premier" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80", Now Premier 414
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:18:FA:A2&stream=1032486&extension=ts
+
+
+
+
+
 
 #EXTINF:-1 group-title="V Sport Premier" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",V Sport 4K 01 
 http://204.52.191.253:80/play/live.php?mac=00:1A:79:00:10:28&stream=641220&extension=ts
