@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tdbvip/dontknow/refs/heads/main/combined_epg.xml"
+
+#EXTINF:-1  tvg-id="thairathhd"  group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/ThaiRath.png" ,Thairath TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ch7hd"  group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/7HD.png" ,CH7
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-id="mcothd" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/MCOT.png",MCOT FHD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="nbt"  group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/nbt.png" ,NBT
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://cdn-edge.iiptvcdn.com/live_event/smil:1180-0c9c-ad1f-4e5d-aa48.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="thaipbs"  group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tpbs.png" ,TPBS 
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://www.thaipbs.or.th/
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="ch5""  group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/5hd.png" ,CH5
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w1436594662.m3u8
+
+
+
+
