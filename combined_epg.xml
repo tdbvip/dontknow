@@ -75,6 +75,10 @@
     <display-name>PPTV HD</display-name>
     <icon src="https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp" />
   </channel>
+  <channel id="etv">
+    <display-name>กศน. (อีทีวี)</display-name>
+    <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" />
+  </channel>
   <channel id="hbo">
     <display-name>HBO</display-name>
     <icon src="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134712006706.png" />
@@ -7401,6 +7405,778 @@
   </programme>
   <programme channel="amarinhd" start="20261026233500 +0700" stop="20261027000000 +0700">
     <title>TVD SHOP</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026000000 +0700" stop="20261026060000 +0700">
+    <title>ETV</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026060000 +0700" stop="20261026063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026063000 +0700" stop="20261026070000 +0700">
+    <title>ธรรมดีมีสุข/ธรรมะจากตาลปัตร</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026070000 +0700" stop="20261026073000 +0700">
+    <title>จุดประกาย Sci Kids</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026073000 +0700" stop="20261026080000 +0700">
+    <title>ครัวสุขภาพ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026080000 +0700" stop="20261026083000 +0700">
+    <title>ข่าวการศึกษา/สมุนไพรน่ารู้/สยามอดีต</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026083000 +0700" stop="20261026090000 +0700">
+    <title>Doctor'n Kids พิชิตโรค</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026090000 +0700" stop="20261026093000 +0700">
+    <title>การปฐมพยาบาล</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026093000 +0700" stop="20261026100000 +0700">
+    <title>ทำได้ใช้เอง</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026100000 +0700" stop="20261026110000 +0700">
+    <title>เตรียมสอบ กศน. ม.ต้น วิชาคณิตศาสตร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026110000 +0700" stop="20261026113000 +0700">
+    <title>สนุกคิด คณิต ม.ปลาย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026113000 +0700" stop="20261026120000 +0700">
+    <title>เรียนวิทย์ติดจอ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026120000 +0700" stop="20261026123000 +0700">
+    <title>English Social life</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026123000 +0700" stop="20261026130000 +0700">
+    <title>วิทยาศาสตร์ ประถมศึกษา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026130000 +0700" stop="20261026133000 +0700">
+    <title>ข่าวการศึกษา/ภาษาเกาหลี</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026133000 +0700" stop="20261026140000 +0700">
+    <title>มลายูเดี๋ยวรู้จัก/เมียนมาภาษาพาสนุก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026140000 +0700" stop="20261026143000 +0700">
+    <title>สบายดีนี่ลาวเอง/เวียดนามถามศัพท์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026143000 +0700" stop="20261026150000 +0700">
+    <title>ทำกินก็ได้ทำขายก็ดี ชุด ขนมอบ ขนมหวาน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026150000 +0700" stop="20261026153000 +0700">
+    <title>บิวตี้สี่ขา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026153000 +0700" stop="20261026160000 +0700">
+    <title>สุขพอ...ขอปัน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026160000 +0700" stop="20261026163000 +0700">
+    <title>มือใหม่วัยเก๋า#เก๋าใส่ใจคุณภาพชีวิต</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026163000 +0700" stop="20261026170000 +0700">
+    <title>Kiddy คิดดี/ขบวนการเด็กดี</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026170000 +0700" stop="20261026172500 +0700">
+    <title>ข่าวการศึกษา/ยักษ์คู่รู้คณิต/ยักษ์คู่รู้วิทย์/สมุนไพรน่ารู้</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026172500 +0700" stop="20261026183000 +0700">
+    <title>ลีลาลีลาศ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026183000 +0700" stop="20261026190000 +0700">
+    <title>ดนตรีไทย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026190000 +0700" stop="20261026200000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาคณิตศาสตร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026200000 +0700" stop="20261026203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026203000 +0700" stop="20261026213000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาคณิตศาสตร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026213000 +0700" stop="20261026220000 +0700">
+    <title>กลยุทธ์ออนไลน์ ขายดี</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026220000 +0700" stop="20261026223000 +0700">
+    <title>กฎหมายเพื่อประชาชน/English in shape</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026223000 +0700" stop="20261026230000 +0700">
+    <title>I-Style Science</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026230000 +0700" stop="20261026233000 +0700">
+    <title>รู้ทันสื่อ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261026233000 +0700" stop="20261027000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027000000 +0700" stop="20261027060000 +0700">
+    <title>ETV</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027060000 +0700" stop="20261027063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027063000 +0700" stop="20261027070000 +0700">
+    <title>ปล่อยใจไปกับธรรม</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027070000 +0700" stop="20261027073000 +0700">
+    <title>ห้องเรียนของหนู</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027073000 +0700" stop="20261027080000 +0700">
+    <title>ดนตรีบำบัด</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027080000 +0700" stop="20261027083000 +0700">
+    <title>ข่าวการศึกษา/รอบรู้ภัยพิบัติ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027083000 +0700" stop="20261027090000 +0700">
+    <title>Kids จะเล่น</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027090000 +0700" stop="20261027093000 +0700">
+    <title>เจ้าสัวหัวดิจิทัล</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027093000 +0700" stop="20261027100000 +0700">
+    <title>ฟังรู้ ดู wow</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027100000 +0700" stop="20261027110000 +0700">
+    <title>เตรียมสอบ กศน. ม.ต้น วิชาวิทยาศาสตร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027110000 +0700" stop="20261027113000 +0700">
+    <title>World wide science/สอนคิด คณิตศาสตร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027113000 +0700" stop="20261027120000 +0700">
+    <title>Maxx Mad Science ปี 2</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027120000 +0700" stop="20261027123000 +0700">
+    <title>เพลินพาภาษาไทย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027123000 +0700" stop="20261027130000 +0700">
+    <title>กศน. ออนไลน์ Plus</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027130000 +0700" stop="20261027133000 +0700">
+    <title>ข่าวการศึกษา/English Battle</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027133000 +0700" stop="20261027140000 +0700">
+    <title>สวัสดีเวียดนาม</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027140000 +0700" stop="20261027143000 +0700">
+    <title>Halo Indonesia/จุมเรียบ ซัว ขแมร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027143000 +0700" stop="20261027150000 +0700">
+    <title>ทำกินก็ได้ ทำขายก็ดี ชุด จานเดียว จานอร่อย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027150000 +0700" stop="20261027153000 +0700">
+    <title>อูคูเลเล่พาเพลิน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027153000 +0700" stop="20261027160000 +0700">
+    <title>D.I.Y. คลับ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027160000 +0700" stop="20261027163000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027163000 +0700" stop="20261027170000 +0700">
+    <title>พลเมืองยุคใหม่หัวใจดิจิทัล</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027170000 +0700" stop="20261027172500 +0700">
+    <title>ข่าวการศึกษา/ยักษ์คู่รู้คณิต/ยักษ์คู่รู้วิทย์/ตลาดออนไลน์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027172500 +0700" stop="20261027183000 +0700">
+    <title>ขยับแขนขยับขา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027183000 +0700" stop="20261027190000 +0700">
+    <title>พิพิธภัณฑ์วันหยุด</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027190000 +0700" stop="20261027200000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาวิทยาศาสตร์ทั่วไป ฟิสิกส์ เคมี ชีววิทยา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027200000 +0700" stop="20261027203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027203000 +0700" stop="20261027213000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาวิทยาศาสตร์ทั่วไป ฟิสิกส์ เคมี ชีววิทยา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027213000 +0700" stop="20261027220000 +0700">
+    <title>เขย่าความคิดกับวิทย์รักษ์โลก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027220000 +0700" stop="20261027223000 +0700">
+    <title>กฎหมายเพื่อประชาชน/English in shape</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261027223000 +0700" stop="20261028000000 +0700">
+    <title>ที่นี่มีเรื่อง</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028000000 +0700" stop="20261028060000 +0700">
+    <title>ETV</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028060000 +0700" stop="20261028063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028063000 +0700" stop="20261028070000 +0700">
+    <title>ธรรมดีมีสุข/ธรรมะจากตาลปัตร</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028070000 +0700" stop="20261028073000 +0700">
+    <title>เมืองหุ่นยนต์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028073000 +0700" stop="20261028080000 +0700">
+    <title>เพื่อชีวิตและสุขภาพ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028080000 +0700" stop="20261028083000 +0700">
+    <title>ข่าวการศึกษา/คิดเป็นทำเป็นเกษตรศิลป์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028083000 +0700" stop="20261028090000 +0700">
+    <title>เด็ก Art</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028090000 +0700" stop="20261028093000 +0700">
+    <title>ยอดคนพันธุ์ E</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028093000 +0700" stop="20261028100000 +0700">
+    <title>เก๋ไก๋สไตล์เรา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028100000 +0700" stop="20261028110000 +0700">
+    <title>เตรียมสอบ กศน. ม.ต้น วิชาภาษาอังกฤษ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028110000 +0700" stop="20261028113000 +0700">
+    <title>Math World</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028113000 +0700" stop="20261028120000 +0700">
+    <title>วาดวิทย์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028120000 +0700" stop="20261028123000 +0700">
+    <title>ภาษาอังกฤษ กศน. ม.ต้น</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028123000 +0700" stop="20261028130000 +0700">
+    <title>เรียนวิทย์ติดจอ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028130000 +0700" stop="20261028133000 +0700">
+    <title>ข่าวการศึกษา/จีนแจ่มจ้าน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028133000 +0700" stop="20261028140000 +0700">
+    <title>มลายูเดี๋ยวรู้จัก/เมียนมาภาษาพาสนุก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028140000 +0700" stop="20261028143000 +0700">
+    <title>English chic&amp;cool / I can say</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028143000 +0700" stop="20261028150000 +0700">
+    <title>ทำกินก็ได้ทำขายก็ดี ชุด ของว่าง ของอร่อย (ภาษามือ)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028150000 +0700" stop="20261028153000 +0700">
+    <title>DIY เราทำได้</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028153000 +0700" stop="20261028160000 +0700">
+    <title>ทำได้ใช้เอง</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028160000 +0700" stop="20261028163000 +0700">
+    <title>รุ่นใหญ่ไกลโรค (ภาษามือ)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028163000 +0700" stop="20261028170000 +0700">
+    <title>นิทานอาเซียน (ภาษามือ)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028170000 +0700" stop="20261028173000 +0700">
+    <title>ข่าวการศึกษา/ยักษ์คู่รู้คณิต/ยักษ์คู่รู้วิทย์/บ้านเล็กในเมืองใหญ่</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028173000 +0700" stop="20261028180000 +0700">
+    <title>ฟื้นฟูดูเฟิร์ม</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028180000 +0700" stop="20261028183000 +0700">
+    <title>ลีลาศวัยเก๋า/ไทย Exercise</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028183000 +0700" stop="20261028190000 +0700">
+    <title>คิดส์ดีแฟมิลี่</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028190000 +0700" stop="20261028200000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาอังกฤษ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028200000 +0700" stop="20261028203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028203000 +0700" stop="20261028213000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาอังกฤษ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028213000 +0700" stop="20261028220000 +0700">
+    <title>รู้'รักษ์พลังงาน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028220000 +0700" stop="20261028223000 +0700">
+    <title>Green Focus/สวัสดีภาษาจีน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028223000 +0700" stop="20261028230000 +0700">
+    <title>Let's go solar cell</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028230000 +0700" stop="20261028233000 +0700">
+    <title>ผจญภัยไร้พรมแดน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261028233000 +0700" stop="20261029000000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเย็น)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029000000 +0700" stop="20261029060000 +0700">
+    <title>ETV</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029060000 +0700" stop="20261029063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029063000 +0700" stop="20261029070000 +0700">
+    <title>ธรรมให้สบายใจ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029070000 +0700" stop="20261029073000 +0700">
+    <title>นิทานอาเซียน (ภาษามือ)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029073000 +0700" stop="20261029080000 +0700">
+    <title>มือใหม่วัยเก๋า#เก๋าใส่ใจคุณภาพชีวิต</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029080000 +0700" stop="20261029083000 +0700">
+    <title>ข่าวการศึกษา/รอบรู้ภัยพิบัติ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029083000 +0700" stop="20261029090000 +0700">
+    <title>ดนตรีไทย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029090000 +0700" stop="20261029093000 +0700">
+    <title>เขย่าความคิดกับวิทย์รักษ์โลก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029093000 +0700" stop="20261029100000 +0700">
+    <title>D.I.Y. คลับ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029100000 +0700" stop="20261029110000 +0700">
+    <title>สายใย กศน.</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029110000 +0700" stop="20261029113000 +0700">
+    <title>Big Math เล่นใหญ่ เลขคณิต</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029113000 +0700" stop="20261029120000 +0700">
+    <title>Eureka Science</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029120000 +0700" stop="20261029123000 +0700">
+    <title>เพลินพา ภาษาไทย ม.ปลาย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029123000 +0700" stop="20261029130000 +0700">
+    <title>วิทยาศาสตร์ ประถมศึกษา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029130000 +0700" stop="20261029133000 +0700">
+    <title>ข่าวการศึกษา/English Battle</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029133000 +0700" stop="20261029140000 +0700">
+    <title>นิเยีย เพียซา คแม</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029140000 +0700" stop="20261029143000 +0700">
+    <title>Are you ready ? 3 2 1</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029143000 +0700" stop="20261029150000 +0700">
+    <title>ค้าขาย ไฮเทค</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029150000 +0700" stop="20261029153000 +0700">
+    <title>ไขรหัสลับชะตาตัวเองสู่ความสำเร็จอย่างมีความสุข</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029153000 +0700" stop="20261029160000 +0700">
+    <title>เรียนนอกรั้ว</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029160000 +0700" stop="20261029163000 +0700">
+    <title>ครัวสุขภาพ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029163000 +0700" stop="20261029170000 +0700">
+    <title>ต้นกล้าอาเซียน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029170000 +0700" stop="20261029173000 +0700">
+    <title>ข่าวการศึกษา/ยักษ์คู่รู้คณิต/ยักษ์คู่รู้วิทย์/บ้านเล็กในเมืองใหญ่</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029173000 +0700" stop="20261029183000 +0700">
+    <title>สุขภาพดี ชีวีเป็นสุข</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029183000 +0700" stop="20261029190000 +0700">
+    <title>Kids จะเล่น</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029190000 +0700" stop="20261029200000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาไทย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029200000 +0700" stop="20261029203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029203000 +0700" stop="20261029213000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาภาษาไทย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029213000 +0700" stop="20261029220000 +0700">
+    <title>การปฐมพยาบาล</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029220000 +0700" stop="20261029223000 +0700">
+    <title>Green Focus/สีสันภาษาจีน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029223000 +0700" stop="20261029230000 +0700">
+    <title>รู้ทันสื่อ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029230000 +0700" stop="20261029233000 +0700">
+    <title>สะพายกล้องท่องลาว</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261029233000 +0700" stop="20261030000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030000000 +0700" stop="20261030060000 +0700">
+    <title>ETV</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030060000 +0700" stop="20261030063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030063000 +0700" stop="20261030070000 +0700">
+    <title>ปล่อยใจไปกับธรรม</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030070000 +0700" stop="20261030073000 +0700">
+    <title>พลเมืองยุคใหม่หัวใจดิจิทัล</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030073000 +0700" stop="20261030080000 +0700">
+    <title>วัยเก๋าเล่าอาชีพ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030080000 +0700" stop="20261030083000 +0700">
+    <title>ข่าวการศึกษา/คิดเป็นทำเป็นเกษตรศิลป์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030083000 +0700" stop="20261030090000 +0700">
+    <title>คิดส์ดีแฟมิลี่</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030090000 +0700" stop="20261030093000 +0700">
+    <title>กลยุทธ์ออนไลน์ขายดี</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030093000 +0700" stop="20261030100000 +0700">
+    <title>สุขพอ...ขอปัน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030100000 +0700" stop="20261030110000 +0700">
+    <title>เตรียมสอบ กศน. ม.ต้น วิชาวิทยาศาสตร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030110000 +0700" stop="20261030113000 +0700">
+    <title>สนุกคิดคณิตศาสตร์ ม.ปลาย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030113000 +0700" stop="20261030120000 +0700">
+    <title>Maxx Mad Science ปี 2</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030120000 +0700" stop="20261030123000 +0700">
+    <title>English Social life</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030123000 +0700" stop="20261030130000 +0700">
+    <title>กศน. ออนไลน์ Plus</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030130000 +0700" stop="20261030133000 +0700">
+    <title>ข่าวการศึกษา/จีนแจ่มจ้าน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030133000 +0700" stop="20261030140000 +0700">
+    <title>แง้มประตูสู่ลาว</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030140000 +0700" stop="20261030143000 +0700">
+    <title>Halo Indonesia/จุมเรียบ ซัว ขแมร์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030143000 +0700" stop="20261030150000 +0700">
+    <title>ทำกินก็ได้ทำขายก็ดี ชุด ขนมอบ ขนมหวาน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030150000 +0700" stop="20261030153000 +0700">
+    <title>บิวตี้สี่ขา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030153000 +0700" stop="20261030160000 +0700">
+    <title>เก๋ไก๋สไตล์เรา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030160000 +0700" stop="20261030163000 +0700">
+    <title>ดนตรีบำบัด</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030163000 +0700" stop="20261030170000 +0700">
+    <title>จุดประกาย Sci Kid</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030170000 +0700" stop="20261030173000 +0700">
+    <title>ข่าวการศึกษา/ยักษ์คู่รู้คณิต/ยักษ์คู่รู้วิทย์/ตลาดออนไลน์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030173000 +0700" stop="20261030183000 +0700">
+    <title>ลีลาลีลาศ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030183000 +0700" stop="20261030190000 +0700">
+    <title>Doctor'n Kids พิชิตโรค</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030190000 +0700" stop="20261030200000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาสังคมศึกษา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030200000 +0700" stop="20261030203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030203000 +0700" stop="20261030213000 +0700">
+    <title>ETV ติวเข้ม ม.ปลาย วิชาสังคมศึกษา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030213000 +0700" stop="20261030220000 +0700">
+    <title>ยอดคนพันธุ์ E</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030220000 +0700" stop="20261030223000 +0700">
+    <title>Hello English/สีสันภาษาจีน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030223000 +0700" stop="20261030233000 +0700">
+    <title>ที่นี่มีเรื่อง</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261030233000 +0700" stop="20261031000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031000000 +0700" stop="20261031060000 +0700">
+    <title>ETV</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031060000 +0700" stop="20261031063000 +0700">
+    <title>ธรรมสาธุ(ทำวัตรเช้า)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031063000 +0700" stop="20261031070000 +0700">
+    <title>สยามอดีต/ยักษ์คู่ รู้คิด2/ครอบครัวตัวหมี</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031070000 +0700" stop="20261031073000 +0700">
+    <title>ต้นกล้าอาเซียน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031073000 +0700" stop="20261031080000 +0700">
+    <title>รุ่นใหญ่ไกลโรค</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031080000 +0700" stop="20261031083000 +0700">
+    <title>ข่าวการศึกษา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031083000 +0700" stop="20261031090000 +0700">
+    <title>พิพิธภัณฑ์วันหยุด</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031090000 +0700" stop="20261031120000 +0700">
+    <title>ถ่ายทอดสดงานวันเด็ก ประจำปี 2565</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031120000 +0700" stop="20261031123000 +0700">
+    <title>เพลินพา ภาษาไทย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031123000 +0700" stop="20261031130000 +0700">
+    <title>ทำกินก็ได้ ทำขายก็ดี ชุด ของว่าง ของอร่อย (ภาษามือ)</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031130000 +0700" stop="20261031133000 +0700">
+    <title>ข่าวการศึกษา</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031133000 +0700" stop="20261031140000 +0700">
+    <title>สวัสดีเวียดนาม</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031140000 +0700" stop="20261031143000 +0700">
+    <title>สบายดีนี่ลาวเอง/เวียดนามถามศัพท์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031143000 +0700" stop="20261031150000 +0700">
+    <title>ไขรหัสลับชะตาตัวเองสู่ความสำเร็จอย่างมีความสุข</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031150000 +0700" stop="20261031153000 +0700">
+    <title>อูคูเลเล่พาเพลิน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031153000 +0700" stop="20261031160000 +0700">
+    <title>คิดบวกคิดใหม่เพื่อครูไทย</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031160000 +0700" stop="20261031163000 +0700">
+    <title>วัยเก๋าเล่าอาชีพ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031163000 +0700" stop="20261031170000 +0700">
+    <title>เมืองหุ่นยนต์</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031170000 +0700" stop="20261031173000 +0700">
+    <title>นครป่าหลากลายหลายชีวิต/ยักษ์คู่รู้คิด2/ครอบครัวตัวหมี</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031173000 +0700" stop="20261031180000 +0700">
+    <title>ฟื้นฟู ดูเฟิร์ม</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031180000 +0700" stop="20261031183000 +0700">
+    <title>Sport Guide</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031183000 +0700" stop="20261031190000 +0700">
+    <title>เด็ก Art</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031190000 +0700" stop="20261031200000 +0700">
+    <title>ติวเข้มเติมเต็มความรู้</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031200000 +0700" stop="20261031203000 +0700">
+    <title>ข่าวในพระราชสำนัก</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031203000 +0700" stop="20261031213000 +0700">
+    <title>ภาษาอังกฤษ 4 ทักษะ</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031213000 +0700" stop="20261031220000 +0700">
+    <title>เจ้าสัวหัวดิจิทัล</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031220000 +0700" stop="20261031223000 +0700">
+    <title>Hello English/เทคโนโลยีง่ายกว่าที่คิด</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031223000 +0700" stop="20261031230000 +0700">
+    <title>รู้'รักษ์ พลังงาน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031230000 +0700" stop="20261031233000 +0700">
+    <title>ผจญภัยไร้พรมแดน</title>
+    <desc />
+  </programme>
+  <programme channel="etv" start="20261031233000 +0700" stop="20261101000000 +0700">
+    <title>ธรรมสาธุ (ทำวัตรเย็น)</title>
     <desc />
   </programme>
   <programme channel="hbo" start="20261025013500 +0700" stop="20261025032500 +0700">
@@ -29838,18 +30614,6 @@
   <programme start="20261028000000 +0800" stop="20261028020000 +0800" channel="Now Premier 1">
     <title lang="en">Premier League 26/27 -Arsenal vs Everton</title>
   </programme>
-  <programme start="20261028090000 +0800" stop="20261028110000 +0800" channel="Now Premier 1">
-    <title lang="en">Premier League 26/27 -Hull City vs Brentford</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028130000 +0800" channel="Now Premier 1">
-    <title lang="en">Premier League 26/27 -Manchester United vs Bournemouth</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028140000 +0800" channel="Now Premier 1">
-    <title lang="en">PL Stories 26/27 -MARCUS STEWART - THE FIGHT OF MY LIFE</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028160000 +0800" channel="Now Premier 1">
-    <title lang="en">Premier League 26/27 -Arsenal vs Everton</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028180000 +0800" channel="Now Premier 1">
     <title lang="en">Premier League 26/27 -Hull City vs Brentford</title>
   </programme>
@@ -30273,12 +31037,6 @@
   <programme start="20261028000000 +0800" stop="20261028040000 +0800" channel="Now Premier 2">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20261028080000 +0800" stop="20261028120000 +0800" channel="Now Premier 2">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028160000 +0800" channel="Now Premier 2">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028200000 +0800" channel="Now Premier 2">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -30426,12 +31184,6 @@
   <programme start="20261028000000 +0800" stop="20261028040000 +0800" channel="Now Premier 3">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20261028080000 +0800" stop="20261028120000 +0800" channel="Now Premier 3">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028160000 +0800" channel="Now Premier 3">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028200000 +0800" channel="Now Premier 3">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -30568,12 +31320,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028000000 +0800" stop="20261028040000 +0800" channel="Now Premier 4">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028120000 +0800" channel="Now Premier 4">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028160000 +0800" channel="Now Premier 4">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028160000 +0800" stop="20261028200000 +0800" channel="Now Premier 4">
@@ -30714,12 +31460,6 @@
   <programme start="20261028000000 +0800" stop="20261028040000 +0800" channel="Now Premier 5">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20261028080000 +0800" stop="20261028120000 +0800" channel="Now Premier 5">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028160000 +0800" channel="Now Premier 5">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028200000 +0800" channel="Now Premier 5">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -30858,12 +31598,6 @@
   <programme start="20261028000000 +0800" stop="20261028040000 +0800" channel="Now Premier 6">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20261028080000 +0800" stop="20261028120000 +0800" channel="Now Premier 6">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028160000 +0800" channel="Now Premier 6">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028200000 +0800" channel="Now Premier 6">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -30999,12 +31733,6 @@
   <programme start="20261028000000 +0800" stop="20261028040000 +0800" channel="Now Premier 7">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20261028080000 +0800" stop="20261028120000 +0800" channel="Now Premier 7">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028160000 +0800" channel="Now Premier 7">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028200000 +0800" channel="Now Premier 7">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -31138,12 +31866,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028000000 +0800" stop="20261028040000 +0800" channel="Now Premier 8">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028120000 +0800" channel="Now Premier 8">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028160000 +0800" channel="Now Premier 8">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028160000 +0800" stop="20261028200000 +0800" channel="Now Premier 8">
@@ -31297,18 +32019,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028000000 +0800" stop="20261028020000 +0800" channel="Now Premier 9">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028100000 +0800" channel="Now Premier 9">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028120000 +0800" channel="Now Premier 9">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028140000 +0800" channel="Now Premier 9">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028160000 +0800" channel="Now Premier 9">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028160000 +0800" stop="20261028180000 +0800" channel="Now Premier 9">
@@ -31625,30 +32335,6 @@
   </programme>
   <programme start="20261027190000 +0800" stop="20261028010000 +0800" channel="Now Sports 1">
     <title lang="en">WTT Champions Montpellier 2026 -Day 1 (A)[Live]</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028103000 +0800" channel="Now Sports 1">
-    <title lang="en">WTT Champions Montpellier 2026 Match of the Day -Day 1</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028110000 +0800" channel="Now Sports 1">
-    <title lang="en">WTA 2026 Final Highlights -National Bank Open presented by Rogers</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028130000 +0800" channel="Now Sports 1">
-    <title lang="en">ATP 26 Almaty Open -SF (1)</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028133000 +0800" channel="Now Sports 1">
-    <title lang="en">PGA TOUR Champions Learning Center 2026 E20</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028140000 +0800" channel="Now Sports 1">
-    <title lang="en">PGA TOUR: The CUT 2026 E30</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028153000 +0800" channel="Now Sports 1">
-    <title lang="en">WTT Champions Montpellier 2026 Match of the Day -Day 1</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028160000 +0800" channel="Now Sports 1">
-    <title lang="en">PGA TOUR Champions Learning Center 2026 E21</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028170000 +0800" channel="Now Sports 1">
-    <title lang="en">ATP 26 H/Ls -Cincinnati Open</title>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028183000 +0800" channel="Now Sports 1">
     <title lang="en">WTT Champions Montpellier 2026 Match of the Day -Day 1</title>
@@ -32313,21 +32999,6 @@
   <programme start="20261028000000 +0800" stop="20261028020000 +0800" channel="Now Sports 2">
     <title lang="en">LALIGA EA SPORTS 2026/2027 MD10 -Athletic Club vs Getafe CF</title>
   </programme>
-  <programme start="20261028090000 +0800" stop="20261028110000 +0800" channel="Now Sports 2">
-    <title lang="en">LALIGA EA SPORTS 2026/2027 MD10 -Rayo Vallecano vs Elche CF</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028130000 +0800" channel="Now Sports 2">
-    <title lang="en">LALIGA EA SPORTS 2026/2027 MD10 -Valencia CF vs Villarreal CF</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028133000 +0800" channel="Now Sports 2">
-    <title lang="en">LALIGA ROOKIES</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028140000 +0800" channel="Now Sports 2">
-    <title lang="en">LALIGA HIGHLIGHTS -MD10</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028160000 +0800" channel="Now Sports 2">
-    <title lang="en">LALIGA EA SPORTS 2026/2027 MD10 -FC Barcelona vs Real Madrid</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028180000 +0800" channel="Now Sports 2">
     <title lang="en">LALIGA EA SPORTS 2026/2027 MD10 -Atlético de Madrid vs RC Deportivo</title>
   </programme>
@@ -32660,36 +33331,6 @@
   </programme>
   <programme start="20261028000000 +0800" stop="20261028021500 +0800" channel="Now Sports 3">
     <title lang="en">NFL 26/27 -Kansas City Chiefs @ Seattle Seahawks</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028100000 +0800" channel="Now Sports 3">
-    <title lang="en">HSBC BWF World Tour 2026 YONEX French Open -Final Mixed Doubles</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028103000 +0800" channel="Now Sports 3">
-    <title lang="en">A.S.O. Final Highlights - Obstacles Race -Spartan Ultra World Championships</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028110000 +0800" channel="Now Sports 3">
-    <title lang="en">2026 Mass Participation -Transvulcania</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028120000 +0800" channel="Now Sports 3">
-    <title lang="en">A.S.O. Final Highlights - Motorsports: Cross-Country -Rallye Du Maroc</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028141500 +0800" channel="Now Sports 3">
-    <title lang="en">NFL 26/27 -Green Bay Packers @ Detroit Lions</title>
-  </programme>
-  <programme start="20261028141500 +0800" stop="20261028142200 +0800" channel="Now Sports 3">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028142200 +0800" stop="20261028143000 +0800" channel="Now Sports 3">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028150000 +0800" channel="Now Sports 3">
-    <title lang="en">Monster Jam E3</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028160000 +0800" channel="Now Sports 3">
-    <title lang="en">HSBC BWF World Tour 2026 LI-NING China Masters 2026 -Final Men's Singles</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028170000 +0800" channel="Now Sports 3">
-    <title lang="en">A.S.O. Final Highlights - Cycling -UCI Europe Tour - CRO Race</title>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028180000 +0800" channel="Now Sports 3">
     <title lang="en">HSBC BWF World Tour 2026 LI-NING China Masters 2026 -Final Men's Doubles</title>
@@ -33245,42 +33886,6 @@
   </programme>
   <programme start="20261028000000 +0800" stop="20261028020000 +0800" channel="Now Sports 4">
     <title lang="en">WTA 26 Kinoshita Group Japan Open -QF(1)</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028090800 +0800" channel="Now Sports 4">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028090800 +0800" stop="20261028091500 +0800" channel="Now Sports 4">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028091500 +0800" stop="20261028093000 +0800" channel="Now Sports 4">
-    <title lang="en">Century Break 2026 E181</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028140000 +0800" channel="Now Sports 4">
-    <title lang="en">WTA 26 Toray Pan Pacific Open Tennis E4[Live]</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028141500 +0800" channel="Now Sports 4">
-    <title lang="en">Century Break 2026 E184</title>
-  </programme>
-  <programme start="20261028141500 +0800" stop="20261028142300 +0800" channel="Now Sports 4">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028142300 +0800" stop="20261028143000 +0800" channel="Now Sports 4">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028150000 +0800" channel="Now Sports 4">
-    <title lang="en">WTA 2026 Final Highlights -Dongfeng · Voyah Wuhan Open</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028153000 +0800" channel="Now Sports 4">
-    <title lang="en">WTA All Access 2026 E5</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028153800 +0800" channel="Now Sports 4">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028153800 +0800" stop="20261028154500 +0800" channel="Now Sports 4">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028154500 +0800" stop="20261028160000 +0800" channel="Now Sports 4">
-    <title lang="en">Century Break 2026 E181</title>
   </programme>
   <programme start="20261028160000 +0800" stop="20261028173000 +0800" channel="Now Sports 4">
     <title lang="en">WTA 26 Toray Pan Pacific Open Tennis E5[Live]</title>
@@ -34032,18 +34637,6 @@
   <programme start="20261028000000 +0800" stop="20261028013000 +0800" channel="Now Sports 5">
     <title lang="en">Malaysia Regional Cup '26 E1 -Jewels v Sneakers</title>
   </programme>
-  <programme start="20261028083000 +0800" stop="20261028103000 +0800" channel="Now Sports 5">
-    <title lang="en">Serie A Women's Cup '26 E5 -Roma v Fiorentina</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028120000 +0800" channel="Now Sports 5">
-    <title lang="en">Courmayeur Cup '26 E4 -FINAL</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028123000 +0800" channel="Now Sports 5">
-    <title lang="en">Sports Woman '24 E1 -Sports Woman '24</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028140000 +0800" channel="Now Sports 5">
-    <title lang="en">Malaysian NSL '26 E8 -Kedah Sunshine v Terengganu Marv</title>
-  </programme>
   <programme start="20261028140000 +0800" stop="20261028184000 +0800" channel="Now Sports 5">
     <title lang="en">Tour Down Under '26 E1 -Stage 1 Willunga to Wilunga</title>
   </programme>
@@ -34445,33 +35038,6 @@
   </programme>
   <programme start="20261027203000 +0800" stop="20261028050000 +0800" channel="Now Sports 6">
     <title lang="en">ATP 26 Erste Bank Open -Round 1 (B)[Live]</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028093000 +0800" channel="Now Sports 6">
-    <title lang="en">WTA All Access 2026 E5</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028110000 +0800" channel="Now Sports 6">
-    <title lang="en">ATP 26 Grand Prix Auvergne-Rhone-Alpes -QF (2)</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028110800 +0800" channel="Now Sports 6">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028110800 +0800" stop="20261028111500 +0800" channel="Now Sports 6">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028111500 +0800" stop="20261028113000 +0800" channel="Now Sports 6">
-    <title lang="en">Century Break 2026 E188</title>
-  </programme>
-  <programme start="20261028113000 +0800" stop="20261028133000 +0800" channel="Now Sports 6">
-    <title lang="en">ATP 26 BNP Paribas Fortis European Open -QF (2)</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028133800 +0800" channel="Now Sports 6">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028133800 +0800" stop="20261028134500 +0800" channel="Now Sports 6">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028134500 +0800" stop="20261028140000 +0800" channel="Now Sports 6">
-    <title lang="en">Century Break 2026 E188</title>
   </programme>
   <programme start="20261028140000 +0800" stop="20261028190000 +0800" channel="Now Sports 6">
     <title lang="en">ATP 26 Erste Bank Open -Round 1 (B)</title>
@@ -35091,42 +35657,6 @@
   <programme start="20261028000000 +0800" stop="20261028021500 +0800" channel="Now Sports 7">
     <title lang="en">Shenzhen Open 2026 -R64 - O'Sullivan vs Jiang</title>
   </programme>
-  <programme start="20261028073000 +0800" stop="20261028094500 +0800" channel="Now Sports 7">
-    <title lang="en">China Open 2026 -QFs(2) - Robertson vs Selby</title>
-  </programme>
-  <programme start="20261028094500 +0800" stop="20261028095300 +0800" channel="Now Sports 7">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028095300 +0800" stop="20261028100000 +0800" channel="Now Sports 7">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028123000 +0800" channel="Now Sports 7">
-    <title lang="en">Wuhan Open 2026 -QFs(2) - Zhao vs Robertson</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028123800 +0800" channel="Now Sports 7">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028123800 +0800" stop="20261028124500 +0800" channel="Now Sports 7">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028124500 +0800" stop="20261028130000 +0800" channel="Now Sports 7">
-    <title lang="en">Century Break 2026 E193</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028144500 +0800" channel="Now Sports 7">
-    <title lang="en">British Open 2026 -QFs(2) - Trump vs Zhao</title>
-  </programme>
-  <programme start="20261028144500 +0800" stop="20261028145300 +0800" channel="Now Sports 7">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028145300 +0800" stop="20261028150000 +0800" channel="Now Sports 7">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028151500 +0800" channel="Now Sports 7">
-    <title lang="en">Century Break 2026 E193</title>
-  </programme>
-  <programme start="20261028151500 +0800" stop="20261028153000 +0800" channel="Now Sports 7">
-    <title lang="en">Snooker 147 E40</title>
-  </programme>
   <programme start="20261028153000 +0800" stop="20261028180000 +0800" channel="Now Sports 7">
     <title lang="en">English Open 2026 -QFs(2) - Trump vs Murphy</title>
   </programme>
@@ -35570,24 +36100,6 @@
   </programme>
   <programme start="20261027230000 +0800" stop="20261028005000 +0800" channel="Now Sports 8">
     <title lang="en">Serie A 2026/27 E80 -Udinese vs Milan</title>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028100000 +0800" channel="Now Sports 8">
-    <title lang="en">Serie A 2026/27 E81 -Sassuolo vs Lazio</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028120000 +0800" channel="Now Sports 8">
-    <title lang="en">Serie A 2026/27 E82 -Roma vs Cagliari</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028123000 +0800" channel="Now Sports 8">
-    <title lang="en">Serie A Full Impact 2026/27 E8 -Matchday 8</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028143000 +0800" channel="Now Sports 8">
-    <title lang="en">LFCTV 2026/27 E9 -Liverpool vs Brighton</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028150000 +0800" channel="Now Sports 8">
-    <title lang="en">LFC Trending 2026/27 E10</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028153000 +0800" channel="Now Sports 8">
-    <title lang="en">LFCTV Highlights 2026/27 E4 -Liverpool vs Villarreal - UCL</title>
   </programme>
   <programme start="20261028153000 +0800" stop="20261028173000 +0800" channel="Now Sports 8">
     <title lang="en">Serie A 2026/27 E81 -Sassuolo vs Lazio</title>
@@ -36054,30 +36566,6 @@
   <programme start="20261027230000 +0800" stop="20261028003000 +0800" channel="Now Sports 9">
     <title lang="en">Premier Padel 2026 -Kuwait Major Day 3 Match 4[Live]</title>
   </programme>
-  <programme start="20261028083500 +0800" stop="20261028090500 +0800" channel="Now Sports 9">
-    <title lang="en">PSG TV Specials 2026/27 E9</title>
-  </programme>
-  <programme start="20261028090500 +0800" stop="20261028093500 +0800" channel="Now Sports 9">
-    <title lang="en">This Is Paris 2026/27 E9</title>
-  </programme>
-  <programme start="20261028093500 +0800" stop="20261028113500 +0800" channel="Now Sports 9">
-    <title lang="en">PSG TV 2026/27 -PSG vs Lyon</title>
-  </programme>
-  <programme start="20261028113500 +0800" stop="20261028123500 +0800" channel="Now Sports 9">
-    <title lang="en">Bundesliga Highlights 2026/27 -Matchday 7</title>
-  </programme>
-  <programme start="20261028123500 +0800" stop="20261028143000 +0800" channel="Now Sports 9">
-    <title lang="en">Bundesliga 2026/27 -Freiburg vs Bayern</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028150000 +0800" channel="Now Sports 9">
-    <title lang="en">Mini Match - Bundesliga 2026/27 -Hoffenheim vs Leverkusen</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028160000 +0800" channel="Now Sports 9">
-    <title lang="en">FIM World Supercross Championship 2026 -Calgary, Canada</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028170000 +0800" channel="Now Sports 9">
-    <title lang="en">GT World Challenge Europe Highlights 2026 -Portimao, Portugal</title>
-  </programme>
   <programme start="20261028170000 +0800" stop="20261028183000 +0800" channel="Now Sports 9">
     <title lang="en">Premier Padel 2026 -Kuwait Major Day 4 Match 1[Live]</title>
   </programme>
@@ -36521,36 +37009,6 @@
   </programme>
   <programme start="20261027210000 +0800" stop="20261028050000 +0800" channel="Now Sports Prime">
     <title lang="en">ATP 26 Swiss Indoor Basel -Round 1(C)[Live]</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028093000 +0800" channel="Now Sports Prime">
-    <title lang="en">PL Stories 26/27 -THE EVOLUTION OF GOALKEEPERS</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028093700 +0800" channel="Now Sports Prime">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028093700 +0800" stop="20261028094500 +0800" channel="Now Sports Prime">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028094500 +0800" stop="20261028100000 +0800" channel="Now Sports Prime">
-    <title lang="en">Century Break 2026 E183</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028114500 +0800" channel="Now Sports Prime">
-    <title lang="en">NBA 26/27 -Memphis Grizzlies vs Sacramento Kings</title>
-  </programme>
-  <programme start="20261028114500 +0800" stop="20261028120000 +0800" channel="Now Sports Prime">
-    <title lang="en">Century Break 2026 E183</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028121500 +0800" channel="Now Sports Prime">
-    <title lang="en">PL Goals 26/27 -Week 7</title>
-  </programme>
-  <programme start="20261028121500 +0800" stop="20261028122200 +0800" channel="Now Sports Prime">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E4</title>
-  </programme>
-  <programme start="20261028122200 +0800" stop="20261028123000 +0800" channel="Now Sports Prime">
-    <title lang="en">Prudential Hong Kong Tennis Open 2026 Lead-in E5</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028133000 +0800" channel="Now Sports Prime">
-    <title lang="en">Premier League Highlights 26/27 -Week 7</title>
   </programme>
   <programme start="20261028133000 +0800" stop="20261028200000 +0800" channel="Now Sports Prime">
     <title lang="en">ATP 26 Swiss Indoor Basel -Round 1(C)</title>
@@ -37293,51 +37751,6 @@
   <programme start="20261028002500 +0800" stop="20261028005500 +0800" channel="asianfoodnetwork">
     <title lang="en">The Chocolate Queen S6E2</title>
   </programme>
-  <programme start="20261028084000 +0800" stop="20261028093500 +0800" channel="asianfoodnetwork">
-    <title lang="en">Love In A Pot S1E2 -Japan</title>
-  </programme>
-  <programme start="20261028093500 +0800" stop="20261028100000 +0800" channel="asianfoodnetwork">
-    <title lang="en">Good Chef Bad Chef S14E5</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028103000 +0800" channel="asianfoodnetwork">
-    <title lang="en">Good Chef Bad Chef S14E6</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028112500 +0800" channel="asianfoodnetwork">
-    <title lang="en">Jeremy Pang's Hong Kong Kitchen S1E3 -Tom Skinner</title>
-  </programme>
-  <programme start="20261028112500 +0800" stop="20261028115000 +0800" channel="asianfoodnetwork">
-    <title lang="en">From The Source S2E3 -Grapes</title>
-  </programme>
-  <programme start="20261028115000 +0800" stop="20261028122000 +0800" channel="asianfoodnetwork">
-    <title lang="en">From The Source S2E4 -Vinegar</title>
-  </programme>
-  <programme start="20261028122000 +0800" stop="20261028124500 +0800" channel="asianfoodnetwork">
-    <title lang="en">Jason Tastes Asia S1E1 -Vietnam - Banh In All Forms</title>
-  </programme>
-  <programme start="20261028124500 +0800" stop="20261028131500 +0800" channel="asianfoodnetwork">
-    <title lang="en">Jason Tastes Asia S1E2 -Vietnam - Pho, Teochew Kway Teow And  Cantonese Hor Fan</title>
-  </programme>
-  <programme start="20261028131500 +0800" stop="20261028134000 +0800" channel="asianfoodnetwork">
-    <title lang="en">Cooking With Choi S1E4 -Korean Burger Time</title>
-  </programme>
-  <programme start="20261028134000 +0800" stop="20261028141000 +0800" channel="asianfoodnetwork">
-    <title lang="en">Secrets Of The Curry Kitchen S1E4 -Sweet Things</title>
-  </programme>
-  <programme start="20261028141000 +0800" stop="20261028143500 +0800" channel="asianfoodnetwork">
-    <title lang="en">The Cook Up With Adam Liaw S3E7 -Home Delivery</title>
-  </programme>
-  <programme start="20261028143500 +0800" stop="20261028150500 +0800" channel="asianfoodnetwork">
-    <title lang="en">The Cook Up With Adam Liaw S3E8 -Umami</title>
-  </programme>
-  <programme start="20261028150500 +0800" stop="20261028160000 +0800" channel="asianfoodnetwork">
-    <title lang="en">Love In A Pot S1E2 -Japan</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028163000 +0800" channel="asianfoodnetwork">
-    <title lang="en">Good Chef Bad Chef S14E7</title>
-  </programme>
-  <programme start="20261028163000 +0800" stop="20261028170000 +0800" channel="asianfoodnetwork">
-    <title lang="en">Good Chef Bad Chef S14E8</title>
-  </programme>
   <programme start="20261028170000 +0800" stop="20261028180000 +0800" channel="asianfoodnetwork">
     <title lang="en">A Taste Of Festival S1E5 -Birthday 2</title>
   </programme>
@@ -38073,30 +38486,6 @@
   <programme start="20261027234000 +0800" stop="20261028003500 +0800" channel="bbcearth">
     <title lang="en">Planet Earth III S3E2 -Ocean</title>
   </programme>
-  <programme start="20261028084000 +0800" stop="20261028094000 +0800" channel="bbcearth">
-    <title lang="en">Planet Earth III S3E2 -Ocean</title>
-  </programme>
-  <programme start="20261028094000 +0800" stop="20261028103500 +0800" channel="bbcearth">
-    <title lang="en">World's Most Amazing Walks With Robson Green S1E3 -Scotland</title>
-  </programme>
-  <programme start="20261028103500 +0800" stop="20261028113500 +0800" channel="bbcearth">
-    <title lang="en">Trailblazers: A Rocky Mountain Road Trip S1E1</title>
-  </programme>
-  <programme start="20261028113500 +0800" stop="20261028123000 +0800" channel="bbcearth">
-    <title lang="en">Engineering Repurposed S1E10</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028133000 +0800" channel="bbcearth">
-    <title lang="en">Frozen Planet II S2E3 -Frozen Peaks</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028143000 +0800" channel="bbcearth">
-    <title lang="en">Planet Earth III S3E2 -Ocean</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028153000 +0800" channel="bbcearth">
-    <title lang="en">Trailblazers: A Rocky Mountain Road Trip S1E1</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028162500 +0800" channel="bbcearth">
-    <title lang="en">World's Most Amazing Walks With Robson Green S1E3 -Scotland</title>
-  </programme>
   <programme start="20261028162500 +0800" stop="20261028171500 +0800" channel="bbcearth">
     <title lang="en">Extreme Fishing With Robson Green S3E10 -India And The Maldives</title>
   </programme>
@@ -38574,21 +38963,6 @@
   <programme start="20261028000000 +0800" stop="20261028010000 +0800" channel="bloomberg">
     <title lang="en">Bloomberg Deals</title>
   </programme>
-  <programme start="20261028090000 +0800" stop="20261028110000 +0800" channel="bloomberg">
-    <title lang="en">Bloomberg: The China Show</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028120000 +0800" channel="bloomberg">
-    <title lang="en">Insight With Haslinda Amin</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028140000 +0800" channel="bloomberg">
-    <title lang="en">Bloomberg Horizons Middle East &amp; Africa</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028150000 +0800" channel="bloomberg">
-    <title lang="en">Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028170000 +0800" channel="bloomberg">
-    <title lang="en">Bloomberg: The Opening Trade</title>
-  </programme>
   <programme start="20261028170000 +0800" stop="20261028180000 +0800" channel="bloomberg">
     <title lang="en">Bloomberg Brief</title>
   </programme>
@@ -38949,21 +39323,6 @@
   <programme start="20261027234000 +0800" stop="20261028012000 +0800" channel="cinemax">
     <title lang="en">The Highest Stakes</title>
   </programme>
-  <programme start="20261028075000 +0800" stop="20261028092500 +0800" channel="cinemax">
-    <title lang="en">Drop</title>
-  </programme>
-  <programme start="20261028092500 +0800" stop="20261028110500 +0800" channel="cinemax">
-    <title lang="en">Caddo Lake</title>
-  </programme>
-  <programme start="20261028110500 +0800" stop="20261028125500 +0800" channel="cinemax">
-    <title lang="en">Dinner For Schmucks</title>
-  </programme>
-  <programme start="20261028125500 +0800" stop="20261028143000 +0800" channel="cinemax">
-    <title lang="en">Run &amp; Gun</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028160000 +0800" channel="cinemax">
-    <title lang="en">Old School</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028180000 +0800" channel="cinemax">
     <title lang="en">Boycott</title>
   </programme>
@@ -39275,24 +39634,6 @@
   </programme>
   <programme start="20261028000300 +0800" stop="20261028010000 +0800" channel="cna">
     <title lang="en">East Asia Tonight</title>
-  </programme>
-  <programme start="20261028070000 +0800" stop="20261028100000 +0800" channel="cna">
-    <title lang="en">Asia First</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028110000 +0800" channel="cna">
-    <title lang="en">When Titans Clash S14: The Coming China Euro Trade War</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028130000 +0800" channel="cna">
-    <title lang="en">Asia Now</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028140000 +0800" channel="cna">
-    <title lang="en">Tech To Save The World E2 -Rooted Resilience</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028160000 +0800" channel="cna">
-    <title lang="en">Asia Now</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028170000 +0800" channel="cna">
-    <title lang="en">Insight E21</title>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028170200 +0800" channel="cna">
     <title lang="en">Headline News</title>
@@ -40088,78 +40429,6 @@
   </programme>
   <programme start="20261028001500 +0800" stop="20261028003000 +0800" channel="euronews">
     <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028091400 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028091400 +0800" stop="20261028093000 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028100000 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028101500 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028101500 +0800" stop="20261028103000 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028110000 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028111500 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028111500 +0800" stop="20261028113000 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028113000 +0800" stop="20261028120000 +0800" channel="euronews">
-    <title lang="en">The European Debrief</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028121500 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028121500 +0800" stop="20261028123000 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028130000 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028131500 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028131500 +0800" stop="20261028133000 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028140000 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028143000 +0800" channel="euronews">
-    <title lang="en">Europe Today</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028144600 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028144600 +0800" stop="20261028150000 +0800" channel="euronews">
-    <title lang="en">News</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028153000 +0800" channel="euronews">
-    <title lang="en">Europe Today</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028154600 +0800" channel="euronews">
-    <title lang="en">Wake Up Europe</title>
-  </programme>
-  <programme start="20261028154600 +0800" stop="20261028160000 +0800" channel="euronews">
-    <title lang="en">News</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028163000 +0800" channel="euronews">
-    <title lang="en">Europe Today</title>
-  </programme>
-  <programme start="20261028163000 +0800" stop="20261028164600 +0800" channel="euronews">
-    <title lang="en">Euronews Now</title>
-  </programme>
-  <programme start="20261028164600 +0800" stop="20261028170000 +0800" channel="euronews">
-    <title lang="en">News</title>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028173000 +0800" channel="euronews">
     <title lang="en">Euronews Now</title>
@@ -41414,45 +41683,6 @@
   </programme>
   <programme start="20261028001200 +0800" stop="20261028003600 +0800" channel="foodnetwork">
     <title lang="en">Valerie's Home Cooking S12E8 -A Trip To The Mediterranean</title>
-  </programme>
-  <programme start="20261028082400 +0800" stop="20261028091200 +0800" channel="foodnetwork">
-    <title lang="en">Restaurant: Impossible S16E5 -New Roles New Results</title>
-  </programme>
-  <programme start="20261028091200 +0800" stop="20261028100000 +0800" channel="foodnetwork">
-    <title lang="en">Best Bite In Town S1E1 -Davis</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028104800 +0800" channel="foodnetwork">
-    <title lang="en">All-Star Best Thing I Ever Ate S1E4 -Deepfried Decadence</title>
-  </programme>
-  <programme start="20261028104800 +0800" stop="20261028111200 +0800" channel="foodnetwork">
-    <title lang="en">Valerie's Home Cooking S12E7 -Buns Of Anarchy</title>
-  </programme>
-  <programme start="20261028111200 +0800" stop="20261028113600 +0800" channel="foodnetwork">
-    <title lang="en">Valerie's Home Cooking S12E8 -A Trip To The Mediterranean</title>
-  </programme>
-  <programme start="20261028113600 +0800" stop="20261028122400 +0800" channel="foodnetwork">
-    <title lang="en">The Kitchen S33E7 -Tropic Like It's Hot</title>
-  </programme>
-  <programme start="20261028122400 +0800" stop="20261028124800 +0800" channel="foodnetwork">
-    <title lang="en">Beach Bites With Katie Lee S1E1 -Doing The Island Hop</title>
-  </programme>
-  <programme start="20261028124800 +0800" stop="20261028131200 +0800" channel="foodnetwork">
-    <title lang="en">Beach Bites With Katie Lee S1E2 -Hometown Favorites</title>
-  </programme>
-  <programme start="20261028131200 +0800" stop="20261028133600 +0800" channel="foodnetwork">
-    <title lang="en">Unwrapped 2.0 S2E3 -Crunchy</title>
-  </programme>
-  <programme start="20261028133600 +0800" stop="20261028140000 +0800" channel="foodnetwork">
-    <title lang="en">Unwrapped 2.0 S2E4 -Flavor Infusion</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028144800 +0800" channel="foodnetwork">
-    <title lang="en">Chopped Castaways S1E5 -Youre On Your Own Kid</title>
-  </programme>
-  <programme start="20261028144800 +0800" stop="20261028153600 +0800" channel="foodnetwork">
-    <title lang="en">Restaurant: Impossible S16E5 -New Roles New Results</title>
-  </programme>
-  <programme start="20261028153600 +0800" stop="20261028162400 +0800" channel="foodnetwork">
-    <title lang="en">Jose Andres &amp; Family In Spain S1E3 -Madrid</title>
   </programme>
   <programme start="20261028162400 +0800" stop="20261028171200 +0800" channel="foodnetwork">
     <title lang="en">All-Star Best Thing I Ever Ate S1E4 -Deepfried Decadence</title>
@@ -42794,228 +43024,6 @@
   </programme>
   <programme start="20261028002200 +0800" stop="20261028003000 +0800" channel="france24">
     <title lang="en">L'instant mobile</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028091500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028091000 +0800" channel="france24">
-    <title lang="en">L'édition nuit : le journal[Live]</title>
-  </programme>
-  <programme start="20261028091000 +0800" stop="20261028093000 +0800" channel="france24">
-    <title lang="en">Ici l'Europe : on vous écoute</title>
-  </programme>
-  <programme start="20261028091500 +0800" stop="20261028093000 +0800" channel="france24">
-    <title lang="en">A Propos</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028094500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028094000 +0800" channel="france24">
-    <title lang="en">L'édition nuit : le journal[Live]</title>
-  </programme>
-  <programme start="20261028094000 +0800" stop="20261028095200 +0800" channel="france24">
-    <title lang="en">C'est en France</title>
-  </programme>
-  <programme start="20261028094500 +0800" stop="20261028100000 +0800" channel="france24">
-    <title lang="en">Eye On Africa</title>
-  </programme>
-  <programme start="20261028095200 +0800" stop="20261028100000 +0800" channel="france24">
-    <title lang="en">L'instant mobile</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028101000 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028101100 +0800" channel="france24">
-    <title lang="en">L'édition nuit : le journal[Live]</title>
-  </programme>
-  <programme start="20261028101000 +0800" stop="20261028105300 +0800" channel="france24">
-    <title lang="en">The Debate</title>
-  </programme>
-  <programme start="20261028101100 +0800" stop="20261028105500 +0800" channel="france24">
-    <title lang="en">Le débat</title>
-  </programme>
-  <programme start="20261028105300 +0800" stop="20261028110000 +0800" channel="france24">
-    <title lang="en">Short Cuts</title>
-  </programme>
-  <programme start="20261028105500 +0800" stop="20261028110000 +0800" channel="france24">
-    <title lang="en">L'instant mobile</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028111500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028111500 +0800" channel="france24">
-    <title lang="en">L'édition nuit : le journal[Live]</title>
-  </programme>
-  <programme start="20261028111500 +0800" stop="20261028113000 +0800" channel="france24">
-    <title lang="en">France In Focus</title>
-  </programme>
-  <programme start="20261028111500 +0800" stop="20261028113000 +0800" channel="france24">
-    <title lang="en">Actuelles</title>
-  </programme>
-  <programme start="20261028113000 +0800" stop="20261028114500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028113000 +0800" stop="20261028114500 +0800" channel="france24">
-    <title lang="en">L'édition nuit : le journal[Live]</title>
-  </programme>
-  <programme start="20261028114500 +0800" stop="20261028120000 +0800" channel="france24">
-    <title lang="en">Reporters</title>
-  </programme>
-  <programme start="20261028114500 +0800" stop="20261028115100 +0800" channel="france24">
-    <title lang="en">#Pas2quartier</title>
-  </programme>
-  <programme start="20261028115100 +0800" stop="20261028120000 +0800" channel="france24">
-    <title lang="en">Focus</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028121500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028121500 +0800" channel="france24">
-    <title lang="en">L'édition nuit : le journal[Live]</title>
-  </programme>
-  <programme start="20261028121500 +0800" stop="20261028123000 +0800" channel="france24">
-    <title lang="en">Eye On Africa</title>
-  </programme>
-  <programme start="20261028121500 +0800" stop="20261028124500 +0800" channel="france24">
-    <title lang="en">Aux avant-postes</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028124500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028124500 +0800" stop="20261028130000 +0800" channel="france24">
-    <title lang="en">Arts24</title>
-  </programme>
-  <programme start="20261028124500 +0800" stop="20261028130000 +0800" channel="france24">
-    <title lang="en">Le journal de l'Afrique</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028132000 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028132200 +0800" channel="france24">
-    <title lang="en">A la une : le journal[Live]</title>
-  </programme>
-  <programme start="20261028132000 +0800" stop="20261028133000 +0800" channel="france24">
-    <title lang="en">Focus[Live]</title>
-  </programme>
-  <programme start="20261028132200 +0800" stop="20261028133000 +0800" channel="france24">
-    <title lang="en">Focus[Live]</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028135000 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028135100 +0800" channel="france24">
-    <title lang="en">A la une : le journal[Live]</title>
-  </programme>
-  <programme start="20261028135000 +0800" stop="20261028135100 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028135100 +0800" stop="20261028140000 +0800" channel="france24">
-    <title lang="en">Sports</title>
-  </programme>
-  <programme start="20261028135100 +0800" stop="20261028140000 +0800" channel="france24">
-    <title lang="en">Sports</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028142000 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028141600 +0800" channel="france24">
-    <title lang="en">A la une : le journal[Live]</title>
-  </programme>
-  <programme start="20261028141600 +0800" stop="20261028142100 +0800" channel="france24">
-    <title lang="en">Dans la presse[Live]</title>
-  </programme>
-  <programme start="20261028142000 +0800" stop="20261028143000 +0800" channel="france24">
-    <title lang="en">Press Review[Live]</title>
-  </programme>
-  <programme start="20261028142100 +0800" stop="20261028143000 +0800" channel="france24">
-    <title lang="en">Reportages[Live]</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028144500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028144600 +0800" channel="france24">
-    <title lang="en">A la une : le journal[Live]</title>
-  </programme>
-  <programme start="20261028144500 +0800" stop="20261028145000 +0800" channel="france24">
-    <title lang="en">Global Grid[Live]</title>
-  </programme>
-  <programme start="20261028144600 +0800" stop="20261028145100 +0800" channel="france24">
-    <title lang="en">L'info éco</title>
-  </programme>
-  <programme start="20261028145000 +0800" stop="20261028150000 +0800" channel="france24">
-    <title lang="en">Focus</title>
-  </programme>
-  <programme start="20261028145100 +0800" stop="20261028150000 +0800" channel="france24">
-    <title lang="en">Focus</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028152000 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028151500 +0800" channel="france24">
-    <title lang="en">A la une : le journal[Live]</title>
-  </programme>
-  <programme start="20261028151500 +0800" stop="20261028153000 +0800" channel="france24">
-    <title lang="en">L'invité de A la Une[Live]</title>
-  </programme>
-  <programme start="20261028152000 +0800" stop="20261028153000 +0800" channel="france24">
-    <title lang="en">Press Review</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028154500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028154600 +0800" channel="france24">
-    <title lang="en">A la une : le journal[Live]</title>
-  </programme>
-  <programme start="20261028154500 +0800" stop="20261028155000 +0800" channel="france24">
-    <title lang="en">Focus</title>
-  </programme>
-  <programme start="20261028154600 +0800" stop="20261028160000 +0800" channel="france24">
-    <title lang="en">Dans la presse</title>
-  </programme>
-  <programme start="20261028155000 +0800" stop="20261028155600 +0800" channel="france24">
-    <title lang="en">Sports</title>
-  </programme>
-  <programme start="20261028155600 +0800" stop="20261028160000 +0800" channel="france24">
-    <title lang="en">Headlines[Live]</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028161500 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028162200 +0800" channel="france24">
-    <title lang="en">Parlons-en : le journal[Live]</title>
-  </programme>
-  <programme start="20261028161500 +0800" stop="20261028162100 +0800" channel="france24">
-    <title lang="en">Business[Live]</title>
-  </programme>
-  <programme start="20261028162100 +0800" stop="20261028163000 +0800" channel="france24">
-    <title lang="en">Press Review[Live]</title>
-  </programme>
-  <programme start="20261028162200 +0800" stop="20261028163000 +0800" channel="france24">
-    <title lang="en">L'info éco</title>
-  </programme>
-  <programme start="20261028163000 +0800" stop="20261028164000 +0800" channel="france24">
-    <title lang="en">News[Live]</title>
-  </programme>
-  <programme start="20261028163000 +0800" stop="20261028164200 +0800" channel="france24">
-    <title lang="en">Parlons-en : le journal[Live]</title>
-  </programme>
-  <programme start="20261028164000 +0800" stop="20261028164500 +0800" channel="france24">
-    <title lang="en">Perspective[Live]</title>
-  </programme>
-  <programme start="20261028164200 +0800" stop="20261028164700 +0800" channel="france24">
-    <title lang="en">Dans la presse[Live]</title>
-  </programme>
-  <programme start="20261028164500 +0800" stop="20261028165000 +0800" channel="france24">
-    <title lang="en">Focus</title>
-  </programme>
-  <programme start="20261028164700 +0800" stop="20261028165200 +0800" channel="france24">
-    <title lang="en">Focus</title>
-  </programme>
-  <programme start="20261028165000 +0800" stop="20261028170000 +0800" channel="france24">
-    <title lang="en">Sports</title>
-  </programme>
-  <programme start="20261028165200 +0800" stop="20261028170000 +0800" channel="france24">
-    <title lang="en">Sports</title>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028171500 +0800" channel="france24">
     <title lang="en">News[Live]</title>
@@ -46614,18 +46622,6 @@
   <programme start="20261028002500 +0800" stop="20261028011500 +0800" channel="hbo">
     <title lang="en">The Pitt S1E2</title>
   </programme>
-  <programme start="20261028071000 +0800" stop="20261028095000 +0800" channel="hbo">
-    <title lang="en">Elvis</title>
-  </programme>
-  <programme start="20261028095000 +0800" stop="20261028120500 +0800" channel="hbo">
-    <title lang="en">Song Sung Blue</title>
-  </programme>
-  <programme start="20261028120500 +0800" stop="20261028133500 +0800" channel="hbo">
-    <title lang="en">A Christmas Mystery</title>
-  </programme>
-  <programme start="20261028133500 +0800" stop="20261028154000 +0800" channel="hbo">
-    <title lang="en">Baywatch</title>
-  </programme>
   <programme start="20261028154000 +0800" stop="20261028175000 +0800" channel="hbo">
     <title lang="en">Superman II</title>
   </programme>
@@ -47009,54 +47005,6 @@
   </programme>
   <programme start="20261027225000 +0800" stop="20261028005000 +0800" channel="hbofamily">
     <title lang="en">Warcraft</title>
-  </programme>
-  <programme start="20261028090000 +0800" stop="20261028093000 +0800" channel="hbofamily">
-    <title lang="en">Class Of 3000 S1E17 -Tamika And The Beast</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028102000 +0800" channel="hbofamily">
-    <title lang="en">The Titan Games S1E7 -The Titan Games Trials 7</title>
-  </programme>
-  <programme start="20261028102000 +0800" stop="20261028103100 +0800" channel="hbofamily">
-    <title lang="en">Over The Garden Wall S1E5 -Chapter 5: Mad Love</title>
-  </programme>
-  <programme start="20261028103100 +0800" stop="20261028104200 +0800" channel="hbofamily">
-    <title lang="en">Over The Garden Wall S1E6 -Chapter 6: Lullaby In Frogland</title>
-  </programme>
-  <programme start="20261028104200 +0800" stop="20261028110000 +0800" channel="hbofamily">
-    <title lang="en">Over The Garden Wall S1E7 -Chapter 7: The Ringing Of The Bell</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028110700 +0800" channel="hbofamily">
-    <title lang="en">Uncle Grandpa S4E12 -A Gift For Gus</title>
-  </programme>
-  <programme start="20261028110700 +0800" stop="20261028111800 +0800" channel="hbofamily">
-    <title lang="en">Uncle Grandpa S4E13 -Robo-Ug</title>
-  </programme>
-  <programme start="20261028111800 +0800" stop="20261028112900 +0800" channel="hbofamily">
-    <title lang="en">Uncle Grandpa S4E14 -Lil Mac</title>
-  </programme>
-  <programme start="20261028112900 +0800" stop="20261028114500 +0800" channel="hbofamily">
-    <title lang="en">Uncle Grandpa S4E15 -Disappearing Act</title>
-  </programme>
-  <programme start="20261028114500 +0800" stop="20261028131500 +0800" channel="hbofamily">
-    <title lang="en">The Secret Life Of Pets 2</title>
-  </programme>
-  <programme start="20261028131500 +0800" stop="20261028150000 +0800" channel="hbofamily">
-    <title lang="en">The Polar Express</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028152300 +0800" channel="hbofamily">
-    <title lang="en">Ben 10: Alien Force S2E5 -Simple</title>
-  </programme>
-  <programme start="20261028152300 +0800" stop="20261028154500 +0800" channel="hbofamily">
-    <title lang="en">Ben 10: Alien Force S2E6 -Don't Fear The Repo</title>
-  </programme>
-  <programme start="20261028154500 +0800" stop="20261028160700 +0800" channel="hbofamily">
-    <title lang="en">Ben 10: Alien Force S2E7 -Single Handed</title>
-  </programme>
-  <programme start="20261028160700 +0800" stop="20261028163500 +0800" channel="hbofamily">
-    <title lang="en">Ben 10: Alien Force S2E8 -If All Else Fails</title>
-  </programme>
-  <programme start="20261028163500 +0800" stop="20261028170000 +0800" channel="hbofamily">
-    <title lang="en">Class Of 3000 S1E18 -Safety Last</title>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028172500 +0800" channel="hbofamily">
     <title lang="en">Class Of 3000 S1E19 -Study Buddies</title>
@@ -47859,21 +47807,6 @@
   <programme start="20261027230000 +0800" stop="20261028004000 +0800" channel="hbohits">
     <title lang="en">Sully</title>
   </programme>
-  <programme start="20261028073000 +0800" stop="20261028091000 +0800" channel="hbohits">
-    <title lang="en">A Christmas Story Christmas</title>
-  </programme>
-  <programme start="20261028091000 +0800" stop="20261028105000 +0800" channel="hbohits">
-    <title lang="en">Sully</title>
-  </programme>
-  <programme start="20261028105000 +0800" stop="20261028112000 +0800" channel="hbohits">
-    <title lang="en">Hollywood On Set S1E1190</title>
-  </programme>
-  <programme start="20261028112000 +0800" stop="20261028132000 +0800" channel="hbohits">
-    <title lang="en">Father Of The Bride</title>
-  </programme>
-  <programme start="20261028132000 +0800" stop="20261028150000 +0800" channel="hbohits">
-    <title lang="en">Land Of Gold</title>
-  </programme>
   <programme start="20261028150000 +0800" stop="20261028174000 +0800" channel="hbohits">
     <title lang="en">Transformers: Age Of Extinction</title>
   </programme>
@@ -48158,24 +48091,6 @@
   </programme>
   <programme start="20261027234000 +0800" stop="20261028015500 +0800" channel="hbosignature">
     <title lang="en">Shutter Island</title>
-  </programme>
-  <programme start="20261028083000 +0800" stop="20261028091000 +0800" channel="hbosignature">
-    <title lang="en">The Fence</title>
-  </programme>
-  <programme start="20261028091000 +0800" stop="20261028100500 +0800" channel="hbosignature">
-    <title lang="en">The Gilded Age S2E7 -Wonders Never Cease</title>
-  </programme>
-  <programme start="20261028100500 +0800" stop="20261028115000 +0800" channel="hbosignature">
-    <title lang="en">Splitsville</title>
-  </programme>
-  <programme start="20261028115000 +0800" stop="20261028125000 +0800" channel="hbosignature">
-    <title lang="en">Saudi Women's Driving School</title>
-  </programme>
-  <programme start="20261028125000 +0800" stop="20261028140000 +0800" channel="hbosignature">
-    <title lang="en">Living With Lincoln</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028154500 +0800" channel="hbosignature">
-    <title lang="en">Prime Minister</title>
   </programme>
   <programme start="20261028154500 +0800" stop="20261028171000 +0800" channel="hbosignature">
     <title lang="en">The Leisure Class</title>
@@ -48554,33 +48469,6 @@
   </programme>
   <programme start="20261027234000 +0800" stop="20261028003500 +0800" channel="lovenature">
     <title lang="en">Wild Birds of Australia S1E1 -The Little Penguin</title>
-  </programme>
-  <programme start="20261028081500 +0800" stop="20261028091000 +0800" channel="lovenature">
-    <title lang="en">Survival of the Beast S1E1 -Desert-Adapted Elephant</title>
-  </programme>
-  <programme start="20261028091000 +0800" stop="20261028100500 +0800" channel="lovenature">
-    <title lang="en">America's Wild Seasons S1E2 -Summer</title>
-  </programme>
-  <programme start="20261028100500 +0800" stop="20261028110000 +0800" channel="lovenature">
-    <title lang="en">America's Wild Seasons S1E3 -Autumn</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028115000 +0800" channel="lovenature">
-    <title lang="en">Wild Birds of Australia S1E2 -Secret Life of the Emu</title>
-  </programme>
-  <programme start="20261028115000 +0800" stop="20261028124000 +0800" channel="lovenature">
-    <title lang="en">Mysteries of the Mekong S1E8 -Cambodia: Seasonal Cycles</title>
-  </programme>
-  <programme start="20261028124000 +0800" stop="20261028133500 +0800" channel="lovenature">
-    <title lang="en">Arabian Seas S1E4 -Defenders of the Reef</title>
-  </programme>
-  <programme start="20261028133500 +0800" stop="20261028143000 +0800" channel="lovenature">
-    <title lang="en">Arabian Seas S1E5 -A Turtle's Legacy</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028152500 +0800" channel="lovenature">
-    <title lang="en">Shadowlands S1E1 -Bound By Blood</title>
-  </programme>
-  <programme start="20261028152500 +0800" stop="20261028162000 +0800" channel="lovenature">
-    <title lang="en">America's Wild Seasons S1E2 -Summer</title>
   </programme>
   <programme start="20261028162000 +0800" stop="20261028171500 +0800" channel="lovenature">
     <title lang="en">America's Wild Seasons S1E3 -Autumn</title>
@@ -49120,39 +49008,6 @@
     <title lang="en">MUW 26/27 E6 -Liverpool v United</title>
   </programme>
   <programme start="20261028001500 +0800" stop="20261028003000 +0800" channel="mutv">
-    <title lang="en">Player Spotlight E42 -MUW: Swedes in Manchester</title>
-  </programme>
-  <programme start="20261028075500 +0800" stop="20261028100000 +0800" channel="mutv">
-    <title lang="en">U18s Replayed 26/27 E9 -Burnley v United</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028120000 +0800" channel="mutv">
-    <title lang="en">All The Goals E15 -Rooney</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028124500 +0800" channel="mutv">
-    <title lang="en">The Official Utd Podcast E201 -Inside Carrington Podcast - Breaking Barriers</title>
-  </programme>
-  <programme start="20261028124500 +0800" stop="20261028130000 +0800" channel="mutv">
-    <title lang="en">Top 20 Goals E40 -Top 20 European Away Goals</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028133000 +0800" channel="mutv">
-    <title lang="en">U18s Highlights 26/27 E8 -United v Liverpool</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028140000 +0800" channel="mutv">
-    <title lang="en">MUW 26/27 E2 -Highlights: MUW v Sheffield United</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028143000 +0800" channel="mutv">
-    <title lang="en">MUW 26/27 E4 -Highlights: Durham v MUW</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028144500 +0800" channel="mutv">
-    <title lang="en">MUW 26/27 E6 -Liverpool v United</title>
-  </programme>
-  <programme start="20261028144500 +0800" stop="20261028150000 +0800" channel="mutv">
-    <title lang="en">Player Spotlight E38 -Phallon Tullis-Joyce: New York v Manchester</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028154500 +0800" channel="mutv">
-    <title lang="en">The Official Utd Podcast E201 -Inside Carrington Podcast - Breaking Barriers</title>
-  </programme>
-  <programme start="20261028154500 +0800" stop="20261028155500 +0800" channel="mutv">
     <title lang="en">Player Spotlight E42 -MUW: Swedes in Manchester</title>
   </programme>
   <programme start="20261028155500 +0800" stop="20261028180000 +0800" channel="mutv">
@@ -49958,78 +49813,6 @@
   </programme>
   <programme start="20261028000000 +0800" stop="20261028003000 +0800" channel="nickelodeon">
     <title lang="en">The Patrick Star Show S5E501 -Retreat!/Sidekick Search</title>
-  </programme>
-  <programme start="20261028084000 +0800" stop="20261028090500 +0800" channel="nickelodeon">
-    <title lang="en">The Patrick Star Show S1E112 -Pearl Wants to Be a Star/Super Sitters</title>
-  </programme>
-  <programme start="20261028090500 +0800" stop="20261028092000 +0800" channel="nickelodeon">
-    <title lang="en">The Patrick Star Show S1E109 -Survivoring</title>
-  </programme>
-  <programme start="20261028092000 +0800" stop="20261028094500 +0800" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants S13E288 -Dopey Dick/Plankton and the Beanstalk</title>
-  </programme>
-  <programme start="20261028094500 +0800" stop="20261028100500 +0800" channel="nickelodeon">
-    <title lang="en">The Thundermans: Undercover S1E107 -Not So Fast and Furious</title>
-  </programme>
-  <programme start="20261028100500 +0800" stop="20261028103000 +0800" channel="nickelodeon">
-    <title lang="en">Danger Force S1E115 -Test Friends</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028105500 +0800" channel="nickelodeon">
-    <title lang="en">Henry Danger S2E213 -Opposite Universe</title>
-  </programme>
-  <programme start="20261028105500 +0800" stop="20261028112000 +0800" channel="nickelodeon">
-    <title lang="en">The Loud House S10E1007 -All Pets Are Off/Brain Man</title>
-  </programme>
-  <programme start="20261028112000 +0800" stop="20261028114000 +0800" channel="nickelodeon">
-    <title lang="en">The Loud House S1E122 -Dance, Dance Resolution/A Fair to Remember</title>
-  </programme>
-  <programme start="20261028114000 +0800" stop="20261028120000 +0800" channel="nickelodeon">
-    <title lang="en">The Loud House S2E223 -Not a Loud</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028122500 +0800" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants S17E334 -Kiss of the Nematode/Brainless Brawn</title>
-  </programme>
-  <programme start="20261028122500 +0800" stop="20261028124500 +0800" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants S13E278 -Squidferatu/Slappy Days</title>
-  </programme>
-  <programme start="20261028124500 +0800" stop="20261028130000 +0800" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants S12E265 -Bubble Bass's Tab</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028132000 +0800" channel="nickelodeon">
-    <title lang="en">The Marsupilamis S1E114 -Shell-shock/The Amazing Coat Man</title>
-  </programme>
-  <programme start="20261028132000 +0800" stop="20261028134500 +0800" channel="nickelodeon">
-    <title lang="en">The Patrick Star Show S4E406 -Sea Haw/Li'l Past-cals</title>
-  </programme>
-  <programme start="20261028134500 +0800" stop="20261028140000 +0800" channel="nickelodeon">
-    <title lang="en">The Patrick Star Show S2E210 -Much Tofu About Nothing</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028142000 +0800" channel="nickelodeon">
-    <title lang="en">The Loud House S3E305 -City Slickers/Fool Me Twice</title>
-  </programme>
-  <programme start="20261028142000 +0800" stop="20261028144500 +0800" channel="nickelodeon">
-    <title lang="en">The Loud House S8E805 -Europe Road Trip: A Knight to Remember</title>
-  </programme>
-  <programme start="20261028144500 +0800" stop="20261028151000 +0800" channel="nickelodeon">
-    <title lang="en">The Loud House S8E806 -Europe Road Trip: Nonna Your Business/Europe Road Trip: Alpining Away</title>
-  </programme>
-  <programme start="20261028151000 +0800" stop="20261028153000 +0800" channel="nickelodeon">
-    <title lang="en">The Loud House S8E807 -Europe Road Trip: A Bite of Transylvania/Europe Road Trip: Greece is the Word</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028155000 +0800" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants S12E250 -Broken Alarm/Karen's Baby</title>
-  </programme>
-  <programme start="20261028155000 +0800" stop="20261028160000 +0800" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants S11E231 -My Leg!</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028162500 +0800" channel="nickelodeon">
-    <title lang="en">The Patrick Star Show S5E502 -Mass Gramp-nosis/Cart of Darkness</title>
-  </programme>
-  <programme start="20261028162500 +0800" stop="20261028164000 +0800" channel="nickelodeon">
-    <title lang="en">The Patrick Star Show S4E405 -Rube Tube</title>
-  </programme>
-  <programme start="20261028164000 +0800" stop="20261028170000 +0800" channel="nickelodeon">
-    <title lang="en">The Marsupilamis S1E106 -The Heat is on/Dig disaster</title>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028171500 +0800" channel="nickelodeon">
     <title lang="en">The Loud House S10E1009 -Hobblin' the Goblin</title>
@@ -51285,60 +51068,6 @@
   <programme start="20261028000000 +0800" stop="20261028003000 +0800" channel="now-ch328-hk">
     <title lang="en">NHK Newsline -E5036-288</title>
   </programme>
-  <programme start="20261028090000 +0800" stop="20261028093000 +0800" channel="now-ch328-hk">
-    <title lang="en">NHK Newsline -E5044-102</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028094500 +0800" channel="now-ch328-hk">
-    <title lang="en">Direct Talk -E5112-025</title>
-  </programme>
-  <programme start="20261028094500 +0800" stop="20261028100000 +0800" channel="now-ch328-hk">
-    <title lang="en">Japan's Top Inventions -E5125-010</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028103000 +0800" channel="now-ch328-hk">
-    <title lang="en">NHK Newsline -E5025-070</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028110000 +0800" channel="now-ch328-hk">
-    <title lang="en">Frontrunners -E5133-010</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028113000 +0800" channel="now-ch328-hk">
-    <title lang="en">NHK Newsline -E5026-072</title>
-  </programme>
-  <programme start="20261028113000 +0800" stop="20261028120000 +0800" channel="now-ch328-hk">
-    <title lang="en">Science View -E5102-008</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028123000 +0800" channel="now-ch328-hk">
-    <title lang="en">NHK Newsline -E5027-070</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028130000 +0800" channel="now-ch328-hk">
-    <title lang="en">The Garden Way -E5211-021</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028133000 +0800" channel="now-ch328-hk">
-    <title lang="en">NHK Newsline -E5028-069</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028140000 +0800" channel="now-ch328-hk">
-    <title lang="en">Dive In Tokyo -E5132-009</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028143000 +0800" channel="now-ch328-hk">
-    <title lang="en">Newsline Asia 24 -E5045-050</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028144500 +0800" channel="now-ch328-hk">
-    <title lang="en">Direct Talk -E5112-025</title>
-  </programme>
-  <programme start="20261028144500 +0800" stop="20261028150000 +0800" channel="now-ch328-hk">
-    <title lang="en">Japan's Top Inventions -E5125-010</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028153000 +0800" channel="now-ch328-hk">
-    <title lang="en">Newsline Asia 24 -E5046-049</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028160000 +0800" channel="now-ch328-hk">
-    <title lang="en">Frontrunners -E5133-010</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028163000 +0800" channel="now-ch328-hk">
-    <title lang="en">NHK Newsline -E5031-070</title>
-  </programme>
-  <programme start="20261028163000 +0800" stop="20261028170000 +0800" channel="now-ch328-hk">
-    <title lang="en">The Garden Way -E5211-021</title>
-  </programme>
   <programme start="20261028170000 +0800" stop="20261028173000 +0800" channel="now-ch328-hk">
     <title lang="en">NHK Newsline -E5032-069</title>
   </programme>
@@ -52524,42 +52253,6 @@
   <programme start="20261028000000 +0800" stop="20261028003000 +0800" channel="now-sports-620-hk">
     <title lang="en">MATCH HIGHLIGHTS -LIV v BHA MW08</title>
   </programme>
-  <programme start="20261028090000 +0800" stop="20261028100000 +0800" channel="now-sports-620-hk">
-    <title lang="en">GENERATION xG</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028110000 +0800" channel="now-sports-620-hk">
-    <title lang="en">PL REVIEW E8</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028113000 +0800" channel="now-sports-620-hk">
-    <title lang="en">MATCH HIGHLIGHTS -LIV v BHA MW08</title>
-  </programme>
-  <programme start="20261028113000 +0800" stop="20261028120000 +0800" channel="now-sports-620-hk">
-    <title lang="en">PL REWIND -ADAM LALLANA: MY PREMIER LEAGUE YEARS</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028123000 +0800" channel="now-sports-620-hk">
-    <title lang="en">PL REWIND -ROBBIE FOWLER: MY LIVERPOOL YEARS</title>
-  </programme>
-  <programme start="20261028123000 +0800" stop="20261028130000 +0800" channel="now-sports-620-hk">
-    <title lang="en">MATCH HIGHLIGHTS -CHE v TOT MW08</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028133000 +0800" channel="now-sports-620-hk">
-    <title lang="en">NETBUSTERS E8</title>
-  </programme>
-  <programme start="20261028133000 +0800" stop="20261028143000 +0800" channel="now-sports-620-hk">
-    <title lang="en">GOALS OF THE SEASON 19/20</title>
-  </programme>
-  <programme start="20261028143000 +0800" stop="20261028150000 +0800" channel="now-sports-620-hk">
-    <title lang="en">MATCH HIGHLIGHTS -AVL v MCI MW08</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028153000 +0800" channel="now-sports-620-hk">
-    <title lang="en">MATCH HIGHLIGHTS -HUL v BRE MW08</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028163000 +0800" channel="now-sports-620-hk">
-    <title lang="en">PL MOMENTS -STEVE MCMANAMAN</title>
-  </programme>
-  <programme start="20261028163000 +0800" stop="20261028170000 +0800" channel="now-sports-620-hk">
-    <title lang="en">PL REWIND -ROBBIE FOWLER: MY LIVERPOOL YEARS</title>
-  </programme>
   <programme start="20261028170000 +0800" stop="20261028180000 +0800" channel="now-sports-620-hk">
     <title lang="en">PL REVIEW E8</title>
   </programme>
@@ -53163,30 +52856,6 @@
   <programme start="20261028000000 +0800" stop="20261028010000 +0800" channel="nowsport4k1">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20261028090000 +0800" stop="20261028100000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028110000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028120000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028130000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028130000 +0800" stop="20261028140000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028150000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028150000 +0800" stop="20261028160000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028160000 +0800" stop="20261028170000 +0800" channel="nowsport4k1">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20261028170000 +0800" stop="20261028180000 +0800" channel="nowsport4k1">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -53616,18 +53285,6 @@
   <programme start="20261028000000 +0800" stop="20261028020000 +0800" channel="nowsport4k2">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20261028080000 +0800" stop="20261028100000 +0800" channel="nowsport4k2">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028120000 +0800" channel="nowsport4k2">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028140000 +0800" channel="nowsport4k2">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028160000 +0800" channel="nowsport4k2">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20261028160000 +0800" stop="20261028180000 +0800" channel="nowsport4k2">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -53875,18 +53532,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028000000 +0800" stop="20261028020000 +0800" channel="nowsport4k3">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028100000 +0800" channel="nowsport4k3">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028120000 +0800" channel="nowsport4k3">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028120000 +0800" stop="20261028140000 +0800" channel="nowsport4k3">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20261028140000 +0800" stop="20261028160000 +0800" channel="nowsport4k3">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20261028160000 +0800" stop="20261028180000 +0800" channel="nowsport4k3">
@@ -54192,42 +53837,6 @@
   <programme start="20261027225000 +0800" stop="20261028004000 +0800" channel="premiersports">
     <title lang="en">Top 14 -Racing 92 v Montpellier</title>
   </programme>
-  <programme start="20261028074000 +0800" stop="20261028093000 +0800" channel="premiersports">
-    <title lang="en">Gallagher Premiership -Harlequins v Saracens</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028094500 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -Port Adelaide v Collingwood</title>
-  </programme>
-  <programme start="20261028094500 +0800" stop="20261028100000 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -St Kilda v Brisbane</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028101500 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -Geelong v Fremantle</title>
-  </programme>
-  <programme start="20261028101500 +0800" stop="20261028103000 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -Gold Coast v Richmond</title>
-  </programme>
-  <programme start="20261028103000 +0800" stop="20261028104500 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -Bulldogs v Melbourne</title>
-  </programme>
-  <programme start="20261028104500 +0800" stop="20261028110000 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -Sydney v West Coast</title>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028111500 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -North Melbourne v Adelaide</title>
-  </programme>
-  <programme start="20261028111500 +0800" stop="20261028113000 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -Hawthorn v Essendon</title>
-  </programme>
-  <programme start="20261028113000 +0800" stop="20261028115000 +0800" channel="premiersports">
-    <title lang="en">AFLW Highlights -Carlton v GWS Giants</title>
-  </programme>
-  <programme start="20261028115000 +0800" stop="20261028134000 +0800" channel="premiersports">
-    <title lang="en">United Rugby Championship -Bulls v Ulster</title>
-  </programme>
-  <programme start="20261028134000 +0800" stop="20261028153000 +0800" channel="premiersports">
-    <title lang="en">United Rugby Championship -Stormers v Scarlets</title>
-  </programme>
   <programme start="20261028153000 +0800" stop="20261028172000 +0800" channel="premiersports">
     <title lang="en">United Rugby Championship -Leinster v Munster</title>
   </programme>
@@ -54334,15 +53943,15 @@
     <title lang="en">5 and 6 Nations Classics -2014 - France v Ireland</title>
   </programme>
   <programme start="20261030122000 +0800" stop="20261030142000 +0800" channel="premiersports">
-    <title lang="en">Wheelchair RLWC26 -England vs Wales[Live]</title>
+    <title lang="en">Wheelchair RLWC26 -England v Wales[Live]</title>
   </programme>
-  <programme start="20261030142000 +0800" stop="20261030143000 +0800" channel="premiersports">
+  <programme start="20261030142000 +0800" stop="20261030142500 +0800" channel="premiersports">
     <title lang="en">Premier Sports Extra</title>
   </programme>
-  <programme start="20261030143000 +0800" stop="20261030164500 +0800" channel="premiersports">
+  <programme start="20261030142500 +0800" stop="20261030163000 +0800" channel="premiersports">
     <title lang="en">Women's RLWC26 -England v Samoa[Live]</title>
   </programme>
-  <programme start="20261030164500 +0800" stop="20261030193000 +0800" channel="premiersports">
+  <programme start="20261030163000 +0800" stop="20261030193000 +0800" channel="premiersports">
     <title lang="en">RLWC26 -England v Papua New Guinea[Live]</title>
   </programme>
   <programme start="20261030193000 +0800" stop="20261030200000 +0800" channel="premiersports">
@@ -54665,48 +54274,6 @@
   </programme>
   <programme start="20261028001000 +0800" stop="20261028004000 +0800" channel="tlc">
     <title lang="en">The Mountain Kitchen S1E8 -Ranch Birthday Party</title>
-  </programme>
-  <programme start="20261028083500 +0800" stop="20261028090500 +0800" channel="tlc">
-    <title lang="en">The Mountain Kitchen S1E8 -Ranch Birthday Party</title>
-  </programme>
-  <programme start="20261028090500 +0800" stop="20261028093000 +0800" channel="tlc">
-    <title lang="en">Girl Meets Farm S14E3 -Asian-Inspired Football Fabulousness</title>
-  </programme>
-  <programme start="20261028093000 +0800" stop="20261028100000 +0800" channel="tlc">
-    <title lang="en">Girl Meets Farm S14E4 -Sing-Along On The Farm</title>
-  </programme>
-  <programme start="20261028100000 +0800" stop="20261028102500 +0800" channel="tlc">
-    <title lang="en">Unique Sweets S6E11 -Nod To Nostalgia</title>
-  </programme>
-  <programme start="20261028102500 +0800" stop="20261028105500 +0800" channel="tlc">
-    <title lang="en">Unique Sweets S6E12 -Sweetlandia</title>
-  </programme>
-  <programme start="20261028105500 +0800" stop="20261028115000 +0800" channel="tlc">
-    <title lang="en">Anthony Bourdain: No Reservations S5E1 -Chicago</title>
-  </programme>
-  <programme start="20261028115000 +0800" stop="20261028124500 +0800" channel="tlc">
-    <title lang="en">Silos Baking Competition S1E3 -Silos Baking Competition Down To The Wire</title>
-  </programme>
-  <programme start="20261028124500 +0800" stop="20261028134000 +0800" channel="tlc">
-    <title lang="en">Love &amp; Translation S1E8 -You Lost Me At Arigato</title>
-  </programme>
-  <programme start="20261028134000 +0800" stop="20261028140500 +0800" channel="tlc">
-    <title lang="en">Girl Meets Farm S14E3 -Asian-Inspired Football Fabulousness</title>
-  </programme>
-  <programme start="20261028140500 +0800" stop="20261028143500 +0800" channel="tlc">
-    <title lang="en">Girl Meets Farm S14E4 -Sing-Along On The Farm</title>
-  </programme>
-  <programme start="20261028143500 +0800" stop="20261028153000 +0800" channel="tlc">
-    <title lang="en">Renovation Impossible S1E8 -Next Gen Reno</title>
-  </programme>
-  <programme start="20261028153000 +0800" stop="20261028155500 +0800" channel="tlc">
-    <title lang="en">Ugliest House In America S5E1 -The Hideous Midwest</title>
-  </programme>
-  <programme start="20261028155500 +0800" stop="20261028162500 +0800" channel="tlc">
-    <title lang="en">Ugliest House In America S5E2 -Unpleasant Pacific Northwest</title>
-  </programme>
-  <programme start="20261028162500 +0800" stop="20261028165000 +0800" channel="tlc">
-    <title lang="en">Carnival Cravings With Anthony Anderson S1E5 -San Diego On A Stick</title>
   </programme>
   <programme start="20261028165000 +0800" stop="20261028172000 +0800" channel="tlc">
     <title lang="en">Carnival Cravings With Anthony Anderson S1E6 -Lobster Dogs And So-Cal Sundaes</title>
